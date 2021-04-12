@@ -3,7 +3,6 @@
 Where's my p5js.editor stuff?
 
 ```
-[] env param for user_name jht1493
 [] github pages
 
 -------------------------------------------------------------------------------
@@ -19,5 +18,8 @@ curl https://editor.p5js.org/editor/projects/xt90rp8XO/zip -o "skt/1.1 draw_rect
 https://p5-project-downloader.herokuapp.com/
 https://github.com/jnsjknn/p5-project-downloader
 
+-------------------------------------------------------------------------------
+
+[x] env param for user_name jht1493
 
 ```
