@@ -1,5 +1,5 @@
 # Sketches for jht1493
-820 sketches  
+824 sketches  
 [1.1 draw_rect](https://editor.p5js.org/jht1493/sketches/WJFtFBmnK)<!-- 2021-03-21T20:48:04.012Z -->  
 [1.1 draw_rect_alpha](https://editor.p5js.org/jht1493/sketches/6mrwOv4RD)<!-- 2021-04-10T03:22:07.691Z -->  
 [1.1 draw_rect_createSpan](https://editor.p5js.org/jht1493/sketches/C83N_DY9w)<!-- 2021-04-10T03:23:29.631Z -->  
@@ -134,8 +134,12 @@
 [2.2.9  variable edge obj 2](https://editor.p5js.org/jht1493/sketches/y98Qq3YM9)<!-- 2021-03-23T19:57:01.354Z -->  
 [2.2.9 - make your own variable - growing circle remainder](https://editor.p5js.org/jht1493/sketches/P9xSA4D7d)<!-- 2021-03-23T19:57:09.851Z -->  
 [2.2.9 - variable edge](https://editor.p5js.org/jht1493/sketches/PEuN_WPty)<!-- 2021-03-23T19:57:20.781Z -->  
-[2.2.9 - variable edge draw_obj](https://editor.p5js.org/jht1493/sketches/nDGl7usRr)<!-- 2021-03-23T19:57:31.047Z -->  
+[2.2.9 - variable edge draw_obj](https://editor.p5js.org/jht1493/sketches/nDGl7usRr)<!-- 2021-04-12T22:23:43.792Z -->  
+[2.2.9 - variable edge draw_obj  4](https://editor.p5js.org/jht1493/sketches/xrRh-agtb)<!-- 2021-04-12T22:46:31.490Z -->  
+[2.2.9 - variable edge draw_obj 3](https://editor.p5js.org/jht1493/sketches/ooX7GXRAY)<!-- 2021-04-12T22:32:18.075Z -->  
 [2.2.9 - variable edge draw_obj 3](https://editor.p5js.org/jht1493/sketches/g_NFzcbcq)<!-- 2021-03-23T19:57:39.543Z -->  
+[2.2.9 - variable edge draw_obj 3 1](https://editor.p5js.org/jht1493/sketches/671V38UbT)<!-- 2021-04-12T22:39:43.997Z -->  
+[2.2.9 - variable edge draw_obj 3 2](https://editor.p5js.org/jht1493/sketches/Gn_EvYwrP)<!-- 2021-04-12T22:44:13.309Z -->  
 [2.2.9 - variable edge draw_obj 3 alpha](https://editor.p5js.org/jht1493/sketches/GJWDvxs6d)<!-- 2021-03-23T19:57:52.273Z -->  
 [2.2.9 - variable edge draw_obj 3 alpha 1](https://editor.p5js.org/jht1493/sketches/nFRMBGVaU)<!-- 2021-03-23T19:58:12.432Z -->  
 [2.2.9 - variable edge draw_obj 3 alpha 5](https://editor.p5js.org/jht1493/sketches/58CvXXSE8)<!-- 2021-03-23T19:58:21.466Z -->  
@@ -543,7 +547,7 @@
 [grid loop 2](https://editor.p5js.org/jht1493/sketches/ptUxfyR2n)<!-- 2020-09-30T21:26:18.135Z -->  
 [grid loop 3](https://editor.p5js.org/jht1493/sketches/kBjlbdi5T)<!-- 2020-09-30T21:55:44.487Z -->  
 [grid loop 4](https://editor.p5js.org/jht1493/sketches/5sXqtvIQ7)<!-- 2020-09-30T21:56:16.037Z -->  
-[grid loop 5](https://editor.p5js.org/jht1493/sketches/5wbpgNva4)<!-- 2020-09-30T21:57:18.983Z -->  
+[grid loop 5](https://editor.p5js.org/jht1493/sketches/5wbpgNva4)<!-- 2021-04-12T20:59:52.870Z -->  
 [grid loop starter](https://editor.p5js.org/jht1493/sketches/9jQy06NyD)<!-- 2020-10-07T23:21:35.047Z -->  
 [grid loop starter color](https://editor.p5js.org/jht1493/sketches/wDpL5DxX9)<!-- 2020-10-06T16:21:21.234Z -->  
 [grid random](https://editor.p5js.org/jht1493/sketches/4i19q9liB)<!-- 2020-09-04T04:37:02.721Z -->  

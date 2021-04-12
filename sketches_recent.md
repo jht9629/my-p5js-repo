@@ -1,5 +1,11 @@
 # Sketches for jht1493
-820 sketches  
+824 sketches  
+[2.2.9 - variable edge draw_obj  4](https://editor.p5js.org/jht1493/sketches/xrRh-agtb)<!-- 2021-04-12T22:46:31.490Z -->  
+[2.2.9 - variable edge draw_obj 3 2](https://editor.p5js.org/jht1493/sketches/Gn_EvYwrP)<!-- 2021-04-12T22:44:13.309Z -->  
+[2.2.9 - variable edge draw_obj 3 1](https://editor.p5js.org/jht1493/sketches/671V38UbT)<!-- 2021-04-12T22:39:43.997Z -->  
+[2.2.9 - variable edge draw_obj 3](https://editor.p5js.org/jht1493/sketches/ooX7GXRAY)<!-- 2021-04-12T22:32:18.075Z -->  
+[2.2.9 - variable edge draw_obj](https://editor.p5js.org/jht1493/sketches/nDGl7usRr)<!-- 2021-04-12T22:23:43.792Z -->  
+[grid loop 5](https://editor.p5js.org/jht1493/sketches/5wbpgNva4)<!-- 2021-04-12T20:59:52.870Z -->  
 [11.1: Live Video and createCapture](https://editor.p5js.org/jht1493/sketches/MtdR3vBcj)<!-- 2021-04-12T15:48:37.375Z -->  
 [gravity ball two objects 1 POJO](https://editor.p5js.org/jht1493/sketches/vA7I6jRfY)<!-- 2021-04-10T04:11:41.222Z -->  
 [2.1.4 mouseX mirror ui](https://editor.p5js.org/jht1493/sketches/I8zejgYIX)<!-- 2021-04-10T03:28:57.485Z -->  
@@ -207,7 +213,6 @@
 [2.2.9 - variable edge draw_obj 3 alpha 1](https://editor.p5js.org/jht1493/sketches/nFRMBGVaU)<!-- 2021-03-23T19:58:12.432Z -->  
 [2.2.9 - variable edge draw_obj 3 alpha](https://editor.p5js.org/jht1493/sketches/GJWDvxs6d)<!-- 2021-03-23T19:57:52.273Z -->  
 [2.2.9 - variable edge draw_obj 3](https://editor.p5js.org/jht1493/sketches/g_NFzcbcq)<!-- 2021-03-23T19:57:39.543Z -->  
-[2.2.9 - variable edge draw_obj](https://editor.p5js.org/jht1493/sketches/nDGl7usRr)<!-- 2021-03-23T19:57:31.047Z -->  
 [2.2.9 - variable edge](https://editor.p5js.org/jht1493/sketches/PEuN_WPty)<!-- 2021-03-23T19:57:20.781Z -->  
 [2.2.9 - make your own variable - growing circle remainder](https://editor.p5js.org/jht1493/sketches/P9xSA4D7d)<!-- 2021-03-23T19:57:09.851Z -->  
 [2.2.9  variable edge obj 2](https://editor.p5js.org/jht1493/sketches/y98Qq3YM9)<!-- 2021-03-23T19:57:01.354Z -->  
@@ -678,7 +683,6 @@
 [parts 3 hover](https://editor.p5js.org/jht1493/sketches/FQuUs0kYM)<!-- 2020-09-30T22:40:28.941Z -->  
 [create_checkbox grid](https://editor.p5js.org/jht1493/sketches/SKeY2q3MI)<!-- 2020-09-30T22:35:12.512Z -->  
 [part_hit color](https://editor.p5js.org/jht1493/sketches/Un9KFJDLT)<!-- 2020-09-30T22:16:20.947Z -->  
-[grid loop 5](https://editor.p5js.org/jht1493/sketches/5wbpgNva4)<!-- 2020-09-30T21:57:18.983Z -->  
 [grid loop 4](https://editor.p5js.org/jht1493/sketches/5sXqtvIQ7)<!-- 2020-09-30T21:56:16.037Z -->  
 [grid loop 3](https://editor.p5js.org/jht1493/sketches/kBjlbdi5T)<!-- 2020-09-30T21:55:44.487Z -->  
 [grid loop 2](https://editor.p5js.org/jht1493/sketches/ptUxfyR2n)<!-- 2020-09-30T21:26:18.135Z -->  
