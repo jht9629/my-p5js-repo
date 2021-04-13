@@ -2,7 +2,11 @@ const fs = require('fs-extra');
 const path = require('path');
 const axios = require('axios');
 
-const user_name = 'jht1493';
+require('dotenv').config();
+
+const user_name = process.env.USER_NAME || 'jht1493';
+console.log('user_name', user_name);
+
 const json_path = path.join(__dirname, '..', 'collections.json');
 const list_path = path.join(__dirname, '..', 'collections.md');
 const collection_href = `https://editor.p5js.org/editor/${user_name}/collections`;
