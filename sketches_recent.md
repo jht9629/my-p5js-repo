@@ -1,5 +1,12 @@
 # Sketches for jht1493
-824 sketches  
+829 sketches  
+[2.6.1 rotate mouseX](https://editor.p5js.org/jht1493/sketches/5f-4Wm_1H)<!-- 2021-04-14T16:05:29.856Z -->  
+[2.6.4 rotate mouseDragged ui](https://editor.p5js.org/jht1493/sketches/5ZIAjsbyB)<!-- 2021-04-14T16:00:24.326Z -->  
+[2.6.3 rotate ui](https://editor.p5js.org/jht1493/sketches/iYtC2NDy7)<!-- 2021-04-14T15:59:43.786Z -->  
+[2.6.2 rotate a_angle](https://editor.p5js.org/jht1493/sketches/mq4r5u0v3)<!-- 2021-04-14T15:53:55.396Z -->  
+[2.5 setup pattern draw_shape1 save](https://editor.p5js.org/jht1493/sketches/D34BIqcoE)<!-- 2021-04-14T14:56:28.427Z -->  
+[2 .5 setup pattern draw_shape1](https://editor.p5js.org/jht1493/sketches/OtE1lw_X2)<!-- 2021-04-14T14:56:09.274Z -->  
+[2.5 setup pattern draw_shape1 push](https://editor.p5js.org/jht1493/sketches/bsnMRzdZM)<!-- 2021-04-14T14:50:09.115Z -->  
 [2.2.9 - variable edge draw_obj  4](https://editor.p5js.org/jht1493/sketches/xrRh-agtb)<!-- 2021-04-12T22:46:31.490Z -->  
 [2.2.9 - variable edge draw_obj 3 2](https://editor.p5js.org/jht1493/sketches/Gn_EvYwrP)<!-- 2021-04-12T22:44:13.309Z -->  
 [2.2.9 - variable edge draw_obj 3 1](https://editor.p5js.org/jht1493/sketches/671V38UbT)<!-- 2021-04-12T22:39:43.997Z -->  
@@ -16,10 +23,8 @@
 [1.1 draw_rect_alpha](https://editor.p5js.org/jht1493/sketches/6mrwOv4RD)<!-- 2021-04-10T03:22:07.691Z -->  
 [1.1 draw_rect_log](https://editor.p5js.org/jht1493/sketches/NlCr2UD2P)<!-- 2021-04-10T03:18:44.947Z -->  
 [3.1 circleX width ui lib](https://editor.p5js.org/jht1493/sketches/uGy4cEzbs)<!-- 2021-04-10T03:11:59.033Z -->  
-[2.5 setup pattern draw_shape1 save](https://editor.p5js.org/jht1493/sketches/D34BIqcoE)<!-- 2021-04-10T02:38:06.335Z -->  
 [2.4.3 shape1 alpha slow](https://editor.p5js.org/jht1493/sketches/iNY8JDhzH)<!-- 2021-04-10T02:23:08.504Z -->  
 [2.4.2 shape1 alpha slow](https://editor.p5js.org/jht1493/sketches/-nqwIxze_)<!-- 2021-04-10T02:18:33.350Z -->  
-[2 .5 setup pattern draw_shape1](https://editor.p5js.org/jht1493/sketches/OtE1lw_X2)<!-- 2021-04-10T01:45:16.774Z -->  
 [2.5.3 draw_shape1 pattern2](https://editor.p5js.org/jht1493/sketches/huhUWN6Uc)<!-- 2021-04-10T01:39:58.184Z -->  
 [2.5 .1 draw_shape1](https://editor.p5js.org/jht1493/sketches/hgFw3__cZ)<!-- 2021-04-10T01:24:20.427Z -->  
 [2.5.2 draw_shape1 pattern](https://editor.p5js.org/jht1493/sketches/5JqwobAgJ)<!-- 2021-04-10T01:22:24.366Z -->  

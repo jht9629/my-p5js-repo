@@ -1,5 +1,5 @@
 # Sketches for jht1493
-824 sketches  
+829 sketches  
 [1.1 draw_rect](https://editor.p5js.org/jht1493/sketches/WJFtFBmnK)<!-- 2021-03-21T20:48:04.012Z -->  
 [1.1 draw_rect_alpha](https://editor.p5js.org/jht1493/sketches/6mrwOv4RD)<!-- 2021-04-10T03:22:07.691Z -->  
 [1.1 draw_rect_createSpan](https://editor.p5js.org/jht1493/sketches/C83N_DY9w)<!-- 2021-04-10T03:23:29.631Z -->  
@@ -78,7 +78,7 @@
 [17.7_soundEnvelope](https://editor.p5js.org/jht1493/sketches/1hNfw3M31)<!-- 2020-11-18T01:06:20.322Z -->  
 [17.8: Microphone Input](https://editor.p5js.org/jht1493/sketches/AjlzQD2gj)<!-- 2020-11-11T23:00:18.548Z -->  
 [17.8: Microphone Input FFT](https://editor.p5js.org/jht1493/sketches/oPtA9wxPL)<!-- 2020-11-11T23:01:28.499Z -->  
-[2 .5 setup pattern draw_shape1](https://editor.p5js.org/jht1493/sketches/OtE1lw_X2)<!-- 2021-04-10T01:45:16.774Z -->  
+[2 .5 setup pattern draw_shape1](https://editor.p5js.org/jht1493/sketches/OtE1lw_X2)<!-- 2021-04-14T14:56:09.274Z -->  
 [2:2  Linear v. Exp Brightness copy](https://editor.p5js.org/jht1493/sketches/oFIxEy3W8)<!-- 2020-11-04T20:28:56.320Z -->  
 [2:2 HSB swatches toolbox](https://editor.p5js.org/jht1493/sketches/bjqky4Tn4)<!-- 2020-11-04T00:38:18.046Z -->  
 [2:2 HSB swatches ui](https://editor.p5js.org/jht1493/sketches/nrrJkCazV)<!-- 2020-11-04T16:01:09.767Z -->  
@@ -176,7 +176,8 @@
 [2.5 .1 setup draw_shape](https://editor.p5js.org/jht1493/sketches/MX-qeqFTi)<!-- 2021-04-09T15:22:08.163Z -->  
 [2.5 map function ui](https://editor.p5js.org/jht1493/sketches/OGwu_nlNh)<!-- 2021-04-04T08:13:11.048Z -->  
 [2.5 map function ui](https://editor.p5js.org/jht1493/sketches/mBLvc2Xiz)<!-- 2021-03-29T02:13:00.790Z -->  
-[2.5 setup pattern draw_shape1 save](https://editor.p5js.org/jht1493/sketches/D34BIqcoE)<!-- 2021-04-10T02:38:06.335Z -->  
+[2.5 setup pattern draw_shape1 push](https://editor.p5js.org/jht1493/sketches/bsnMRzdZM)<!-- 2021-04-14T14:50:09.115Z -->  
+[2.5 setup pattern draw_shape1 save](https://editor.p5js.org/jht1493/sketches/D34BIqcoE)<!-- 2021-04-14T14:56:28.427Z -->  
 [2.5 shape1 alpha func xxx](https://editor.p5js.org/jht1493/sketches/CgEGxR-EK)<!-- 2021-04-04T06:06:21.303Z -->  
 [2.5.1 object scan](https://editor.p5js.org/jht1493/sketches/UTMOVgcsv)<!-- 2021-03-26T01:43:45.030Z -->  
 [2.5.1 random function scan x](https://editor.p5js.org/jht1493/sketches/XzrXlqxMN)<!-- 2021-03-24T00:56:00.965Z -->  
@@ -196,6 +197,10 @@
 [2.5.3 Rainbow Paintbrush ui](https://editor.p5js.org/jht1493/sketches/dojCKsdwQ)<!-- 2021-03-23T22:06:55.665Z -->  
 [2.5.4 draw_shape1 patter2 ui](https://editor.p5js.org/jht1493/sketches/jiS58glnK)<!-- 2021-04-04T07:42:16.445Z -->  
 [2.5.9 random function spot.x spot.y](https://editor.p5js.org/jht1493/sketches/9ss5dnb9t)<!-- 2021-03-24T01:03:42.839Z -->  
+[2.6.1 rotate mouseX](https://editor.p5js.org/jht1493/sketches/5f-4Wm_1H)<!-- 2021-04-14T16:05:29.856Z -->  
+[2.6.2 rotate a_angle](https://editor.p5js.org/jht1493/sketches/mq4r5u0v3)<!-- 2021-04-14T15:53:55.396Z -->  
+[2.6.3 rotate ui](https://editor.p5js.org/jht1493/sketches/iYtC2NDy7)<!-- 2021-04-14T15:59:43.786Z -->  
+[2.6.4 rotate mouseDragged ui](https://editor.p5js.org/jht1493/sketches/5ZIAjsbyB)<!-- 2021-04-14T16:00:24.326Z -->  
 [2.9 Ex_03_20 Two Creatures func](https://editor.p5js.org/jht1493/sketches/fRJikQjei)<!-- 2021-03-30T04:57:39.908Z -->  
 [2.9 Ex_03_20 Two Creatures jitter](https://editor.p5js.org/jht1493/sketches/bXmM8izjD)<!-- 2021-03-30T15:00:59.815Z -->  
 [2.9 Ex_03_20 Two Creatures param](https://editor.p5js.org/jht1493/sketches/ziOkogWgP)<!-- 2021-03-30T05:12:37.376Z -->  
