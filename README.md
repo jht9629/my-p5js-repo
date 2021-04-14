@@ -13,7 +13,7 @@ node nod/acollection_list.js
 -------------------------------------------------------------------------------
 # download sketch + assets to skt directory
 # skt/1.1 draw_rect - WJFtFBmnK
-curl https://editor.p5js.org/editor/projects/xt90rp8XO/zip -o "skt/1.1 draw_rect - WJFtFBmnK.zip"
+curl https://editor.p5js.org/editor/projects/WJFtFBmnK/zip -o "skt/1.1 draw_rect - WJFtFBmnK.zip"
 
 https://p5-project-downloader.herokuapp.com/
 https://github.com/jnsjknn/p5-project-downloader
