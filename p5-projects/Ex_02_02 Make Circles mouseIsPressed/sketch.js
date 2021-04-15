@@ -12,6 +12,6 @@ function draw() {
 }
 
 // https://editor.p5js.org/jht1493/sketches/un2SAKRVm
-// Ex_02_02 mouseIsPressed
+// Ex_02_02 Make Circles mouseIsPressed
 
 // https://github.com/lmccart/gswp5.js-code/blob/master/02_Start/Ex_02_02.js

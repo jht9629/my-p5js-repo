@@ -1,5 +1,3 @@
-let a_angle = 45;
-
 function setup() {
   createCanvas(400, 400);
   background(204);
@@ -13,7 +11,6 @@ function draw() {
   //   in order to see the full rotation on the screen
   //   must first translate the origin then rotate.
   rotate(mouseX / 20);
-  // rotate(a_angle);
 
   rect(10, 10, 20, 20);
   line(1, 1, 100, 1);

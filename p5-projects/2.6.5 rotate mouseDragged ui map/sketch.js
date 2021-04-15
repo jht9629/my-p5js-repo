@@ -1,8 +1,9 @@
-// let a_angle = 45;
 let a_angle = 0;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(400, 400).mousePressed( function () {
+    draw_it();
+  })
   background(204);
   angleMode(DEGREES);
   create_ui();
@@ -54,6 +55,9 @@ function create_ui() {
   })
   createSpan().id('angle');
 }
+
+// https://editor.p5js.org/jht1493/sketches/8ui42o3PL
+// 2.6.5 rotate mouseDragged ui map
 
 // https://editor.p5js.org/jht1493/sketches/5ZIAjsbyB
 // 2.6.4 rotate mouseDragged ui
