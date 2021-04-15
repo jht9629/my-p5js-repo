@@ -38,8 +38,9 @@ function cols_as_links(cols, lines) {
     let name = item.name;
     let id = item.id;
     let updatedAt = item.updatedAt;
+    updatedAt = `<!-- ${updatedAt} -->`;
     lines.push(
-      `[${name}](https://editor.p5js.org/${user_name}/collections/${id})<!-- ${updatedAt} -->  `
+      `[${name}](https://editor.p5js.org/${user_name}/collections/${id})${updatedAt}  `
     );
   });
 }
@@ -62,8 +63,10 @@ function cols_item_as_links(col, lines) {
     let name = item.project.name;
     let id = item.projectId;
     let updatedAt = item.updatedAt;
+    updatedAt = `<!-- ${updatedAt} -->`;
+    updatedAt = ''; // !!@ Disable
     lines.push(
-      `[${name}](https://editor.p5js.org/${user_name}/sketches/${id})<!-- ${updatedAt} -->  `
+      `[${name}](https://editor.p5js.org/${user_name}/sketches/${id})${updatedAt}  `
     );
   });
 }

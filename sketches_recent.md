@@ -1,7 +1,24 @@
 # Sketches for jht1493
-829 sketches  
-[2.6.1 rotate mouseX](https://editor.p5js.org/jht1493/sketches/5f-4Wm_1H)<!-- 2021-04-14T16:05:29.856Z -->  
-[2.6.4 rotate mouseDragged ui](https://editor.p5js.org/jht1493/sketches/5ZIAjsbyB)<!-- 2021-04-14T16:00:24.326Z -->  
+843 sketches  
+[Ex_11_04 Declare and Assign an Array](https://editor.p5js.org/jht1493/sketches/FghpP9uDR)<!-- 2021-04-15T05:30:32.396Z -->  
+[Ex_11_05 Assigning to an Array in One Go](https://editor.p5js.org/jht1493/sketches/n3apYawMJ)<!-- 2021-04-15T05:30:03.801Z -->  
+[Ex_11_10 Sequences of Images](https://editor.p5js.org/jht1493/sketches/-XbD5Gw0a)<!-- 2021-04-15T05:24:08.627Z -->  
+[Ex_11_09 Managing Many Objects](https://editor.p5js.org/jht1493/sketches/XDfmnW1JD)<!-- 2021-04-15T05:19:11.840Z -->  
+[Ex_11_08 Track Mouse Movements](https://editor.p5js.org/jht1493/sketches/pVd3PT6U3)<!-- 2021-04-15T05:14:08.801Z -->  
+[Ex_11_07 Filling an Array in a for Loop](https://editor.p5js.org/jht1493/sketches/BjH5BkIjj)<!-- 2021-04-15T05:07:49.394Z -->  
+[Ex_11_06 Revisiting the First Example](https://editor.p5js.org/jht1493/sketches/WSHfHkoyV)<!-- 2021-04-15T05:05:47.082Z -->  
+[Ex_11_03 Arrays, Not Variables](https://editor.p5js.org/jht1493/sketches/mJyTluseZ)<!-- 2021-04-15T05:01:32.484Z -->  
+[Ex_11_02 Too Many Variables](https://editor.p5js.org/jht1493/sketches/WNdXMzR_Q)<!-- 2021-04-15T04:47:02.983Z -->  
+[Ex_11_01 Many Variables](https://editor.p5js.org/jht1493/sketches/W26Y1uuiu)<!-- 2021-04-15T04:44:35.362Z -->  
+[Ex_10_02 Make Multiple Objects](https://editor.p5js.org/jht1493/sketches/K7PhkMWVi)<!-- 2021-04-15T04:34:18.107Z -->  
+[Ex_10_01 Make an Object](https://editor.p5js.org/jht1493/sketches/ls9cxovWM)<!-- 2021-04-15T04:21:27.464Z -->  
+[Ex_02_02 Make Circles mouseIsPressed](https://editor.p5js.org/jht1493/sketches/un2SAKRVm)<!-- 2021-04-15T04:18:15.382Z -->  
+[Ex_04_02 Change Values](https://editor.p5js.org/jht1493/sketches/Y2Qra2W_N)<!-- 2021-04-14T22:57:40.739Z -->  
+[Ex_04_05 Do the Same ui](https://editor.p5js.org/jht1493/sketches/pRo9UmATV)<!-- 2021-04-14T22:53:54.099Z -->  
+[Ex_04_05 Do the Same](https://editor.p5js.org/jht1493/sketches/nUqcuwlY9)<!-- 2021-04-14T22:50:07.929Z -->  
+[2.6.5 rotate mouseDragged ui map](https://editor.p5js.org/jht1493/sketches/8ui42o3PL)<!-- 2021-04-14T21:47:57.988Z -->  
+[2.6.4 rotate mouseDragged ui](https://editor.p5js.org/jht1493/sketches/5ZIAjsbyB)<!-- 2021-04-14T21:44:55.440Z -->  
+[2.6.1 rotate mouseX](https://editor.p5js.org/jht1493/sketches/5f-4Wm_1H)<!-- 2021-04-14T21:39:07.180Z -->  
 [2.6.3 rotate ui](https://editor.p5js.org/jht1493/sketches/iYtC2NDy7)<!-- 2021-04-14T15:59:43.786Z -->  
 [2.6.2 rotate a_angle](https://editor.p5js.org/jht1493/sketches/mq4r5u0v3)<!-- 2021-04-14T15:53:55.396Z -->  
 [2.5 setup pattern draw_shape1 save](https://editor.p5js.org/jht1493/sketches/D34BIqcoE)<!-- 2021-04-14T14:56:28.427Z -->  
@@ -58,7 +75,6 @@
 [Ex_04_06 Use a for Loop](https://editor.p5js.org/jht1493/sketches/h0eBcXsIC)<!-- 2021-04-04T23:19:41.886Z -->  
 [Ex_04_07 Flex Your for Loop’s](https://editor.p5js.org/jht1493/sketches/oVh1WhBVI)<!-- 2021-04-04T23:18:56.131Z -->  
 [Ex_04_03 Adjust the Canvas](https://editor.p5js.org/jht1493/sketches/T4ufWkYjs)<!-- 2021-04-04T23:15:01.657Z -->  
-[Ex_04_02 Change Values](https://editor.p5js.org/jht1493/sketches/Y2Qra2W_N)<!-- 2021-04-04T23:12:28.446Z -->  
 [Ex_04_99 Robot 2: Variable func](https://editor.p5js.org/jht1493/sketches/cyyCJGXOz)<!-- 2021-04-04T23:10:15.887Z -->  
 [Ex_04_99 Robot 2: func jiggle](https://editor.p5js.org/jht1493/sketches/D3QUVpQhx)<!-- 2021-04-04T23:09:28.502Z -->  
 [Ex_04_99 Robot 2: Variables](https://editor.p5js.org/jht1493/sketches/mJ_X4q47O)<!-- 2021-04-04T23:09:16.567Z -->  
@@ -168,7 +184,6 @@
 [Ex_08_05 Bounce Off the Wall](https://editor.p5js.org/jht1493/sketches/wJCzyVzBm)<!-- 2021-03-25T18:39:38.710Z -->  
 [Ex_08_04 Wrap Around](https://editor.p5js.org/jht1493/sketches/W_nCg2LI2)<!-- 2021-03-25T17:54:01.972Z -->  
 [Ex_03_19 beginShape](https://editor.p5js.org/jht1493/sketches/xFElx4UBj)<!-- 2021-03-25T12:50:09.698Z -->  
-[Ex_02_02 mouseIsPressed](https://editor.p5js.org/jht1493/sketches/un2SAKRVm)<!-- 2021-03-25T12:48:13.289Z -->  
 [Ex_03_04 quad tri](https://editor.p5js.org/jht1493/sketches/4ru5A30iE)<!-- 2021-03-25T12:47:25.027Z -->  
 [Ex_03_06 circles touch](https://editor.p5js.org/jht1493/sketches/R0o3EvVOC)<!-- 2021-03-25T12:46:54.987Z -->  
 [Ex_03_09 arcs](https://editor.p5js.org/jht1493/sketches/lj5UimD1G)<!-- 2021-03-25T12:46:25.822Z -->  
@@ -176,7 +191,6 @@
 [Ex_08_03 Move a Shape](https://editor.p5js.org/jht1493/sketches/DJ99paBR7)<!-- 2021-03-25T03:02:34.289Z -->  
 [Ex_03_17 alpha circles](https://editor.p5js.org/jht1493/sketches/sxI2SjRrh)<!-- 2021-03-25T02:51:36.907Z -->  
 [Ex_02_01 Draw an Ellipse](https://editor.p5js.org/jht1493/sketches/1jYHAXZRF)<!-- 2021-03-24T20:49:26.844Z -->  
-[Ex_04_05 Do the Same](https://editor.p5js.org/jht1493/sketches/nUqcuwlY9)<!-- 2021-03-24T20:43:17.273Z -->  
 [Ex_02_02 Make Circles](https://editor.p5js.org/jht1493/sketches/Cc8MICNun)<!-- 2021-03-24T20:17:37.973Z -->  
 [2.1.2 mouseX,mouseY arith](https://editor.p5js.org/jht1493/sketches/pmA0d9Uqt)<!-- 2021-03-24T18:59:36.907Z -->  
 [2.1.9 mouseX,mouseY funcs](https://editor.p5js.org/jht1493/sketches/tNEJXRA1V)<!-- 2021-03-24T18:05:04.884Z -->  
