@@ -1,5 +1,8 @@
 # Sketches for jht1493
-843 sketches  
+846 sketches  
+[Ex_10_99 Robot Object](https://editor.p5js.org/jht1493/sketches/8s8si6CU9)<!-- 2021-04-15T06:59:44.542Z -->  
+[Ex_11_99 Robot Array](https://editor.p5js.org/jht1493/sketches/dO-IXUHhr)<!-- 2021-04-15T06:58:07.792Z -->  
+[Ex_09_99 Robot Function](https://editor.p5js.org/jht1493/sketches/7QXYp9M8Z)<!-- 2021-04-15T06:19:23.121Z -->  
 [Ex_11_04 Declare and Assign an Array](https://editor.p5js.org/jht1493/sketches/FghpP9uDR)<!-- 2021-04-15T05:30:32.396Z -->  
 [Ex_11_05 Assigning to an Array in One Go](https://editor.p5js.org/jht1493/sketches/n3apYawMJ)<!-- 2021-04-15T05:30:03.801Z -->  
 [Ex_11_10 Sequences of Images](https://editor.p5js.org/jht1493/sketches/-XbD5Gw0a)<!-- 2021-04-15T05:24:08.627Z -->  

@@ -1,5 +1,5 @@
 # Sketches for jht1493
-843 sketches  
+846 sketches  
 [1.1 draw_rect](https://editor.p5js.org/jht1493/sketches/WJFtFBmnK)<!-- 2021-03-21T20:48:04.012Z -->  
 [1.1 draw_rect_alpha](https://editor.p5js.org/jht1493/sketches/6mrwOv4RD)<!-- 2021-04-10T03:22:07.691Z -->  
 [1.1 draw_rect_createSpan](https://editor.p5js.org/jht1493/sketches/C83N_DY9w)<!-- 2021-04-10T03:23:29.631Z -->  
@@ -497,8 +497,10 @@
 [Ex_09_07 Owls of Different Sizes](https://editor.p5js.org/jht1493/sketches/45Cv8Gi4i)<!-- 2021-04-05T03:43:53.781Z -->  
 [Ex_09_07 Owls of Different Sizes copy](https://editor.p5js.org/jht1493/sketches/Hlki31qgs)<!-- 2021-04-05T06:32:29.194Z -->  
 [Ex_09_08 Return a Value](https://editor.p5js.org/jht1493/sketches/xAc-jbG9y)<!-- 2021-04-05T03:42:10.300Z -->  
+[Ex_09_99 Robot Function](https://editor.p5js.org/jht1493/sketches/7QXYp9M8Z)<!-- 2021-04-15T06:19:23.121Z -->  
 [Ex_10_01 Make an Object](https://editor.p5js.org/jht1493/sketches/ls9cxovWM)<!-- 2021-04-15T04:21:27.464Z -->  
 [Ex_10_02 Make Multiple Objects](https://editor.p5js.org/jht1493/sketches/K7PhkMWVi)<!-- 2021-04-15T04:34:18.107Z -->  
+[Ex_10_99 Robot Object](https://editor.p5js.org/jht1493/sketches/8s8si6CU9)<!-- 2021-04-15T06:59:44.542Z -->  
 [Ex_11_01 Many Variables](https://editor.p5js.org/jht1493/sketches/W26Y1uuiu)<!-- 2021-04-15T04:44:35.362Z -->  
 [Ex_11_02 Too Many Variables](https://editor.p5js.org/jht1493/sketches/WNdXMzR_Q)<!-- 2021-04-15T04:47:02.983Z -->  
 [Ex_11_03 Arrays, Not Variables](https://editor.p5js.org/jht1493/sketches/mJyTluseZ)<!-- 2021-04-15T05:01:32.484Z -->  
@@ -509,6 +511,7 @@
 [Ex_11_08 Track Mouse Movements](https://editor.p5js.org/jht1493/sketches/pVd3PT6U3)<!-- 2021-04-15T05:14:08.801Z -->  
 [Ex_11_09 Managing Many Objects](https://editor.p5js.org/jht1493/sketches/XDfmnW1JD)<!-- 2021-04-15T05:19:11.840Z -->  
 [Ex_11_10 Sequences of Images](https://editor.p5js.org/jht1493/sketches/-XbD5Gw0a)<!-- 2021-04-15T05:24:08.627Z -->  
+[Ex_11_99 Robot Array](https://editor.p5js.org/jht1493/sketches/dO-IXUHhr)<!-- 2021-04-15T06:58:07.792Z -->  
 [Example_03_20](https://editor.p5js.org/jht1493/sketches/-KnBVBNm8)<!-- 2020-08-25T14:06:04.141Z -->  
 [Exciting hickory copy](https://editor.p5js.org/jht1493/sketches/D3AJlrg_m)<!-- 2020-10-21T23:28:08.718Z -->  
 [face re-mix](https://editor.p5js.org/jht1493/sketches/smc9kl-52)<!-- 2020-09-10T20:59:23.614Z -->  
