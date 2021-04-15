@@ -5,9 +5,9 @@
 [AA gswp5 05](https://editor.p5js.org/jht1493/collections/u8b97q_m7)<!-- 2021-04-04T20:10:31.696Z -->  
 [AA gswp5 06](https://editor.p5js.org/jht1493/collections/LyMXjpqPV)<!-- 2021-03-25T20:26:27.107Z -->  
 [AA gswp5 08](https://editor.p5js.org/jht1493/collections/a0FX7oZfY)<!-- 2021-03-25T19:21:16.293Z -->  
-[AA gswp5 09](https://editor.p5js.org/jht1493/collections/RNo3VMponN)<!-- 2021-04-05T03:44:37.475Z -->  
-[AA gswp5 10](https://editor.p5js.org/jht1493/collections/Un1cgr7lW)<!-- 2021-04-15T04:25:28.408Z -->  
-[AA gswp5 11](https://editor.p5js.org/jht1493/collections/GdOUniOjF)<!-- 2021-04-15T05:35:18.180Z -->  
+[AA gswp5 09](https://editor.p5js.org/jht1493/collections/RNo3VMponN)<!-- 2021-04-15T06:21:05.619Z -->  
+[AA gswp5 10](https://editor.p5js.org/jht1493/collections/Un1cgr7lW)<!-- 2021-04-15T06:51:39.864Z -->  
+[AA gswp5 11](https://editor.p5js.org/jht1493/collections/GdOUniOjF)<!-- 2021-04-15T07:03:18.561Z -->  
 [Getting Started](https://editor.p5js.org/jht1493/collections/P5w9v1xsq)<!-- 2021-03-12T22:13:39.111Z -->  
 [HW1](https://editor.p5js.org/jht1493/collections/xGGXcU3iZ)<!-- 2020-09-09T02:43:42.824Z -->  
 [ICM 2021](https://editor.p5js.org/jht1493/collections/3ebGMIB6k)<!-- 2021-02-03T13:09:22.577Z -->  
@@ -123,7 +123,7 @@
 [Ex_08_99 Robot06_Motion](https://editor.p5js.org/jht1493/sketches/GD_kzWHeR)  
 
 # AA gswp5 09
-8 sketches  
+9 sketches  
 [Ex_09_01 Roll the Dice](https://editor.p5js.org/jht1493/sketches/uetaqd2FH)  
 [Ex_09_02 Another Way](https://editor.p5js.org/jht1493/sketches/oK-w6sUbz)  
 [Ex_09_03 Draw the Owl](https://editor.p5js.org/jht1493/sketches/DdDo_LBJa)  
@@ -132,14 +132,16 @@
 [Ex_09_06 Increasing the Surplus Population](https://editor.p5js.org/jht1493/sketches/AVYN7MUVc)  
 [Ex_09_07 Owls of Different Sizes](https://editor.p5js.org/jht1493/sketches/45Cv8Gi4i)  
 [Ex_09_08 Return a Value](https://editor.p5js.org/jht1493/sketches/xAc-jbG9y)  
+[Ex_09_99 Robot Function](https://editor.p5js.org/jht1493/sketches/7QXYp9M8Z)  
 
 # AA gswp5 10
-2 sketches  
+3 sketches  
 [Ex_10_01 Make an Object](https://editor.p5js.org/jht1493/sketches/ls9cxovWM)  
 [Ex_10_02 Make Multiple Objects](https://editor.p5js.org/jht1493/sketches/K7PhkMWVi)  
+[Ex_10_99 Robot Object](https://editor.p5js.org/jht1493/sketches/8s8si6CU9)  
 
 # AA gswp5 11
-10 sketches  
+11 sketches  
 [Ex_11_01 Many Variables](https://editor.p5js.org/jht1493/sketches/W26Y1uuiu)  
 [Ex_11_02 Too Many Variables](https://editor.p5js.org/jht1493/sketches/WNdXMzR_Q)  
 [Ex_11_03 Arrays, Not Variables](https://editor.p5js.org/jht1493/sketches/mJyTluseZ)  
@@ -150,6 +152,7 @@
 [Ex_11_08 Track Mouse Movements](https://editor.p5js.org/jht1493/sketches/pVd3PT6U3)  
 [Ex_11_09 Managing Many Objects](https://editor.p5js.org/jht1493/sketches/XDfmnW1JD)  
 [Ex_11_10 Sequences of Images](https://editor.p5js.org/jht1493/sketches/-XbD5Gw0a)  
+[Ex_11_99 Robot Array](https://editor.p5js.org/jht1493/sketches/dO-IXUHhr)  
 
 # Getting Started
 9 sketches  
