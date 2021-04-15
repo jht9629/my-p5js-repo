@@ -1,13 +1,13 @@
 # Collections for jht1493
 32 collections  
-[AA gswp5 01-03](https://editor.p5js.org/jht1493/collections/l4oMbMJ_u)<!-- 2021-03-25T12:49:14.504Z -->  
-[AA gswp5 04](https://editor.p5js.org/jht1493/collections/yH3IYcxzz)<!-- 2021-04-04T23:51:00.711Z -->  
-[AA gswp5 05](https://editor.p5js.org/jht1493/collections/u8b97q_m7)<!-- 2021-04-04T20:10:31.696Z -->  
-[AA gswp5 06](https://editor.p5js.org/jht1493/collections/LyMXjpqPV)<!-- 2021-03-25T20:26:27.107Z -->  
-[AA gswp5 08](https://editor.p5js.org/jht1493/collections/a0FX7oZfY)<!-- 2021-03-25T19:21:16.293Z -->  
-[AA gswp5 09](https://editor.p5js.org/jht1493/collections/RNo3VMponN)<!-- 2021-04-15T06:21:05.619Z -->  
-[AA gswp5 10](https://editor.p5js.org/jht1493/collections/Un1cgr7lW)<!-- 2021-04-15T06:51:39.864Z -->  
-[AA gswp5 11](https://editor.p5js.org/jht1493/collections/GdOUniOjF)<!-- 2021-04-15T07:03:18.561Z -->  
+[AA gswp5 01-03 Draw](https://editor.p5js.org/jht1493/collections/l4oMbMJ_u)<!-- 2021-04-15T22:36:22.551Z -->  
+[AA gswp5 04 Variables](https://editor.p5js.org/jht1493/collections/yH3IYcxzz)<!-- 2021-04-15T22:36:56.248Z -->  
+[AA gswp5 05 Response](https://editor.p5js.org/jht1493/collections/u8b97q_m7)<!-- 2021-04-15T22:37:10.799Z -->  
+[AA gswp5 06 Translate](https://editor.p5js.org/jht1493/collections/LyMXjpqPV)<!-- 2021-04-15T22:37:25.758Z -->  
+[AA gswp5 08 Motion](https://editor.p5js.org/jht1493/collections/a0FX7oZfY)<!-- 2021-04-15T22:37:42.736Z -->  
+[AA gswp5 09 Functions](https://editor.p5js.org/jht1493/collections/RNo3VMponN)<!-- 2021-04-15T22:37:57.391Z -->  
+[AA gswp5 10 Objects](https://editor.p5js.org/jht1493/collections/Un1cgr7lW)<!-- 2021-04-15T22:38:12.137Z -->  
+[AA gswp5 11 Arrays](https://editor.p5js.org/jht1493/collections/GdOUniOjF)<!-- 2021-04-15T22:38:28.073Z -->  
 [Getting Started](https://editor.p5js.org/jht1493/collections/P5w9v1xsq)<!-- 2021-03-12T22:13:39.111Z -->  
 [HW1](https://editor.p5js.org/jht1493/collections/xGGXcU3iZ)<!-- 2020-09-09T02:43:42.824Z -->  
 [ICM 2021](https://editor.p5js.org/jht1493/collections/3ebGMIB6k)<!-- 2021-02-03T13:09:22.577Z -->  
@@ -33,7 +33,7 @@
 [Week 7 Class Collection](https://editor.p5js.org/jht1493/collections/KPncsHlef)<!-- 2020-10-22T09:07:54.925Z -->  
 [zoog](https://editor.p5js.org/jht1493/collections/hN2ARAJZo)<!-- 2020-08-31T16:44:09.797Z -->  
 
-# AA gswp5 01-03
+# AA gswp5 01-03 Draw
 9 sketches  
 [Ex_02_01 Draw an Ellipse](https://editor.p5js.org/jht1493/sketches/1jYHAXZRF)  
 [Ex_02_02 Make Circles](https://editor.p5js.org/jht1493/sketches/Cc8MICNun)  
@@ -45,7 +45,7 @@
 [Ex_03_20 Two Creatures](https://editor.p5js.org/jht1493/sketches/mPX1b9278)  
 [Ex_03_99 Robot 1: Draw](https://editor.p5js.org/jht1493/sketches/0EzMYSpky)  
 
-# AA gswp5 04
+# AA gswp5 04 Variables
 16 sketches  
 [Ex_04_01 Reuse the Same Values](https://editor.p5js.org/jht1493/sketches/jcN0Maxum)  
 [Ex_04_02 Change Values](https://editor.p5js.org/jht1493/sketches/Y2Qra2W_N)  
@@ -64,7 +64,7 @@
 [Ex_04_99 Robot 2: Variable func](https://editor.p5js.org/jht1493/sketches/cyyCJGXOz)  
 [Ex_04_99 Robot 2: Variables](https://editor.p5js.org/jht1493/sketches/mJ_X4q47O)  
 
-# AA gswp5 05
+# AA gswp5 05 Response
 25 sketches  
 [Ex_05_01 frameCount](https://editor.p5js.org/jht1493/sketches/QrE5pO6E9)  
 [Ex_05_02 setup draw](https://editor.p5js.org/jht1493/sketches/rts0Rja8o)  
@@ -92,7 +92,7 @@
 [Ex_05_23 Map with the map Function](https://editor.p5js.org/jht1493/sketches/AtqCFY7CC)  
 [Ex_05_99 Robot03_Response](https://editor.p5js.org/jht1493/sketches/sWEVGT4bm)  
 
-# AA gswp5 06
+# AA gswp5 06 Translate
 11 sketches  
 [Ex_06_01 Translating Location](https://editor.p5js.org/jht1493/sketches/P2GfFz2Jv)  
 [Ex_06_02 Multiple Translations](https://editor.p5js.org/jht1493/sketches/aNTyhkTAp)  
@@ -106,7 +106,7 @@
 [Ex_06_10 Isolating Transformations](https://editor.p5js.org/jht1493/sketches/6vFu9X3jD)  
 [Ex_06_99 Robot 4: Translate](https://editor.p5js.org/jht1493/sketches/yGDQyWCf7)  
 
-# AA gswp5 08
+# AA gswp5 08 Motion
 13 sketches  
 [Ex_08_03 Move a Shape](https://editor.p5js.org/jht1493/sketches/DJ99paBR7)  
 [Ex_08_04 Wrap Around](https://editor.p5js.org/jht1493/sketches/W_nCg2LI2)  
@@ -122,7 +122,7 @@
 [Ex_08_15 Spirals](https://editor.p5js.org/jht1493/sketches/nAiwy2Qte)  
 [Ex_08_99 Robot06_Motion](https://editor.p5js.org/jht1493/sketches/GD_kzWHeR)  
 
-# AA gswp5 09
+# AA gswp5 09 Functions
 9 sketches  
 [Ex_09_01 Roll the Dice](https://editor.p5js.org/jht1493/sketches/uetaqd2FH)  
 [Ex_09_02 Another Way](https://editor.p5js.org/jht1493/sketches/oK-w6sUbz)  
@@ -134,13 +134,13 @@
 [Ex_09_08 Return a Value](https://editor.p5js.org/jht1493/sketches/xAc-jbG9y)  
 [Ex_09_99 Robot Function](https://editor.p5js.org/jht1493/sketches/7QXYp9M8Z)  
 
-# AA gswp5 10
+# AA gswp5 10 Objects
 3 sketches  
 [Ex_10_01 Make an Object](https://editor.p5js.org/jht1493/sketches/ls9cxovWM)  
 [Ex_10_02 Make Multiple Objects](https://editor.p5js.org/jht1493/sketches/K7PhkMWVi)  
 [Ex_10_99 Robot Object](https://editor.p5js.org/jht1493/sketches/8s8si6CU9)  
 
-# AA gswp5 11
+# AA gswp5 11 Arrays
 11 sketches  
 [Ex_11_01 Many Variables](https://editor.p5js.org/jht1493/sketches/W26Y1uuiu)  
 [Ex_11_02 Too Many Variables](https://editor.p5js.org/jht1493/sketches/WNdXMzR_Q)  
