@@ -1,8 +1,10 @@
-let circleX = 0;
+let circle1X = 0;
+let circle2X = 0;
 
 function setup() {
   createCanvas(300, 200).mousePressed(function() {
-    circleX = mouseX;
+    circle1X = mouseX;
+    circle2X = mouseX;
   });
   createSpan('click on canvas to move circle');
 }
@@ -11,9 +13,27 @@ function draw() {
   background(0);
   noStroke();
   fill(255);
-  circle(circleX, 100, 64);
-  circleX = (circleX + 1) % width;
+  circle(circle1X, 60, 100);
+  fill('gray');
+  circle(circle2X, 120, 100);
+  circle1X = circle1X + 1;
+  if (circle1X > width-50) {
+    circle1X = 50;
+  }
+  circle2X = circle2X - 1;
+  if (circle2X < 50) {
+    circle2X = width-50;
+  }
 }
+
+// https://editor.p5js.org/jht1493/sketches/b-pzyyNSU
+// 3.3 variable circle1X tight
+
+// https://editor.p5js.org/jht1493/sketches/UJjCwAFF0
+// 3.2 variable circle1X circle2X
+
+// https://editor.p5js.org/jht1493/sketches/NO5mWO62W
+// 3.1 variable circleX width if
 
 // https://editor.p5js.org/jht1493/sketches/CwYDz_4N2
 // 2.2.2 variable circleX width

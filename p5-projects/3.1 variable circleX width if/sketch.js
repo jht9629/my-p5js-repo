@@ -12,8 +12,14 @@ function draw() {
   noStroke();
   fill(255);
   circle(circleX, 100, 64);
-  circleX = (circleX + 1) % width;
+  circleX = circleX + 1;
+  if (circleX > width) {
+    circleX = 0;
+  }
 }
+
+// https://editor.p5js.org/jht1493/sketches/NO5mWO62W
+// 3.1 variable circleX width if
 
 // https://editor.p5js.org/jht1493/sketches/CwYDz_4N2
 // 2.2.2 variable circleX width

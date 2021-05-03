@@ -60,7 +60,7 @@ function update_ui() {
 }
 
 // https://editor.p5js.org/jht1493/sketches/uGy4cEzbs
-// 3.1 circleX width ui lib
+// 3.4 circleX ui more
 
 // https://editor.p5js.org/jht1493/sketches/UhNMB6GQO
 // 2.2.3 circleX % width ui

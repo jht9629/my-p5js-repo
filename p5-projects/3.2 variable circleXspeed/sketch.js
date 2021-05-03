@@ -1,4 +1,5 @@
 let circleX = 0;
+let circleXspeed = 1;
 
 function setup() {
   createCanvas(300, 200).mousePressed(function() {
@@ -12,8 +13,20 @@ function draw() {
   noStroke();
   fill(255);
   circle(circleX, 100, 64);
-  circleX = (circleX + 1) % width;
+  circleX = circleX + circleXspeed;
+  if (circleX > width) {
+    circleXspeed = -1;
+  }
+  if (circleX < 0) {
+    circleXspeed = 1;    
+  }
 }
+
+// https://editor.p5js.org/jht1493/sketches/TAV5p1sMW
+// 3.2 variable circleXspeed
+
+// https://editor.p5js.org/jht1493/sketches/NO5mWO62W
+// 3.1 variable circleX width if
 
 // https://editor.p5js.org/jht1493/sketches/CwYDz_4N2
 // 2.2.2 variable circleX width
