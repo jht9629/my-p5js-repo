@@ -1,6 +1,36 @@
 # Sketches for jht1493
-846 sketches  
-[Ex_10_99 Robot Object](https://editor.p5js.org/jht1493/sketches/8s8si6CU9)<!-- 2021-04-15T06:59:44.542Z -->  
+870 sketches  
+[4.1 pattern while](https://editor.p5js.org/jht1493/sketches/QlAHBLxi8e)<!-- 2021-05-02T22:19:03.714Z -->  
+[4.1 pattern y](https://editor.p5js.org/jht1493/sketches/S9YsVD9gV)<!-- 2021-05-02T22:18:52.281Z -->  
+[4.1 pattern drawShape1](https://editor.p5js.org/jht1493/sketches/cA_XRhYnI)<!-- 2021-05-02T22:18:17.384Z -->  
+[4.1 pattern while random](https://editor.p5js.org/jht1493/sketches/JM1F5XmJuJ)<!-- 2021-05-02T22:16:38.445Z -->  
+[4.1 pattern while random 2](https://editor.p5js.org/jht1493/sketches/44dcLkWoC)<!-- 2021-05-02T22:12:34.089Z -->  
+[equilateral triangle 6 copy](https://editor.p5js.org/jht1493/sketches/MYU4NFxi_)<!-- 2021-04-26T00:17:35.488Z -->  
+[Ex_10_99 Robot Object](https://editor.p5js.org/jht1493/sketches/8s8si6CU9)<!-- 2021-04-23T13:23:50.690Z -->  
+[3.1 circleX a_len ui](https://editor.p5js.org/jht1493/sketches/qBt6Ty_7b)<!-- 2021-04-22T23:12:29.668Z -->  
+[3.4 circleX ui more](https://editor.p5js.org/jht1493/sketches/uGy4cEzbs)<!-- 2021-04-22T22:12:49.996Z -->  
+[3.3. pattern while 4](https://editor.p5js.org/jht1493/sketches/_TkkjoNrW)<!-- 2021-04-22T21:51:10.006Z -->  
+[3.3. pattern while 3](https://editor.p5js.org/jht1493/sketches/vqy_zDixd)<!-- 2021-04-22T15:53:03.848Z -->  
+[3.3. pattern draw_shape1 save](https://editor.p5js.org/jht1493/sketches/UA_D1rM5A)<!-- 2021-04-22T14:40:59.924Z -->  
+[3.2 variable circleXspeed scan](https://editor.p5js.org/jht1493/sketches/qcPdvN6nR)<!-- 2021-04-22T14:40:26.533Z -->  
+[3.2 variable circleXspeed OR --](https://editor.p5js.org/jht1493/sketches/CcyPaL7GQ)<!-- 2021-04-22T04:07:54.810Z -->  
+[3.2 variable circleXspeed OR](https://editor.p5js.org/jht1493/sketches/PLfo2BKRm)<!-- 2021-04-22T03:54:53.537Z -->  
+[3.2 variable circleXspeed](https://editor.p5js.org/jht1493/sketches/LkbB9aIku)<!-- 2021-04-22T03:39:32.332Z -->  
+[3.2 variable circleXspeed buttons](https://editor.p5js.org/jht1493/sketches/SvxAd4V3z)<!-- 2021-04-22T03:38:35.323Z -->  
+[3.1 variable circleX width](https://editor.p5js.org/jht1493/sketches/ttk0Uyn9x)<!-- 2021-04-22T02:58:21.877Z -->  
+[3.2 variable circleXspeed](https://editor.p5js.org/jht1493/sketches/TAV5p1sMW)<!-- 2021-04-22T02:32:46.772Z -->  
+[2.6.2 rotate a_angle](https://editor.p5js.org/jht1493/sketches/mq4r5u0v3)<!-- 2021-04-22T02:21:49.717Z -->  
+[3.3 variable circle1X tight](https://editor.p5js.org/jht1493/sketches/b-pzyyNSU)<!-- 2021-04-22T02:13:30.446Z -->  
+[3.2 variable circle1X circle2X](https://editor.p5js.org/jht1493/sketches/UJjCwAFF0)<!-- 2021-04-22T02:02:00.110Z -->  
+[2.2.2 variable circleX width](https://editor.p5js.org/jht1493/sketches/CwYDz_4N2)<!-- 2021-04-22T01:58:34.319Z -->  
+[Ex_05_04 Track the Mouse](https://editor.p5js.org/jht1493/sketches/4pysTdayc)<!-- 2021-04-22T01:58:26.663Z -->  
+[3.1 variable circleX width if](https://editor.p5js.org/jht1493/sketches/NO5mWO62W)<!-- 2021-04-21T23:04:00.634Z -->  
+[2.5 map function ui](https://editor.p5js.org/jht1493/sketches/OGwu_nlNh)<!-- 2021-04-21T22:29:38.709Z -->  
+[2.5 setup pattern draw_shape1 save](https://editor.p5js.org/jht1493/sketches/D34BIqcoE)<!-- 2021-04-21T22:25:46.564Z -->  
+[p5js Code! - Array of Objects - for-of](https://editor.p5js.org/jht1493/sketches/utpzYq_O8)<!-- 2021-04-21T21:37:42.458Z -->  
+[two circle 2](https://editor.p5js.org/jht1493/sketches/lgzws5PmP)<!-- 2021-04-16T18:26:23.073Z -->  
+[capture invert mediaDevices.enumerateDevices](https://editor.p5js.org/jht1493/sketches/Z3_BqOmus)<!-- 2021-04-16T04:25:11.372Z -->  
+[two circle](https://editor.p5js.org/jht1493/sketches/RVKfyKjQL)<!-- 2021-04-16T00:33:21.755Z -->  
 [Ex_11_99 Robot Array](https://editor.p5js.org/jht1493/sketches/dO-IXUHhr)<!-- 2021-04-15T06:58:07.792Z -->  
 [Ex_09_99 Robot Function](https://editor.p5js.org/jht1493/sketches/7QXYp9M8Z)<!-- 2021-04-15T06:19:23.121Z -->  
 [Ex_11_04 Declare and Assign an Array](https://editor.p5js.org/jht1493/sketches/FghpP9uDR)<!-- 2021-04-15T05:30:32.396Z -->  
@@ -23,8 +53,6 @@
 [2.6.4 rotate mouseDragged ui](https://editor.p5js.org/jht1493/sketches/5ZIAjsbyB)<!-- 2021-04-14T21:44:55.440Z -->  
 [2.6.1 rotate mouseX](https://editor.p5js.org/jht1493/sketches/5f-4Wm_1H)<!-- 2021-04-14T21:39:07.180Z -->  
 [2.6.3 rotate ui](https://editor.p5js.org/jht1493/sketches/iYtC2NDy7)<!-- 2021-04-14T15:59:43.786Z -->  
-[2.6.2 rotate a_angle](https://editor.p5js.org/jht1493/sketches/mq4r5u0v3)<!-- 2021-04-14T15:53:55.396Z -->  
-[2.5 setup pattern draw_shape1 save](https://editor.p5js.org/jht1493/sketches/D34BIqcoE)<!-- 2021-04-14T14:56:28.427Z -->  
 [2 .5 setup pattern draw_shape1](https://editor.p5js.org/jht1493/sketches/OtE1lw_X2)<!-- 2021-04-14T14:56:09.274Z -->  
 [2.5 setup pattern draw_shape1 push](https://editor.p5js.org/jht1493/sketches/bsnMRzdZM)<!-- 2021-04-14T14:50:09.115Z -->  
 [2.2.9 - variable edge draw_obj  4](https://editor.p5js.org/jht1493/sketches/xrRh-agtb)<!-- 2021-04-12T22:46:31.490Z -->  
@@ -42,7 +70,6 @@
 [1.1 draw_rect_createSpan](https://editor.p5js.org/jht1493/sketches/C83N_DY9w)<!-- 2021-04-10T03:23:29.631Z -->  
 [1.1 draw_rect_alpha](https://editor.p5js.org/jht1493/sketches/6mrwOv4RD)<!-- 2021-04-10T03:22:07.691Z -->  
 [1.1 draw_rect_log](https://editor.p5js.org/jht1493/sketches/NlCr2UD2P)<!-- 2021-04-10T03:18:44.947Z -->  
-[3.1 circleX width ui lib](https://editor.p5js.org/jht1493/sketches/uGy4cEzbs)<!-- 2021-04-10T03:11:59.033Z -->  
 [2.4.3 shape1 alpha slow](https://editor.p5js.org/jht1493/sketches/iNY8JDhzH)<!-- 2021-04-10T02:23:08.504Z -->  
 [2.4.2 shape1 alpha slow](https://editor.p5js.org/jht1493/sketches/-nqwIxze_)<!-- 2021-04-10T02:18:33.350Z -->  
 [2.5.3 draw_shape1 pattern2](https://editor.p5js.org/jht1493/sketches/huhUWN6Uc)<!-- 2021-04-10T01:39:58.184Z -->  
@@ -85,7 +112,6 @@
 [gravity ball two objects 1 copy](https://editor.p5js.org/jht1493/sketches/d8Tghqq3X)<!-- 2021-04-04T21:58:47.260Z -->  
 [Ex_05_07 Set Thickness on the Fly color](https://editor.p5js.org/jht1493/sketches/t0APMYmVw)<!-- 2021-04-04T20:03:43.295Z -->  
 [Ex_04_04 Basic Arithmetic](https://editor.p5js.org/jht1493/sketches/Eg01Z5WpY)<!-- 2021-04-04T08:14:24.443Z -->  
-[2.5 map function ui](https://editor.p5js.org/jht1493/sketches/OGwu_nlNh)<!-- 2021-04-04T08:13:11.048Z -->  
 [2.5.4 draw_shape1 patter2 ui](https://editor.p5js.org/jht1493/sketches/jiS58glnK)<!-- 2021-04-04T07:42:16.445Z -->  
 [2.5.2 draw_shape1 pattern xx](https://editor.p5js.org/jht1493/sketches/h4r-AU_Wc)<!-- 2021-04-04T07:06:34.098Z -->  
 [2.5 shape1 alpha func xxx](https://editor.p5js.org/jht1493/sketches/CgEGxR-EK)<!-- 2021-04-04T06:06:21.303Z -->  
@@ -113,7 +139,6 @@
 [Ex_05_07 Set Thickness on the Fly](https://editor.p5js.org/jht1493/sketches/H9EaSl2Sh)<!-- 2021-04-04T02:17:33.283Z -->  
 [Ex_05_06 Draw Continuously](https://editor.p5js.org/jht1493/sketches/d2VusUGT4)<!-- 2021-04-04T02:13:26.190Z -->  
 [Ex_05_05  The Dot Follows You](https://editor.p5js.org/jht1493/sketches/rc_stJwOF)<!-- 2021-04-04T02:11:27.949Z -->  
-[Ex_05_04 Track the Mouse](https://editor.p5js.org/jht1493/sketches/4pysTdayc)<!-- 2021-04-04T02:07:53.288Z -->  
 [Ex_05_03 setup, Meet draw](https://editor.p5js.org/jht1493/sketches/T04uHthwa)<!-- 2021-04-04T02:05:11.517Z -->  
 [Ex_05_02 setup draw](https://editor.p5js.org/jht1493/sketches/rts0Rja8o)<!-- 2021-04-04T01:53:08.828Z -->  
 [3.3 if mouseX AND](https://editor.p5js.org/jht1493/sketches/pK7xE8hN3)<!-- 2021-04-04T01:06:12.977Z -->  
@@ -141,7 +166,6 @@
 [2.4.1 random shape1](https://editor.p5js.org/jht1493/sketches/N2VJYjIWg)<!-- 2021-03-27T18:03:04.862Z -->  
 [2.4.2 shape1 alpha](https://editor.p5js.org/jht1493/sketches/UDMyivHEQ)<!-- 2021-03-27T17:50:26.245Z -->  
 [2.3.1 shape1 shape2 speed](https://editor.p5js.org/jht1493/sketches/IuKS1TIjB)<!-- 2021-03-27T17:27:41.617Z -->  
-[2.2.2 variable circleX width](https://editor.p5js.org/jht1493/sketches/CwYDz_4N2)<!-- 2021-03-27T16:30:11.762Z -->  
 [2.2.4 circleX rgb ui](https://editor.p5js.org/jht1493/sketches/mDleb9mKk)<!-- 2021-03-27T16:21:18.362Z -->  
 [2.2.1 shape1 shape2](https://editor.p5js.org/jht1493/sketches/cuaGTyRYU)<!-- 2021-03-27T16:14:38.408Z -->  
 [2.4 object duo ui](https://editor.p5js.org/jht1493/sketches/Hc2w8A4XM)<!-- 2021-03-27T08:20:01.191Z -->  

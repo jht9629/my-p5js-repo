@@ -1,5 +1,5 @@
 # Sketches for jht1493
-846 sketches  
+870 sketches  
 [1.1 draw_rect](https://editor.p5js.org/jht1493/sketches/WJFtFBmnK)<!-- 2021-03-21T20:48:04.012Z -->  
 [1.1 draw_rect_alpha](https://editor.p5js.org/jht1493/sketches/6mrwOv4RD)<!-- 2021-04-10T03:22:07.691Z -->  
 [1.1 draw_rect_createSpan](https://editor.p5js.org/jht1493/sketches/C83N_DY9w)<!-- 2021-04-10T03:23:29.631Z -->  
@@ -124,7 +124,7 @@
 [2.2_p5.js user_defined](https://editor.p5js.org/jht1493/sketches/h-rLRPdqn)<!-- 2021-03-25T21:46:25.388Z -->  
 [2.2.1 shape1 shape2](https://editor.p5js.org/jht1493/sketches/cuaGTyRYU)<!-- 2021-03-27T16:14:38.408Z -->  
 [2.2.1 variable circleX](https://editor.p5js.org/jht1493/sketches/v9zsQFPqN)<!-- 2021-03-23T20:02:20.784Z -->  
-[2.2.2 variable circleX width](https://editor.p5js.org/jht1493/sketches/CwYDz_4N2)<!-- 2021-03-27T16:30:11.762Z -->  
+[2.2.2 variable circleX width](https://editor.p5js.org/jht1493/sketches/CwYDz_4N2)<!-- 2021-04-22T01:58:34.319Z -->  
 [2.2.3 circleX width ui](https://editor.p5js.org/jht1493/sketches/UhNMB6GQO)<!-- 2021-03-27T07:55:15.466Z -->  
 [2.2.3 circleX width ui copy](https://editor.p5js.org/jht1493/sketches/atxvTB184)<!-- 2021-04-04T23:57:29.503Z -->  
 [2.2.3 variable circleX random color](https://editor.p5js.org/jht1493/sketches/YzI6wqRGE)<!-- 2021-03-26T19:52:22.282Z -->  
@@ -174,10 +174,10 @@
 [2.4.3 shape1 alpha slow](https://editor.p5js.org/jht1493/sketches/iNY8JDhzH)<!-- 2021-04-10T02:23:08.504Z -->  
 [2.5 .1 draw_shape1](https://editor.p5js.org/jht1493/sketches/hgFw3__cZ)<!-- 2021-04-10T01:24:20.427Z -->  
 [2.5 .1 setup draw_shape](https://editor.p5js.org/jht1493/sketches/MX-qeqFTi)<!-- 2021-04-09T15:22:08.163Z -->  
-[2.5 map function ui](https://editor.p5js.org/jht1493/sketches/OGwu_nlNh)<!-- 2021-04-04T08:13:11.048Z -->  
+[2.5 map function ui](https://editor.p5js.org/jht1493/sketches/OGwu_nlNh)<!-- 2021-04-21T22:29:38.709Z -->  
 [2.5 map function ui](https://editor.p5js.org/jht1493/sketches/mBLvc2Xiz)<!-- 2021-03-29T02:13:00.790Z -->  
 [2.5 setup pattern draw_shape1 push](https://editor.p5js.org/jht1493/sketches/bsnMRzdZM)<!-- 2021-04-14T14:50:09.115Z -->  
-[2.5 setup pattern draw_shape1 save](https://editor.p5js.org/jht1493/sketches/D34BIqcoE)<!-- 2021-04-14T14:56:28.427Z -->  
+[2.5 setup pattern draw_shape1 save](https://editor.p5js.org/jht1493/sketches/D34BIqcoE)<!-- 2021-04-21T22:25:46.564Z -->  
 [2.5 shape1 alpha func xxx](https://editor.p5js.org/jht1493/sketches/CgEGxR-EK)<!-- 2021-04-04T06:06:21.303Z -->  
 [2.5.1 object scan](https://editor.p5js.org/jht1493/sketches/UTMOVgcsv)<!-- 2021-03-26T01:43:45.030Z -->  
 [2.5.1 random function scan x](https://editor.p5js.org/jht1493/sketches/XzrXlqxMN)<!-- 2021-03-24T00:56:00.965Z -->  
@@ -198,7 +198,7 @@
 [2.5.4 draw_shape1 patter2 ui](https://editor.p5js.org/jht1493/sketches/jiS58glnK)<!-- 2021-04-04T07:42:16.445Z -->  
 [2.5.9 random function spot.x spot.y](https://editor.p5js.org/jht1493/sketches/9ss5dnb9t)<!-- 2021-03-24T01:03:42.839Z -->  
 [2.6.1 rotate mouseX](https://editor.p5js.org/jht1493/sketches/5f-4Wm_1H)<!-- 2021-04-14T21:39:07.180Z -->  
-[2.6.2 rotate a_angle](https://editor.p5js.org/jht1493/sketches/mq4r5u0v3)<!-- 2021-04-14T15:53:55.396Z -->  
+[2.6.2 rotate a_angle](https://editor.p5js.org/jht1493/sketches/mq4r5u0v3)<!-- 2021-04-22T02:21:49.717Z -->  
 [2.6.3 rotate ui](https://editor.p5js.org/jht1493/sketches/iYtC2NDy7)<!-- 2021-04-14T15:59:43.786Z -->  
 [2.6.4 rotate mouseDragged ui](https://editor.p5js.org/jht1493/sketches/5ZIAjsbyB)<!-- 2021-04-14T21:44:55.440Z -->  
 [2.6.5 rotate mouseDragged ui map](https://editor.p5js.org/jht1493/sketches/8ui42o3PL)<!-- 2021-04-14T21:47:57.988Z -->  
@@ -210,14 +210,33 @@
 [2.9 moving circle random set](https://editor.p5js.org/jht1493/sketches/QfgP2VgJt)<!-- 2021-03-24T03:20:18.707Z -->  
 [2.9 moving circle random set %](https://editor.p5js.org/jht1493/sketches/0jB0SdGZW)<!-- 2021-03-24T15:13:05.350Z -->  
 [3.1 button slider checkbox ui if](https://editor.p5js.org/jht1493/sketches/tuC5MB4nm)<!-- 2021-03-23T16:09:20.537Z -->  
-[3.1 circleX width ui lib](https://editor.p5js.org/jht1493/sketches/uGy4cEzbs)<!-- 2021-04-10T03:11:59.033Z -->  
+[3.1 circleX a_len ui](https://editor.p5js.org/jht1493/sketches/qBt6Ty_7b)<!-- 2021-04-22T23:12:29.668Z -->  
 [3.1 circleX width ui lib copy](https://editor.p5js.org/jht1493/sketches/R_ipMLAVM)<!-- 2021-04-05T04:46:55.807Z -->  
+[3.1 variable circleX width](https://editor.p5js.org/jht1493/sketches/ttk0Uyn9x)<!-- 2021-04-22T02:58:21.877Z -->  
+[3.1 variable circleX width if](https://editor.p5js.org/jht1493/sketches/NO5mWO62W)<!-- 2021-04-21T23:04:00.634Z -->  
+[3.2 variable circle1X circle2X](https://editor.p5js.org/jht1493/sketches/UJjCwAFF0)<!-- 2021-04-22T02:02:00.110Z -->  
+[3.2 variable circleXspeed](https://editor.p5js.org/jht1493/sketches/LkbB9aIku)<!-- 2021-04-22T03:39:32.332Z -->  
+[3.2 variable circleXspeed](https://editor.p5js.org/jht1493/sketches/TAV5p1sMW)<!-- 2021-04-22T02:32:46.772Z -->  
+[3.2 variable circleXspeed buttons](https://editor.p5js.org/jht1493/sketches/SvxAd4V3z)<!-- 2021-04-22T03:38:35.323Z -->  
+[3.2 variable circleXspeed OR](https://editor.p5js.org/jht1493/sketches/PLfo2BKRm)<!-- 2021-04-22T03:54:53.537Z -->  
+[3.2 variable circleXspeed OR --](https://editor.p5js.org/jht1493/sketches/CcyPaL7GQ)<!-- 2021-04-22T04:07:54.810Z -->  
+[3.2 variable circleXspeed scan](https://editor.p5js.org/jht1493/sketches/qcPdvN6nR)<!-- 2021-04-22T14:40:26.533Z -->  
 [3.3 bounce ball x OR](https://editor.p5js.org/jht1493/sketches/G1WHVQsRV)<!-- 2021-04-09T22:49:04.444Z -->  
 [3.3 bounce ball x OR ui](https://editor.p5js.org/jht1493/sketches/h0ZJWwOzb)<!-- 2021-04-09T23:01:46.794Z -->  
 [3.3 else if](https://editor.p5js.org/jht1493/sketches/VmJD4ZUMJ)<!-- 2021-04-04T01:05:11.761Z -->  
 [3.3 if mouseX AND](https://editor.p5js.org/jht1493/sketches/pK7xE8hN3)<!-- 2021-04-04T01:06:12.977Z -->  
+[3.3 variable circle1X tight](https://editor.p5js.org/jht1493/sketches/b-pzyyNSU)<!-- 2021-04-22T02:13:30.446Z -->  
+[3.3. pattern draw_shape1 save](https://editor.p5js.org/jht1493/sketches/UA_D1rM5A)<!-- 2021-04-22T14:40:59.924Z -->  
+[3.3. pattern while 3](https://editor.p5js.org/jht1493/sketches/vqy_zDixd)<!-- 2021-04-22T15:53:03.848Z -->  
+[3.3. pattern while 4](https://editor.p5js.org/jht1493/sketches/_TkkjoNrW)<!-- 2021-04-22T21:51:10.006Z -->  
 [3.4 Boolean Variables](https://editor.p5js.org/jht1493/sketches/1IcyZZamQ)<!-- 2021-04-03T23:28:16.945Z -->  
+[3.4 circleX ui more](https://editor.p5js.org/jht1493/sketches/uGy4cEzbs)<!-- 2021-04-22T22:12:49.996Z -->  
 [3d box](https://editor.p5js.org/jht1493/sketches/4XDiPH-Mt)<!-- 2020-10-23T18:03:31.908Z -->  
+[4.1 pattern drawShape1](https://editor.p5js.org/jht1493/sketches/cA_XRhYnI)<!-- 2021-05-02T22:18:17.384Z -->  
+[4.1 pattern while](https://editor.p5js.org/jht1493/sketches/QlAHBLxi8e)<!-- 2021-05-02T22:19:03.714Z -->  
+[4.1 pattern while random](https://editor.p5js.org/jht1493/sketches/JM1F5XmJuJ)<!-- 2021-05-02T22:16:38.445Z -->  
+[4.1 pattern while random 2](https://editor.p5js.org/jht1493/sketches/44dcLkWoC)<!-- 2021-05-02T22:12:34.089Z -->  
+[4.1 pattern y](https://editor.p5js.org/jht1493/sketches/S9YsVD9gV)<!-- 2021-05-02T22:18:52.281Z -->  
 [7.1 What is an Array? 1](https://editor.p5js.org/jht1493/sketches/zSMXnWpXI)<!-- 2020-10-14T02:51:22.562Z -->  
 [7.1 What is an Array? random](https://editor.p5js.org/jht1493/sketches/D-T0NopEg)<!-- 2020-10-14T18:32:18.870Z -->  
 [7.2 Arrays and loops](https://editor.p5js.org/jht1493/sketches/pT0_mdXrm)<!-- 2020-10-14T02:50:51.241Z -->  
@@ -302,6 +321,7 @@
 [button switch](https://editor.p5js.org/jht1493/sketches/hdhJJD1Dl)<!-- 2020-09-23T22:06:26.060Z -->  
 [button switch](https://editor.p5js.org/jht1493/sketches/AAm-Tm0Ka)<!-- 2020-09-23T22:23:39.679Z -->  
 [button switch mousePressed](https://editor.p5js.org/jht1493/sketches/yGazF-FCy)<!-- 2020-09-23T22:07:58.275Z -->  
+[capture invert mediaDevices.enumerateDevices](https://editor.p5js.org/jht1493/sketches/Z3_BqOmus)<!-- 2021-04-16T04:25:11.372Z -->  
 [Cat color picker copy](https://editor.p5js.org/jht1493/sketches/eYRHQvaQV)<!-- 2020-10-28T23:53:17.552Z -->  
 [checkbox ui](https://editor.p5js.org/jht1493/sketches/0biWSEZBr)<!-- 2020-10-22T09:07:10.845Z -->  
 [checkbox ui text](https://editor.p5js.org/jht1493/sketches/Z646Pkcmf)<!-- 2020-10-22T09:07:46.765Z -->  
@@ -397,6 +417,7 @@
 [equilateral triangle 4](https://editor.p5js.org/jht1493/sketches/6sZcRuRm0)<!-- 2020-10-06T16:24:24.466Z -->  
 [equilateral triangle 5](https://editor.p5js.org/jht1493/sketches/AV1E_641U)<!-- 2020-10-06T16:27:11.051Z -->  
 [equilateral triangle 6](https://editor.p5js.org/jht1493/sketches/yxDWkjIqf)<!-- 2020-10-26T16:53:20.837Z -->  
+[equilateral triangle 6 copy](https://editor.p5js.org/jht1493/sketches/MYU4NFxi_)<!-- 2021-04-26T00:17:35.488Z -->  
 [equilateral triangle line](https://editor.p5js.org/jht1493/sketches/o9h-uYNEl)<!-- 2020-10-09T18:52:12.788Z -->  
 [equilateral triangle shape](https://editor.p5js.org/jht1493/sketches/cD9r2BqJH)<!-- 2020-10-09T21:07:10.996Z -->  
 [equilateral triangle shape 1](https://editor.p5js.org/jht1493/sketches/LQRenV_hX)<!-- 2020-10-09T21:11:42.310Z -->  
@@ -436,7 +457,7 @@
 [Ex_05_01 frameCount one line](https://editor.p5js.org/jht1493/sketches/COpuZeeYq)<!-- 2021-04-04T04:01:59.854Z -->  
 [Ex_05_02 setup draw](https://editor.p5js.org/jht1493/sketches/rts0Rja8o)<!-- 2021-04-04T01:53:08.828Z -->  
 [Ex_05_03 setup, Meet draw](https://editor.p5js.org/jht1493/sketches/T04uHthwa)<!-- 2021-04-04T02:05:11.517Z -->  
-[Ex_05_04 Track the Mouse](https://editor.p5js.org/jht1493/sketches/4pysTdayc)<!-- 2021-04-04T02:07:53.288Z -->  
+[Ex_05_04 Track the Mouse](https://editor.p5js.org/jht1493/sketches/4pysTdayc)<!-- 2021-04-22T01:58:26.663Z -->  
 [Ex_05_05  The Dot Follows You](https://editor.p5js.org/jht1493/sketches/rc_stJwOF)<!-- 2021-04-04T02:11:27.949Z -->  
 [Ex_05_06 Draw Continuously](https://editor.p5js.org/jht1493/sketches/d2VusUGT4)<!-- 2021-04-04T02:13:26.190Z -->  
 [Ex_05_07 Set Thickness on the Fly](https://editor.p5js.org/jht1493/sketches/H9EaSl2Sh)<!-- 2021-04-04T02:17:33.283Z -->  
@@ -500,7 +521,7 @@
 [Ex_09_99 Robot Function](https://editor.p5js.org/jht1493/sketches/7QXYp9M8Z)<!-- 2021-04-15T06:19:23.121Z -->  
 [Ex_10_01 Make an Object](https://editor.p5js.org/jht1493/sketches/ls9cxovWM)<!-- 2021-04-15T04:21:27.464Z -->  
 [Ex_10_02 Make Multiple Objects](https://editor.p5js.org/jht1493/sketches/K7PhkMWVi)<!-- 2021-04-15T04:34:18.107Z -->  
-[Ex_10_99 Robot Object](https://editor.p5js.org/jht1493/sketches/8s8si6CU9)<!-- 2021-04-15T06:59:44.542Z -->  
+[Ex_10_99 Robot Object](https://editor.p5js.org/jht1493/sketches/8s8si6CU9)<!-- 2021-04-23T13:23:50.690Z -->  
 [Ex_11_01 Many Variables](https://editor.p5js.org/jht1493/sketches/W26Y1uuiu)<!-- 2021-04-15T04:44:35.362Z -->  
 [Ex_11_02 Too Many Variables](https://editor.p5js.org/jht1493/sketches/WNdXMzR_Q)<!-- 2021-04-15T04:47:02.983Z -->  
 [Ex_11_03 Arrays, Not Variables](https://editor.p5js.org/jht1493/sketches/mJyTluseZ)<!-- 2021-04-15T05:01:32.484Z -->  
@@ -680,6 +701,7 @@
 [p5 shapes translate](https://editor.p5js.org/jht1493/sketches/uKz00u1sE)<!-- 2020-08-25T12:57:26.364Z -->  
 [p5.Image pixels video](https://editor.p5js.org/jht1493/sketches/IqKA6_3fm)<!-- 2020-10-23T20:00:39.345Z -->  
 [p5.Image pixels writeColor](https://editor.p5js.org/jht1493/sketches/gJFKLzI9w)<!-- 2020-10-27T17:37:34.676Z -->  
+[p5js Code! - Array of Objects - for-of](https://editor.p5js.org/jht1493/sketches/utpzYq_O8)<!-- 2021-04-21T21:37:42.458Z -->  
 [p5js Code! - Objects 0](https://editor.p5js.org/jht1493/sketches/fLBPDOAfS)<!-- 2020-10-09T05:14:16.230Z -->  
 [p5js Code! - Objects 1](https://editor.p5js.org/jht1493/sketches/j2QFmwSPf)<!-- 2020-10-09T05:33:17.294Z -->  
 [painting alpha](https://editor.p5js.org/jht1493/sketches/tW6WUgAlB)<!-- 2020-09-04T03:36:13.723Z -->  
@@ -782,6 +804,8 @@
 [tint-limit-byr](https://editor.p5js.org/jht1493/sketches/Byj9bTU-K)<!-- 2020-08-11T19:56:54.282Z -->  
 [tint-red](https://editor.p5js.org/jht1493/sketches/sHh0hUhNt)<!-- 2021-04-01T09:46:43.512Z -->  
 [tint-red copy](https://editor.p5js.org/jht1493/sketches/r3Zc11p9E)<!-- 2021-04-01T09:49:50.124Z -->  
+[two circle](https://editor.p5js.org/jht1493/sketches/RVKfyKjQL)<!-- 2021-04-16T00:33:21.755Z -->  
+[two circle 2](https://editor.p5js.org/jht1493/sketches/lgzws5PmP)<!-- 2021-04-16T18:26:23.073Z -->  
 [vconstraints  1080](https://editor.p5js.org/jht1493/sketches/QOfdBEg_C)<!-- 2021-03-31T06:09:21.671Z -->  
 [vconstraints  360](https://editor.p5js.org/jht1493/sketches/Tkimyte0W)<!-- 2021-03-31T06:09:59.828Z -->  
 [video mirror trans scale](https://editor.p5js.org/jht1493/sketches/YcaRKxWR9)<!-- 2020-10-28T22:37:52.817Z -->  
