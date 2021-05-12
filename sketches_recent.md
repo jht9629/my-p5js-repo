@@ -1,16 +1,33 @@
 # Sketches for jht1493
-870 sketches  
+885 sketches  
+[4.3 array for-loop](https://editor.p5js.org/jht1493/sketches/Gom4JIsDb)<!-- 2021-05-11T19:49:33.708Z -->  
+[4.3 array for-loop 2](https://editor.p5js.org/jht1493/sketches/tNqn2o0M3)<!-- 2021-05-11T19:37:52.644Z -->  
+[4.3 array for-loop 3](https://editor.p5js.org/jht1493/sketches/NZSWjB70Y)<!-- 2021-05-11T19:32:14.386Z -->  
+[4.3 array for-loop 4](https://editor.p5js.org/jht1493/sketches/d1C72NC0Q)<!-- 2021-05-11T19:31:48.659Z -->  
+[4.3 array d](https://editor.p5js.org/jht1493/sketches/PkHBdgZak)<!-- 2021-05-11T03:46:35.426Z -->  
+[4.3 array color](https://editor.p5js.org/jht1493/sketches/MN_30o-l-)<!-- 2021-05-11T03:45:52.735Z -->  
+[4.2 for-loop random 2](https://editor.p5js.org/jht1493/sketches/Bz-e4Japh)<!-- 2021-05-11T02:57:29.319Z -->  
+[4.2 for-loop random 3](https://editor.p5js.org/jht1493/sketches/YJojuZV9V)<!-- 2021-05-11T02:56:52.138Z -->  
+[4.2 for-loop random 4](https://editor.p5js.org/jht1493/sketches/uWqMpSb09)<!-- 2021-05-11T02:55:34.020Z -->  
+[4.2 for-loop random](https://editor.p5js.org/jht1493/sketches/cV8HNKv_D)<!-- 2021-05-07T21:43:49.189Z -->  
+[4.2 for-loop drawShape1](https://editor.p5js.org/jht1493/sketches/ZRMgh5oWA)<!-- 2021-05-07T21:42:15.371Z -->  
+[4.2 for-loop draw 1 2](https://editor.p5js.org/jht1493/sketches/jeyjYdjbP)<!-- 2021-05-07T21:33:43.936Z -->  
+[Ex_04_13 Halftone Dots -topleft](https://editor.p5js.org/jht1493/sketches/kEyYmVtg-)<!-- 2021-05-07T20:56:02.285Z -->  
+[Ex_04_10 Embed for Loop](https://editor.p5js.org/jht1493/sketches/bFe6Hk45R)<!-- 2021-05-07T20:46:07.504Z -->  
+[Ex_04_09 Kinking the Lines](https://editor.p5js.org/jht1493/sketches/o_7ocEFZ8)<!-- 2021-05-07T20:44:49.081Z -->  
+[4.2 for-loop](https://editor.p5js.org/jht1493/sketches/xlkU2_AlE)<!-- 2021-05-07T20:32:16.523Z -->  
+[4.2 arrays](https://editor.p5js.org/jht1493/sketches/LN97Vgci1)<!-- 2021-05-07T19:45:18.602Z -->  
+[3.1 circleX a_len ui](https://editor.p5js.org/jht1493/sketches/qBt6Ty_7b)<!-- 2021-05-07T19:43:43.472Z -->  
+[4.1 pattern random 2](https://editor.p5js.org/jht1493/sketches/44dcLkWoC)<!-- 2021-05-07T19:07:34.647Z -->  
+[4.1 pattern random 3](https://editor.p5js.org/jht1493/sketches/vqy_zDixd)<!-- 2021-05-07T19:07:13.910Z -->  
+[4.1 pattern random 1](https://editor.p5js.org/jht1493/sketches/JM1F5XmJuJ)<!-- 2021-05-07T19:06:54.657Z -->  
+[4.1 pattern random 4](https://editor.p5js.org/jht1493/sketches/_TkkjoNrW)<!-- 2021-05-07T19:05:43.120Z -->  
 [4.1 pattern while](https://editor.p5js.org/jht1493/sketches/QlAHBLxi8e)<!-- 2021-05-02T22:19:03.714Z -->  
 [4.1 pattern y](https://editor.p5js.org/jht1493/sketches/S9YsVD9gV)<!-- 2021-05-02T22:18:52.281Z -->  
 [4.1 pattern drawShape1](https://editor.p5js.org/jht1493/sketches/cA_XRhYnI)<!-- 2021-05-02T22:18:17.384Z -->  
-[4.1 pattern while random](https://editor.p5js.org/jht1493/sketches/JM1F5XmJuJ)<!-- 2021-05-02T22:16:38.445Z -->  
-[4.1 pattern while random 2](https://editor.p5js.org/jht1493/sketches/44dcLkWoC)<!-- 2021-05-02T22:12:34.089Z -->  
 [equilateral triangle 6 copy](https://editor.p5js.org/jht1493/sketches/MYU4NFxi_)<!-- 2021-04-26T00:17:35.488Z -->  
 [Ex_10_99 Robot Object](https://editor.p5js.org/jht1493/sketches/8s8si6CU9)<!-- 2021-04-23T13:23:50.690Z -->  
-[3.1 circleX a_len ui](https://editor.p5js.org/jht1493/sketches/qBt6Ty_7b)<!-- 2021-04-22T23:12:29.668Z -->  
 [3.4 circleX ui more](https://editor.p5js.org/jht1493/sketches/uGy4cEzbs)<!-- 2021-04-22T22:12:49.996Z -->  
-[3.3. pattern while 4](https://editor.p5js.org/jht1493/sketches/_TkkjoNrW)<!-- 2021-04-22T21:51:10.006Z -->  
-[3.3. pattern while 3](https://editor.p5js.org/jht1493/sketches/vqy_zDixd)<!-- 2021-04-22T15:53:03.848Z -->  
 [3.3. pattern draw_shape1 save](https://editor.p5js.org/jht1493/sketches/UA_D1rM5A)<!-- 2021-04-22T14:40:59.924Z -->  
 [3.2 variable circleXspeed scan](https://editor.p5js.org/jht1493/sketches/qcPdvN6nR)<!-- 2021-04-22T14:40:26.533Z -->  
 [3.2 variable circleXspeed OR --](https://editor.p5js.org/jht1493/sketches/CcyPaL7GQ)<!-- 2021-04-22T04:07:54.810Z -->  
@@ -99,8 +116,6 @@
 [Ex_04_13 Halftone Dots](https://editor.p5js.org/jht1493/sketches/GO50HlzHN)<!-- 2021-04-04T23:36:35.925Z -->  
 [Ex_04_12 Pins and Lines](https://editor.p5js.org/jht1493/sketches/u15OM3OHP)<!-- 2021-04-04T23:35:23.336Z -->  
 [Ex_04_11 Rows and Columns](https://editor.p5js.org/jht1493/sketches/SemvF_Fht)<!-- 2021-04-04T23:27:50.071Z -->  
-[Ex_04_10 Embed for Loop](https://editor.p5js.org/jht1493/sketches/bFe6Hk45R)<!-- 2021-04-04T23:26:11.931Z -->  
-[Ex_04_09 Kinking the Lines](https://editor.p5js.org/jht1493/sketches/o_7ocEFZ8)<!-- 2021-04-04T23:22:33.790Z -->  
 [Ex_04_08 Fanning Out the Lines](https://editor.p5js.org/jht1493/sketches/Zxxj1cjH9)<!-- 2021-04-04T23:21:06.249Z -->  
 [Ex_04_06 Use a for Loop](https://editor.p5js.org/jht1493/sketches/h0eBcXsIC)<!-- 2021-04-04T23:19:41.886Z -->  
 [Ex_04_07 Flex Your for Loop’s](https://editor.p5js.org/jht1493/sketches/oVh1WhBVI)<!-- 2021-04-04T23:18:56.131Z -->  
