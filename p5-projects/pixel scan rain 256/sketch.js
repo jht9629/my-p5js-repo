@@ -10,10 +10,12 @@ let a_weight = 10;
 let a_erase = 1;
 let a_fill = 255;
 let a_r;
-let a_start = 15;
-let a_end = 360-15;
+// let a_start = 15;
+let a_start = 5;
+let a_end = 360-a_start;
 let a_angle = a_start;
-let a_delta = 15;
+// let a_delta = 15;
+let a_delta = 5;
 
 function setup() {
   createCanvas(640 / a_scale, 480 / a_scale);

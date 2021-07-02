@@ -9,8 +9,8 @@ function setup() {
   
   while (y < height) {
     console.log('x='+x+' y='+y);
-    circle(x + 25, y + 25, len-10);
     rect(x, y, len, len);
+    circle(x + len/2, y + len/2, len-10);
     x = x + len;
     if (x > width) {
       x = 0;

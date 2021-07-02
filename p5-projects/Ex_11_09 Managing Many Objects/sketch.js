@@ -2,7 +2,7 @@ let bugs = [];
 let num = 33;
 
 function setup() {
-  createCanvas(240, 120);
+  createCanvas(480, 120);
   for (let i = 0; i < num; i++) {
     let x = random(width);
     let y = random(height);

@@ -32,7 +32,9 @@ function draw() {
 // image(img, dx, dy, dWidth, dHeight, 
 //          sx, sy, [sWidth], [sHeight])
 
-// https://editor.p5js.org/jht1493/sketches/zBH7ThRpP
+// https://editor.p5js.org/jht1493/sketches/yDHzF0TDZ
+// 11.7: Slit-Scan copy-image
+
 // https://github.com/CodingTrain/website/blob/master/
 // Tutorials/P5JS/p5.js_video
 // Daniel Shiffman

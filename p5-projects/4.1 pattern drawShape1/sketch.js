@@ -19,8 +19,8 @@ function setup() {
 
 function draw_shape1(x, y, len) {
   console.log('x=' + x + ' y=' + y+' len='+len);
-  circle(x + 25, y + 25, len - 10);
   rect(x, y, len, len);
+  circle(x + len/2, y + len/2, len - 10);
 }
 
 // https://editor.p5js.org/jht1493/sketches/cA_XRhYnI

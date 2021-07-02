@@ -4,7 +4,7 @@ let a_angle = 0;
 function setup() {
   createCanvas(400, 400);
   background(204);
-  // angleMode(DEGREES);
+  angleMode(DEGREES);
   
   createSpan().id('angle');
 }
@@ -13,12 +13,11 @@ function draw() {
   background(204);
 
   translate(width / 2, height / 2);
-  //   in order to see the full rotation on the screen
-  //   must first translate the origin then rotate.
-  // a_angle = mouseX / 20;
-  a_angle = 12 * mouseX / width;
+  // in order to see the full rotation on the screen
+  // must first translate the origin then rotate.
+  // scale mouseX to 0 to 360 for degrees
+  a_angle = 360 * (mouseX / width);
   rotate(a_angle);
-  // rotate(a_angle);
 
   rect(10, 10, 20, 20);
   line(1, 1, 100, 1);

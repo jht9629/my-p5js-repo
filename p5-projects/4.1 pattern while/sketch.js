@@ -5,13 +5,12 @@ function setup() {
   
   let x = 0;
   let y = 0;
-  let len = 50;
   
   while (x < width) {
-    console.log('x='+x+' y='+y+' len='+len);
-    circle(x + 25, y + 25, len-10);
-    rect(x, y, len, len);
-    x = x + len;
+    console.log('x='+x+' y='+y);
+    rect(x, y, 50, 50);
+    circle(x + 25, y + 25, 40);
+    x = x + 50;
   }
 }
 

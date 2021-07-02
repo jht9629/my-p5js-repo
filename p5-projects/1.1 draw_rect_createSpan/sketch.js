@@ -1,5 +1,5 @@
 function setup() {
-  print('in function setup');
+  console.log('in function setup');
   createCanvas(400, 300);
   createButton('backg 240').mousePressed(function() {
     console.log('calling background');

@@ -4,12 +4,13 @@ function setup() {
 
 function draw() {
   background(204);
-  randomSeed(0);
+  // randomSeed(0);
   for (let i = 35; i < width + 40; i += 40) {
     let gray = int(random(0, 102));
     let scalar = random(0.25, 1.0);
     owl(i, 110, gray, scalar);
   }
+  noLoop();
 }
 
 function owl(x, y, g, s) {
