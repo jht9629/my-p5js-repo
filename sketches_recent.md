@@ -1,8 +1,255 @@
 # Sketches for jht1493
-908 sketches  
+1134 sketches  
+[Abstracted date](https://editor.p5js.org/jht1493/sketches/tdJpSSR8U)<!-- 2022-07-26T21:02:18.145Z -->  
+[Truchet func 11](https://editor.p5js.org/jht1493/sketches/oP_wBebdW)<!-- 2022-07-26T20:53:21.341Z -->  
+[handsfree.js-demo-2022 copy](https://editor.p5js.org/jht1493/sketches/E6C9HlaIJ)<!-- 2022-07-26T20:52:21.754Z -->  
+[Truchet Vamoss checker](https://editor.p5js.org/jht1493/sketches/-DBNkfCTv)<!-- 2022-07-26T20:30:24.869Z -->  
+[Truchet Vamoss a_width noseed](https://editor.p5js.org/jht1493/sketches/6fG6Dm_La)<!-- 2022-07-26T20:27:40.521Z -->  
+[Truchet Vamoss a_width](https://editor.p5js.org/jht1493/sketches/EkUoNfJ_x)<!-- 2022-07-26T20:25:50.712Z -->  
+[Truchet Vamoss rect circle](https://editor.p5js.org/jht1493/sketches/4G63C6hW7)<!-- 2022-07-26T20:24:10.998Z -->  
+[Student Picker](https://editor.p5js.org/jht1493/sketches/u9MuGLpsj)<!-- 2022-07-26T19:31:51.882Z -->  
+[Truchet func 9](https://editor.p5js.org/jht1493/sketches/6wi3Qiz6o)<!-- 2022-07-26T19:22:41.138Z -->  
+[Truchet func 10](https://editor.p5js.org/jht1493/sketches/SQrWvF9zQ)<!-- 2022-07-26T19:22:06.514Z -->  
+[Truchet Therapeutic](https://editor.p5js.org/jht1493/sketches/jK_d9a5uK)<!-- 2022-07-25T12:27:07.627Z -->  
+[Truchet in p5js by Vamoss](https://editor.p5js.org/jht1493/sketches/lhI9E2O7P)<!-- 2022-07-24T11:19:42.370Z -->  
+[Truchet func 8](https://editor.p5js.org/jht1493/sketches/eEkY6Puq2)<!-- 2022-07-24T01:08:25.026Z -->  
+[Truchet func 7](https://editor.p5js.org/jht1493/sketches/3T3NmXA9n)<!-- 2022-07-24T01:05:43.487Z -->  
+[Truchet func 6](https://editor.p5js.org/jht1493/sketches/XoCFY-7Yi)<!-- 2022-07-24T01:01:47.445Z -->  
+[Truchet func 5](https://editor.p5js.org/jht1493/sketches/FwfyGjYos)<!-- 2022-07-24T00:58:11.953Z -->  
+[Truchet func 4](https://editor.p5js.org/jht1493/sketches/zOy0N1rYt)<!-- 2022-07-24T00:52:11.452Z -->  
+[Truchet func 3](https://editor.p5js.org/jht1493/sketches/f5vzsNvfR)<!-- 2022-07-24T00:47:01.410Z -->  
+[Truchet func 2](https://editor.p5js.org/jht1493/sketches/u13JQBCSD)<!-- 2022-07-24T00:27:18.218Z -->  
+[Truchet func](https://editor.p5js.org/jht1493/sketches/V2ifPvqiw)<!-- 2022-07-24T00:21:59.853Z -->  
+[Phyllotaxis still](https://editor.p5js.org/jht1493/sketches/oN4feOu7h)<!-- 2022-07-23T15:22:05.486Z -->  
+[Phyllotaxis copy](https://editor.p5js.org/jht1493/sketches/Lf-Nu_e9Y)<!-- 2022-07-22T20:12:17.964Z -->  
+[p5LiveMedia  Mutliple](https://editor.p5js.org/jht1493/sketches/dMqGz_SOs)<!-- 2022-07-15T06:43:52.118Z -->  
+[Multiple Users Overlayed-bug copy](https://editor.p5js.org/jht1493/sketches/G6ImGnQnC)<!-- 2022-07-15T06:41:30.477Z -->  
+[Multiple Users Overlayed-bug](https://editor.p5js.org/jht1493/sketches/oeTPGKyD_)<!-- 2022-07-15T06:34:22.460Z -->  
+[Shared Space copy](https://editor.p5js.org/jht1493/sketches/9GKVK4dkw)<!-- 2022-07-15T06:30:11.503Z -->  
+[Band bestseller](https://editor.p5js.org/jht1493/sketches/9_X5I1IbI)<!-- 2022-07-08T05:46:09.779Z -->  
+[loadJSON c19 series brooklyn](https://editor.p5js.org/jht1493/sketches/bxiT7lMbt)<!-- 2022-06-26T17:54:18.616Z -->  
+[circles grid center](https://editor.p5js.org/jht1493/sketches/8NgeQUnlb)<!-- 2022-06-17T02:03:46.284Z -->  
+[Circle Packing Data Visualization](https://editor.p5js.org/jht1493/sketches/uQPlEmzD4)<!-- 2022-06-16T17:26:10.145Z -->  
+[CC  50 Circle Packing Basic](https://editor.p5js.org/jht1493/sketches/hqgMiQ6HZ)<!-- 2022-06-16T17:21:15.924Z -->  
+[circles grid](https://editor.p5js.org/jht1493/sketches/nvxYpsYW9)<!-- 2022-06-16T00:25:13.064Z -->  
+[circles waves jiggle2](https://editor.p5js.org/jht1493/sketches/QvWMvdsPN)<!-- 2022-06-14T20:55:23.767Z -->  
+[circles waves jiggle](https://editor.p5js.org/jht1493/sketches/6m4rTU_M1)<!-- 2022-06-14T18:54:28.844Z -->  
+[circles black waves](https://editor.p5js.org/jht1493/sketches/XnsQ-CAuV)<!-- 2022-06-14T18:34:21.111Z -->  
+[circles black pie](https://editor.p5js.org/jht1493/sketches/xZGAWtzf_)<!-- 2022-06-14T16:45:37.549Z -->  
+[circles in the mix](https://editor.p5js.org/jht1493/sketches/jAvVW37Mm)<!-- 2022-06-14T16:45:03.743Z -->  
+[circles in the mix copy](https://editor.p5js.org/jht1493/sketches/3AjpPOYZR)<!-- 2022-06-14T11:21:44.330Z -->  
+[Phyllotaxis copy](https://editor.p5js.org/jht1493/sketches/4K_gG13Rc)<!-- 2022-06-13T14:50:55.678Z -->  
+[Metaballs gray](https://editor.p5js.org/jht1493/sketches/OsM89lKH3)<!-- 2022-06-12T21:48:46.589Z -->  
+[many spirals](https://editor.p5js.org/jht1493/sketches/7umDkn7zd)<!-- 2022-06-12T19:20:40.426Z -->  
+[Ex_08_15 Spirals copy](https://editor.p5js.org/jht1493/sketches/076mMnP-F)<!-- 2022-06-12T15:51:35.247Z -->  
+[The Box Spiral](https://editor.p5js.org/jht1493/sketches/Rk5lKftYh)<!-- 2022-06-11T23:47:26.440Z -->  
+[CC 167: Prime (Ulam) Spiral copy](https://editor.p5js.org/jht1493/sketches/IY3XrOjnX)<!-- 2022-06-11T22:04:02.016Z -->  
+[Radial bramble](https://editor.p5js.org/jht1493/sketches/U4oE_TsVi)<!-- 2022-06-09T22:13:18.084Z -->  
+[Cabana 3: Hilbert Curve copy](https://editor.p5js.org/jht1493/sketches/dA78VBdNm)<!-- 2022-06-09T07:30:07.828Z -->  
+[Canvas Record to Video Key Press](https://editor.p5js.org/jht1493/sketches/Zks2EoELT)<!-- 2022-05-18T18:40:39.304Z -->  
+[shadertoy inst](https://editor.p5js.org/jht1493/sketches/s_lXGkKBH)<!-- 2022-04-20T23:07:45.094Z -->  
+[shadertoy](https://editor.p5js.org/jht1493/sketches/JMzjqwJQb)<!-- 2022-04-20T21:45:55.220Z -->  
+[BLM](https://editor.p5js.org/jht1493/sketches/Nh7trPsS8)<!-- 2022-04-20T21:31:00.445Z -->  
+[shadertoy](https://editor.p5js.org/jht1493/sketches/P_J51He7l)<!-- 2022-04-20T21:01:22.766Z -->  
+[sayo Curl Voronoi](https://editor.p5js.org/jht1493/sketches/NzSIzJX0f)<!-- 2022-04-20T17:45:32.494Z -->  
+[bubble image alpha grid](https://editor.p5js.org/jht1493/sketches/smjuGOc5Z)<!-- 2022-04-13T02:56:44.272Z -->  
+[pixel scan full](https://editor.p5js.org/jht1493/sketches/FjiLnBs_u)<!-- 2022-04-13T00:50:42.369Z -->  
+[11.4: Brightness invert](https://editor.p5js.org/jht1493/sketches/uxonb9J3M)<!-- 2022-04-13T00:40:37.243Z -->  
+[11.4: Brightness color](https://editor.p5js.org/jht1493/sketches/8uEKBChH_)<!-- 2022-04-12T23:25:48.951Z -->  
+[bubble image](https://editor.p5js.org/jht1493/sketches/aUF-_C0xL)<!-- 2022-04-12T23:17:33.525Z -->  
+[loadJSON covid19 graph](https://editor.p5js.org/jht1493/sketches/1ZajWH3S8)<!-- 2022-02-27T17:25:37.815Z -->  
+[PoseNet_webcam eyes](https://editor.p5js.org/jht1493/sketches/u5jptPqVU)<!-- 2021-12-08T23:34:52.033Z -->  
+[BodyPix_Image copy](https://editor.p5js.org/jht1493/sketches/10qVaP4HX)<!-- 2021-12-06T22:59:07.813Z -->  
+[BodyPix_Image copy](https://editor.p5js.org/jht1493/sketches/MXIp1cNJv)<!-- 2021-12-06T22:52:45.512Z -->  
+[BodyPix_Webcam copy](https://editor.p5js.org/jht1493/sketches/6qILI_M_g)<!-- 2021-12-06T22:11:58.136Z -->  
+[BodyPix_Webcam_Parts copy](https://editor.p5js.org/jht1493/sketches/bfb598HDq)<!-- 2021-12-06T22:09:55.138Z -->  
+[PoseNet_webcam colors](https://editor.p5js.org/jht1493/sketches/zidzjZKk1)<!-- 2021-12-02T00:56:38.815Z -->  
+[PoseNet_webcam](https://editor.p5js.org/jht1493/sketches/gepkqrpS7)<!-- 2021-12-01T16:45:18.353Z -->  
+[PoseNet_part_selection](https://editor.p5js.org/jht1493/sketches/p9K711ovr)<!-- 2021-12-01T16:44:48.507Z -->  
+[PoseNet_image_single](https://editor.p5js.org/jht1493/sketches/i89ZaeyAS)<!-- 2021-12-01T16:44:17.675Z -->  
+[loadJSON covid-19](https://editor.p5js.org/jht1493/sketches/JG-Wh7SQz)<!-- 2021-11-24T22:58:41.749Z -->  
+[ICM-06 Example - ICM 21 Week 12 - Scattered Characters by Ellen](https://editor.p5js.org/jht1493/sketches/60piQ23_B)<!-- 2021-11-24T19:53:58.002Z -->  
+[text points perlin noise](https://editor.p5js.org/jht1493/sketches/FoN8-xraX)<!-- 2021-11-24T18:49:20.818Z -->  
+[scale-amp](https://editor.p5js.org/jht1493/sketches/QWKytZi9v)<!-- 2021-11-18T01:50:36.707Z -->  
+[scale-amp copy](https://editor.p5js.org/jht1493/sketches/dqN3bFRx3)<!-- 2021-11-17T19:57:00.194Z -->  
+[thecity_nyc-fade](https://editor.p5js.org/jht1493/sketches/e1WTKXUaI)<!-- 2021-11-17T18:45:38.224Z -->  
+[17.1_playMode ui edit visual copy](https://editor.p5js.org/jht1493/sketches/by-F0y03c)<!-- 2021-11-17T12:50:45.090Z -->  
+[WK8Ex by June](https://editor.p5js.org/jht1493/sketches/4cFcflomH)<!-- 2021-11-10T22:28:01.712Z -->  
+[ICM Week 9 Creative Exercise PoseNet by Teresa](https://editor.p5js.org/jht1493/sketches/7SnLfatsr)<!-- 2021-11-10T22:21:53.626Z -->  
+[camera by yvonne](https://editor.p5js.org/jht1493/sketches/gsfnI1XqA)<!-- 2021-11-10T22:16:03.261Z -->  
+[slit-scan yvonne](https://editor.p5js.org/jht1493/sketches/pDExbc0kd)<!-- 2021-11-10T22:14:34.721Z -->  
+[week_9_hw by Kelin](https://editor.p5js.org/jht1493/sketches/BsiIm2Iz3)<!-- 2021-11-10T22:08:13.943Z -->  
+[Part1Week8 by  June](https://editor.p5js.org/jht1493/sketches/9wMU2F1q8)<!-- 2021-11-10T22:05:16.755Z -->  
+[W8 by Lorena](https://editor.p5js.org/jht1493/sketches/TWR2lI6yE)<!-- 2021-11-10T21:43:14.444Z -->  
+[ICM Week 8 Creative Exercise -optional slider](https://editor.p5js.org/jht1493/sketches/3unl-jWfp)<!-- 2021-11-10T21:35:04.108Z -->  
+[Week #8 Creative Exercise copy](https://editor.p5js.org/jht1493/sketches/vYmDfOD4J)<!-- 2021-11-10T21:32:14.146Z -->  
+[17.1_playMode ui edit visual copy](https://editor.p5js.org/jht1493/sketches/CSzRh8uNu)<!-- 2021-11-10T21:14:27.494Z -->  
+[17.1_playMode ui edit](https://editor.p5js.org/jht1493/sketches/B3ZFF-M2q)<!-- 2021-11-10T21:14:18.531Z -->  
+[17.11_FFT ui](https://editor.p5js.org/jht1493/sketches/qc-h1wL27)<!-- 2021-11-10T21:10:03.288Z -->  
+[17.1_playMode ui edit visual](https://editor.p5js.org/jht1493/sketches/BnkIJwE5R)<!-- 2021-11-10T20:17:34.142Z -->  
+[17.1_playMode ui debug](https://editor.p5js.org/jht1493/sketches/iihgsmwRS)<!-- 2021-11-10T16:49:34.395Z -->  
+[17.1_playMode ui](https://editor.p5js.org/jht1493/sketches/_LdMqTjgu)<!-- 2021-11-10T16:47:56.154Z -->  
+[17.3_cueSong play pause](https://editor.p5js.org/jht1493/sketches/FHXX45k9z)<!-- 2021-11-10T16:24:55.190Z -->  
+[17.1_playSong async](https://editor.p5js.org/jht1493/sketches/W-_IGbU35)<!-- 2021-11-10T16:24:24.351Z -->  
+[17.11_FFT](https://editor.p5js.org/jht1493/sketches/hbUBiLwwD)<!-- 2021-11-10T14:40:11.319Z -->  
+[17.10_radialGraph](https://editor.p5js.org/jht1493/sketches/Q1gCKuVib)<!-- 2021-11-10T14:17:46.697Z -->  
+[17.1_playMode ui debug loop](https://editor.p5js.org/jht1493/sketches/7Y0_IaFhH)<!-- 2021-11-10T09:27:56.625Z -->  
+[17.1_playMode ui debug min](https://editor.p5js.org/jht1493/sketches/y4KbZRuQe)<!-- 2021-11-10T08:57:22.221Z -->  
+[keyPressed 1QAZ FFT](https://editor.p5js.org/jht1493/sketches/S47diDJcd)<!-- 2021-11-10T05:26:12.088Z -->  
+[8 Note Envelope FFT ui](https://editor.p5js.org/jht1493/sketches/IFght-gvV)<!-- 2021-11-10T05:24:01.363Z -->  
+[17.8: Microphone Input](https://editor.p5js.org/jht1493/sketches/AjlzQD2gj)<!-- 2021-11-10T05:03:42.088Z -->  
+[17.8: Microphone Input copy](https://editor.p5js.org/jht1493/sketches/l7RhDJrNx)<!-- 2021-11-10T05:03:07.231Z -->  
+[17.1_playSong](https://editor.p5js.org/jht1493/sketches/JzUpCtscr)<!-- 2021-11-10T04:54:16.402Z -->  
+[17.9_graphingAmplitude](https://editor.p5js.org/jht1493/sketches/0SuvHQbKk)<!-- 2021-11-10T04:40:03.809Z -->  
+[17.5_snake_game_sound](https://editor.p5js.org/jht1493/sketches/XPFEvFaF8)<!-- 2021-11-10T04:27:50.243Z -->  
+[17.7_soundEnvelope](https://editor.p5js.org/jht1493/sketches/1hNfw3M31)<!-- 2021-11-10T04:23:33.402Z -->  
+[17.6_soundSynthesis](https://editor.p5js.org/jht1493/sketches/PNuNz9dfX)<!-- 2021-11-10T04:20:37.939Z -->  
+[17.4_amplitudeSong](https://editor.p5js.org/jht1493/sketches/gODjef3N4)<!-- 2021-11-10T04:15:37.135Z -->  
+[17.1_playSong copy](https://editor.p5js.org/jht1493/sketches/0qI4p76tZ)<!-- 2021-11-10T04:06:00.398Z -->  
+[17.3_cueSong](https://editor.p5js.org/jht1493/sketches/ImSljxbEn)<!-- 2021-11-10T03:49:46.415Z -->  
+[17.2_pauseSong](https://editor.p5js.org/jht1493/sketches/g0Y0DrH1a)<!-- 2021-11-10T03:44:29.032Z -->  
+[PoseNet_webcam copy](https://editor.p5js.org/jht1493/sketches/DKrjqeZ9W)<!-- 2021-11-10T02:48:33.063Z -->  
+[17.1: playMode](https://editor.p5js.org/jht1493/sketches/gA4F96LOA)<!-- 2021-11-10T02:45:39.751Z -->  
+[bubble image alpha grid 2021](https://editor.p5js.org/jht1493/sketches/ogprTVQYX)<!-- 2021-11-07T18:41:19.733Z -->  
+[Custom Pixel Filter by Adnan -remix jht](https://editor.p5js.org/jht1493/sketches/PqIlRqqK-)<!-- 2021-11-03T23:54:47.181Z -->  
+[Slider_hue_circles_cursorLimited_pop Martha closeTo](https://editor.p5js.org/jht1493/sketches/VUtYxjP7S)<!-- 2021-11-03T23:33:37.018Z -->  
+[wk8_ex4 copy](https://editor.p5js.org/jht1493/sketches/OOSsl1Sn_)<!-- 2021-11-03T23:11:19.472Z -->  
+[Custom Pixel Filter by Adnan -remix jht reload](https://editor.p5js.org/jht1493/sketches/I9DYfqQUx)<!-- 2021-11-03T21:56:43.425Z -->  
+[Custom Pixel Filter by Adnan -remix jht reverse](https://editor.p5js.org/jht1493/sketches/1bfbJLbyM)<!-- 2021-11-03T21:51:03.817Z -->  
+[ICM 21 Wk 08 • many images -remix jht createImg](https://editor.p5js.org/jht1493/sketches/kXn2yqVWg)<!-- 2021-11-03T17:25:18.820Z -->  
+[ICM-06 - ICM 21 Week 8 • Working with many images -remix jht](https://editor.p5js.org/jht1493/sketches/GtOvwRABh)<!-- 2021-11-03T17:19:57.221Z -->  
+[Slider_hue_circles_cursorLimited_pop Martha](https://editor.p5js.org/jht1493/sketches/6Oneew7P0)<!-- 2021-11-03T17:13:41.602Z -->  
+[Slider_hue_circles_cursorLimited](https://editor.p5js.org/jht1493/sketches/FsL2OKHvp)<!-- 2021-11-03T16:49:31.979Z -->  
+[ICM 21 Wk 08 • many images -remix jht ndisplay](https://editor.p5js.org/jht1493/sketches/6JG_C7kkK)<!-- 2021-11-03T16:44:13.112Z -->  
+[Custom Pixel Filter by Adnan -remix jht get](https://editor.p5js.org/jht1493/sketches/5bG8mUq7s)<!-- 2021-11-03T15:37:51.258Z -->  
+[11.6: Painting with Pixels](https://editor.p5js.org/jht1493/sketches/M5z0cUqPl)<!-- 2021-11-02T03:14:29.954Z -->  
+[7.8-objects-and-images copy](https://editor.p5js.org/jht1493/sketches/nbH241LQB)<!-- 2021-10-27T23:53:58.039Z -->  
+[11.5: Checkbox Mirror error](https://editor.p5js.org/jht1493/sketches/csEtgTYBU)<!-- 2021-10-27T20:49:00.494Z -->  
+[11.3: The Pixel Array set](https://editor.p5js.org/jht1493/sketches/B10k1ZTVC)<!-- 2021-10-27T20:40:23.995Z -->  
+[7.8-objects-and-images](https://editor.p5js.org/jht1493/sketches/4mTNtiQnZ)<!-- 2021-10-27T20:35:55.746Z -->  
+[11.3: The Pixel Array rect](https://editor.p5js.org/jht1493/sketches/crkDnBUIE)<!-- 2021-10-27T15:28:59.446Z -->  
+[11.3: The Pixel Array](https://editor.p5js.org/jht1493/sketches/GiSAQWxq4)<!-- 2021-10-27T14:58:55.224Z -->  
+[11.3: The Pixel Array](https://editor.p5js.org/jht1493/sketches/RSmDa7VfK)<!-- 2021-10-27T14:51:38.031Z -->  
+[Example - ICM 21 Week 7 - Best Website Ever v2 - ellen copy](https://editor.p5js.org/jht1493/sketches/EbF-1_gSY)<!-- 2021-10-21T00:10:54.368Z -->  
+[Example - ICM 21 Week 7 - Best Website Ever v2 - ellen](https://editor.p5js.org/jht1493/sketches/k3VrN1DbP)<!-- 2021-10-20T21:46:27.713Z -->  
+[ICM Week 6 Exercise 3 Teresa](https://editor.p5js.org/jht1493/sketches/ZybF8My3a)<!-- 2021-10-20T16:05:19.543Z -->  
+[Week #5 Exercise #1 La’Kay](https://editor.p5js.org/jht1493/sketches/CxrbYKjwA)<!-- 2021-10-20T16:00:27.081Z -->  
+[ICM Week 6 Exercise 1 Teresa copy](https://editor.p5js.org/jht1493/sketches/aWZ3Rr7dW)<!-- 2021-10-20T15:48:23.030Z -->  
+[ICM Week 6 Exercise 1 Teresa](https://editor.p5js.org/jht1493/sketches/KtggC_F16)<!-- 2021-10-20T15:45:51.631Z -->  
+[ICM Week 5 Creative Exercise Teresa Wang](https://editor.p5js.org/jht1493/sketches/UlVOmPiV9)<!-- 2021-10-14T00:13:30.322Z -->  
+[martha_balloons copy](https://editor.p5js.org/jht1493/sketches/iJs8Ab2Wo)<!-- 2021-10-13T23:14:40.223Z -->  
+[Week #5 Exercise #3 P2 copy](https://editor.p5js.org/jht1493/sketches/kqD3pRItz)<!-- 2021-10-13T23:07:25.527Z -->  
+[wk5_ex2 copy copy](https://editor.p5js.org/jht1493/sketches/qvVnmZ-w6)<!-- 2021-10-13T23:01:27.757Z -->  
+[wk5_ex2 copy](https://editor.p5js.org/jht1493/sketches/hKgvTGCsI)<!-- 2021-10-13T23:01:09.630Z -->  
+[Ex 6.2 JitterBug line](https://editor.p5js.org/jht1493/sketches/wYka9ilXw)<!-- 2021-10-13T22:00:57.818Z -->  
+[Exercise - ICM 21 Week 6 - Bouncing bars](https://editor.p5js.org/jht1493/sketches/IGRuyPrrn)<!-- 2021-10-13T21:35:08.865Z -->  
+[week5-ex4-part1 Lorena](https://editor.p5js.org/jht1493/sketches/lSPbMTHA4)<!-- 2021-10-13T21:01:43.121Z -->  
+[week5-creative excercise Lorena copy](https://editor.p5js.org/jht1493/sketches/UUX72yLxf)<!-- 2021-10-13T20:58:54.669Z -->  
+[week5-creative excercise Lorena](https://editor.p5js.org/jht1493/sketches/PL8GiL-Vt)<!-- 2021-10-13T20:57:03.125Z -->  
+[ICM Week 5 Creative Exercise Teresa Wang jitter](https://editor.p5js.org/jht1493/sketches/EvoIssQ9Zg)<!-- 2021-10-13T20:46:25.523Z -->  
+[Week #5 Exercise #3 P3 La'Kay Hodge](https://editor.p5js.org/jht1493/sketches/cU0vP5qWq)<!-- 2021-10-13T20:35:23.475Z -->  
+[ICM Week 5 Creative Exercise Teresa Wang copy2](https://editor.p5js.org/jht1493/sketches/8_xLggd8q)<!-- 2021-10-13T15:00:24.589Z -->  
+[ICM Week 5 Creative Exercise Teresa Wang copy](https://editor.p5js.org/jht1493/sketches/G7NYOv1Av)<!-- 2021-10-13T14:55:35.532Z -->  
+[p5js Code! - What is an Array? copy](https://editor.p5js.org/jht1493/sketches/d7H12qXAD)<!-- 2021-10-07T02:44:28.219Z -->  
+[p5js Code! - Function Basics copy](https://editor.p5js.org/jht1493/sketches/Y-bMJyGd_)<!-- 2021-10-07T01:35:58.981Z -->  
+[p5js Code! - Arrays and Loops copy](https://editor.p5js.org/jht1493/sketches/Ec5eN7Sn3)<!-- 2021-10-07T01:35:11.911Z -->  
+[p5js Code! - What is an Array? copy copy](https://editor.p5js.org/jht1493/sketches/9JR8Me2z_)<!-- 2021-10-07T01:19:25.089Z -->  
+[p5js Code! - Function Parameters and Arguments copy](https://editor.p5js.org/jht1493/sketches/5_RvxRlBN)<!-- 2021-10-07T01:04:09.395Z -->  
+[wk4_creativeFinal copy copy copy](https://editor.p5js.org/jht1493/sketches/oTlmmneUb)<!-- 2021-10-07T00:04:47.894Z -->  
+[ICM Week 5 in-class exercise copy](https://editor.p5js.org/jht1493/sketches/o_oU0SNyB)<!-- 2021-10-06T23:57:42.982Z -->  
+[ICM Week 4 Creative Exercise copy](https://editor.p5js.org/jht1493/sketches/E4r0CForx)<!-- 2021-10-06T23:34:00.218Z -->  
+[wk4_creativeFinal copy](https://editor.p5js.org/jht1493/sketches/ectQOZZ8t)<!-- 2021-10-06T23:32:09.191Z -->  
+[w4 assignment copy copy](https://editor.p5js.org/jht1493/sketches/sXjultT-v)<!-- 2021-10-06T23:27:26.470Z -->  
+[ICM Week 4 Exercise 7 copy](https://editor.p5js.org/jht1493/sketches/1_dj90kRg)<!-- 2021-10-06T23:17:47.049Z -->  
+[w4-6 copy](https://editor.p5js.org/jht1493/sketches/qO6FNJHnX)<!-- 2021-10-06T23:08:22.588Z -->  
+[wk4_ex6 copy](https://editor.p5js.org/jht1493/sketches/Evk-Oeecb)<!-- 2021-10-06T22:56:05.128Z -->  
+[ICM Week 4 Creative Exercise copy](https://editor.p5js.org/jht1493/sketches/LfHPuv0r9)<!-- 2021-10-06T21:53:31.625Z -->  
+[Exercise - ICM 21 Week 5 - Refactor portrait with functions](https://editor.p5js.org/jht1493/sketches/pYCcAOf7Q)<!-- 2021-10-06T16:48:06.567Z -->  
+[Exercise - ICM Week 2 - Convert to object literals](https://editor.p5js.org/jht1493/sketches/14AjKXQwh)<!-- 2021-10-06T16:46:03.792Z -->  
+[Checker protoceratops copy Martha](https://editor.p5js.org/jht1493/sketches/GwSvgjIjD)<!-- 2021-10-06T16:39:08.995Z -->  
+[algorithmic design yuyan（yvonne）zhang](https://editor.p5js.org/jht1493/sketches/vY5Dcg69W)<!-- 2021-10-06T16:26:49.146Z -->  
+[ICM Week 4 Exercise 7 Teresa](https://editor.p5js.org/jht1493/sketches/iX-5AhHns)<!-- 2021-10-06T16:23:43.421Z -->  
+[ICM Week 4 Exercise 6 Teresa](https://editor.p5js.org/jht1493/sketches/SuiRHhAvJ)<!-- 2021-10-06T16:19:02.015Z -->  
+[wk4_ex6 Martha copy](https://editor.p5js.org/jht1493/sketches/I4ELnN9Lv)<!-- 2021-10-06T16:17:40.880Z -->  
+[wk4_ex6 Martha](https://editor.p5js.org/jht1493/sketches/eMLBzvHaB)<!-- 2021-10-06T16:14:32.418Z -->  
+[wk4_ex6 copy](https://editor.p5js.org/jht1493/sketches/dh0jRVEcw)<!-- 2021-10-06T16:12:55.333Z -->  
+[week4-3 Lorena](https://editor.p5js.org/jht1493/sketches/eqSDTSv3C)<!-- 2021-10-06T16:07:54.884Z -->  
+[ICM Week 4 Exercise 1 Teresa](https://editor.p5js.org/jht1493/sketches/31s-QDUkx)<!-- 2021-10-06T16:04:21.697Z -->  
+[Week #4 Exercise #2 La’Kay](https://editor.p5js.org/jht1493/sketches/dWabxukzd)<!-- 2021-10-06T16:03:57.061Z -->  
+[Spectrum glitter](https://editor.p5js.org/jht1493/sketches/09Cwd7mnE)<!-- 2021-09-30T01:10:51.210Z -->  
+[for loop to draw animation](https://editor.p5js.org/jht1493/sketches/nlrTRwfL2)<!-- 2021-09-30T01:05:36.909Z -->  
+[p5js Code! - Nested Loops setup only](https://editor.p5js.org/jht1493/sketches/aETsr3i2y)<!-- 2021-09-30T00:54:26.071Z -->  
+[p5js Code! - Nested Loops copy](https://editor.p5js.org/jht1493/sketches/bYVrbeTnD)<!-- 2021-09-30T00:47:20.432Z -->  
+[ICM-06 Example - ICM 21 Week 4 - Anatomy for a for loop copy](https://editor.p5js.org/jht1493/sketches/oxBpShhLB)<!-- 2021-09-30T00:36:41.432Z -->  
+[wk3_ex5_red Martha - remix copy](https://editor.p5js.org/jht1493/sketches/BXTxkWJCX)<!-- 2021-09-30T00:02:31.297Z -->  
+[wk3_ex5_red Martha - remix slider on canvas](https://editor.p5js.org/jht1493/sketches/r768lvXGo)<!-- 2021-09-30T00:01:38.753Z -->  
+[Week #2 Creative Exercise La-Kay -remix](https://editor.p5js.org/jht1493/sketches/8FUO0en9R)<!-- 2021-09-29T22:58:55.345Z -->  
+[Week #2 Creative Exercise La-Kay -remix copy](https://editor.p5js.org/jht1493/sketches/5C_Y1rcqR)<!-- 2021-09-29T21:59:38.848Z -->  
+[wk3_ex5_red Martha - remix slide](https://editor.p5js.org/jht1493/sketches/bugsK2pgi)<!-- 2021-09-29T21:43:53.877Z -->  
+[wk3_ex5_red Martha - remix slide2](https://editor.p5js.org/jht1493/sketches/N4J3DGxUO)<!-- 2021-09-29T21:43:21.057Z -->  
+[wk3_ex5_red Martha - remix](https://editor.p5js.org/jht1493/sketches/5bl_flKUx)<!-- 2021-09-29T21:35:55.000Z -->  
+[self-portrait Divya copy](https://editor.p5js.org/jht1493/sketches/MCzn9umhB)<!-- 2021-09-29T20:46:07.995Z -->  
+[self-portrait Divya](https://editor.p5js.org/jht1493/sketches/izm7rSZe4)<!-- 2021-09-29T20:43:31.759Z -->  
+[ICM Week 3 Creative Exercise copy](https://editor.p5js.org/jht1493/sketches/N6Pygq57R)<!-- 2021-09-29T20:39:27.344Z -->  
+[Week #3 Creative Exercise ver 2 by La'Kay](https://editor.p5js.org/jht1493/sketches/OYPmndjq5)<!-- 2021-09-29T20:24:32.069Z -->  
+[wk3_creative checkbox](https://editor.p5js.org/jht1493/sketches/-fOimHNMc)<!-- 2021-09-29T20:18:09.768Z -->  
+[3.5 circleX a_len ui](https://editor.p5js.org/jht1493/sketches/qBt6Ty_7b)<!-- 2021-09-29T20:16:30.098Z -->  
+[p5js Code! - while and for Loops](https://editor.p5js.org/jht1493/sketches/dE24sc0tc)<!-- 2021-09-29T19:58:44.851Z -->  
+[p5js Code! - Nested Loops](https://editor.p5js.org/jht1493/sketches/9JZmSpMBf)<!-- 2021-09-29T19:57:35.718Z -->  
+[ICM-06 Example - ICM 21 Week 4 - Anatomy for a for loop](https://editor.p5js.org/jht1493/sketches/3gJJh9xO4)<!-- 2021-09-29T19:55:36.808Z -->  
+[ICM-06 Example - ICM 21 Week 4 - Anatomy for a for loop copy](https://editor.p5js.org/jht1493/sketches/9MvUG6HAQ)<!-- 2021-09-29T19:50:00.000Z -->  
+[ICM-06 Exercise - ICM 21 Week 4 - Hover over columns with a loop](https://editor.p5js.org/jht1493/sketches/y1mn0AgIm2)<!-- 2021-09-29T19:46:13.042Z -->  
+[ICM-06 Exercise - ICM 21 Week 4 - Hover over columns with a loop copy](https://editor.p5js.org/jht1493/sketches/kJLu-ss-8)<!-- 2021-09-29T19:45:38.106Z -->  
+[ICM-06 Example - ICM 21 Week 4 - Timing with seconds from computer clock](https://editor.p5js.org/jht1493/sketches/yDi03zkbH)<!-- 2021-09-29T19:03:20.933Z -->  
+[ICM-06 Example - ICM 21 Week 4 - Timing with frameCount + %](https://editor.p5js.org/jht1493/sketches/TMCxRAqBN)<!-- 2021-09-29T19:02:03.927Z -->  
+[ICM-06 Example - ICM 21 Week 4 - Intro %](https://editor.p5js.org/jht1493/sketches/l5K0FsH4b)<!-- 2021-09-29T19:00:21.025Z -->  
+[ICM-06 Example - ICM 21 Week 3 - Introducing conditionals copy](https://editor.p5js.org/jht1493/sketches/RIa86rQiC)<!-- 2021-09-23T00:59:30.231Z -->  
+[Waiting neon copy](https://editor.p5js.org/jht1493/sketches/zFsxV4RFs)<!-- 2021-09-23T00:03:50.713Z -->  
+[Waiting neon](https://editor.p5js.org/jht1493/sketches/CwLg2A19p)<!-- 2021-09-22T23:57:53.708Z -->  
+[ICM-06 Example - ICM 21 Week 3 - Bouncing ball object](https://editor.p5js.org/jht1493/sketches/tWDnSltVf)<!-- 2021-09-22T18:02:22.077Z -->  
+[ICM-06 Exercise - ICM 21 Week 3 - Switch](https://editor.p5js.org/jht1493/sketches/zaxJBulD_)<!-- 2021-09-22T17:59:54.867Z -->  
+[ICM-06 Example - ICM 21 Week 3 - Boolean variables](https://editor.p5js.org/jht1493/sketches/w1CB_J991)<!-- 2021-09-22T17:58:46.065Z -->  
+[ICM-06 Example - ICM 21 Week 3 - Hover over 3 columns](https://editor.p5js.org/jht1493/sketches/4Jkd44bOa)<!-- 2021-09-22T17:57:06.956Z -->  
+[ICM-06 Example - ICM 21 Week 3 - Introducing conditionals](https://editor.p5js.org/jht1493/sketches/4MtOW9bSn)<!-- 2021-09-22T17:55:01.675Z -->  
+[week22 yvonne - mousePressed](https://editor.p5js.org/jht1493/sketches/CvO3B5mxJ)<!-- 2021-09-22T17:47:14.225Z -->  
+[ICM Week 2 Setting Sun - loc](https://editor.p5js.org/jht1493/sketches/_x8H_F8LH)<!-- 2021-09-22T17:39:13.608Z -->  
+[Wk2_creativeProject -- layers](https://editor.p5js.org/jht1493/sketches/gFwXNhpF2)<!-- 2021-09-22T17:26:54.273Z -->  
+[Wk2_creativeProject by marthajanicki](https://editor.p5js.org/jht1493/sketches/IJ6oPqxUL)<!-- 2021-09-22T17:15:42.118Z -->  
+[Week #2 Creative Exercise - Many cats](https://editor.p5js.org/jht1493/sketches/2XLYFOlCS)<!-- 2021-09-22T17:05:52.920Z -->  
+[Week #2 Creative Exercise by La'Kay Hodge](https://editor.p5js.org/jht1493/sketches/kymR4CtYK)<!-- 2021-09-22T16:56:06.297Z -->  
+[Exercise - ICM 21 Week 3 - Add another moving circle object that resets](https://editor.p5js.org/jht1493/sketches/f0iBJ0u4M)<!-- 2021-09-22T16:40:03.030Z -->  
+[Rock-Paper-Scissor copy](https://editor.p5js.org/jht1493/sketches/P2CRwWPlj)<!-- 2021-09-16T17:24:50.172Z -->  
+[ellen draw_ellen](https://editor.p5js.org/jht1493/sketches/rippEV0ozt)<!-- 2021-09-16T01:19:33.267Z -->  
+[ellen portait](https://editor.p5js.org/jht1493/sketches/RVIinGe-a)<!-- 2021-09-16T00:52:28.925Z -->  
+[local vs. global](https://editor.p5js.org/jht1493/sketches/dSbNTgyFe)<!-- 2021-09-16T00:43:52.319Z -->  
+[draw_circle parameters](https://editor.p5js.org/jht1493/sketches/sMmLjkBNr)<!-- 2021-09-16T00:37:40.566Z -->  
+[draw_circle](https://editor.p5js.org/jht1493/sketches/2XBYYYuR0)<!-- 2021-09-16T00:34:26.892Z -->  
+[Example - ICM 21 WEEK 2 - Scope: global and local variables copy](https://editor.p5js.org/jht1493/sketches/-9oX67SWX)<!-- 2021-09-16T00:24:42.806Z -->  
+[arc testing](https://editor.p5js.org/jht1493/sketches/5aux9j_mt)<!-- 2021-09-15T23:57:00.361Z -->  
+[1.2 draw_shapes_ui copy](https://editor.p5js.org/jht1493/sketches/Psn4Oy2Rp)<!-- 2021-09-15T23:48:06.722Z -->  
+[Week 1 Portrait copy](https://editor.p5js.org/jht1493/sketches/xmZE17sQ9)<!-- 2021-09-15T23:05:47.753Z -->  
+[ICM-06 Example - ICM 21 Week 2 - Object Literal wrap UI](https://editor.p5js.org/jht1493/sketches/caDtJRji7)<!-- 2021-09-15T19:26:46.430Z -->  
+[ICM-06 Example - ICM 21 Week 2 - Responsive rect](https://editor.p5js.org/jht1493/sketches/laTHAOolo)<!-- 2021-09-15T18:17:44.075Z -->  
+[ICM-06 Example - ICM 21 Week 2 - Object Literal](https://editor.p5js.org/jht1493/sketches/4_VOFzrq8)<!-- 2021-09-15T18:06:01.197Z -->  
+[ICM-06 Example - ICM 21 Week 2 - Object Literal wrap](https://editor.p5js.org/jht1493/sketches/e190hgdMU)<!-- 2021-09-15T18:05:46.094Z -->  
+[many circles wrap func](https://editor.p5js.org/jht1493/sketches/IvCuHb0EW)<!-- 2021-09-15T18:01:54.012Z -->  
+[many circles wrap](https://editor.p5js.org/jht1493/sketches/S7B_bxawC)<!-- 2021-09-15T17:53:00.455Z -->  
+[ellen funcs xy](https://editor.p5js.org/jht1493/sketches/9YeBcurXF)<!-- 2021-09-15T17:49:48.990Z -->  
+[ellen funcs](https://editor.p5js.org/jht1493/sketches/gov67__9a)<!-- 2021-09-15T17:39:19.374Z -->  
+[Example - ICM 21 WEEK 2 - Scope: global and local variables](https://editor.p5js.org/jht1493/sketches/Nnez1LMAE)<!-- 2021-09-15T15:31:22.267Z -->  
+[ICM-06 Example - ICM 21 Week 2 - Ellen self portrait animated](https://editor.p5js.org/jht1493/sketches/HYF86ea7R)<!-- 2021-09-15T15:28:48.929Z -->  
+[Example - CC 21 WEEK 1 - Moving circle objects with speed and direction variables](https://editor.p5js.org/jht1493/sketches/hdTctdqTA)<!-- 2021-09-15T15:24:44.315Z -->  
+[Exercise - ICM Week 2 - Convert to object literals wrap](https://editor.p5js.org/jht1493/sketches/3iasCjLp-)<!-- 2021-09-15T13:37:00.832Z -->  
+[Exercise - ICM 21 Week 2 - Variable Scope](https://editor.p5js.org/jht1493/sketches/TKpg6L-HX)<!-- 2021-09-15T13:33:33.784Z -->  
+[Fibonacci sequence (visualisation) copy](https://editor.p5js.org/jht1493/sketches/d3aP71Rou)<!-- 2021-09-13T01:11:08.152Z -->  
+[Ex_05_14 The Bounds of a Circle copy](https://editor.p5js.org/jht1493/sketches/SOF3GGGVn)<!-- 2021-09-12T22:50:27.789Z -->  
+[3d-shader-using-webcam](https://editor.p5js.org/jht1493/sketches/xQ1qbzSxv)<!-- 2021-09-10T09:05:25.123Z -->  
+[Exercise - ICM Week 2 - Convert to object literals wrap](https://editor.p5js.org/jht1493/sketches/BFR4S_Ej0)<!-- 2021-09-10T04:26:27.390Z -->  
+[Innovative flag copy](https://editor.p5js.org/jht1493/sketches/Ez3s7skF8)<!-- 2021-09-07T14:39:01.984Z -->  
+[mouseXY print](https://editor.p5js.org/jht1493/sketches/9Ff0SOP6x)<!-- 2021-09-07T14:23:08.351Z -->  
+[CC 143: QuickSort Visualization copy](https://editor.p5js.org/jht1493/sketches/FJRHfNv6a)<!-- 2021-07-03T02:04:24.215Z -->  
 [Ex 6.2 JitterBug](https://editor.p5js.org/jht1493/sketches/UfXdsZAHU)<!-- 2021-07-02T20:25:55.427Z -->  
 [Ex 6.2 JitterBug pen](https://editor.p5js.org/jht1493/sketches/d9t-YSfY3)<!-- 2021-07-02T20:14:59.790Z -->  
-[Ex 6.2 JitterBug line](https://editor.p5js.org/jht1493/sketches/wYka9ilXw)<!-- 2021-07-02T18:26:43.324Z -->  
 [Ex 6.2 JitterBug limit](https://editor.p5js.org/jht1493/sketches/fcsUMY4C6)<!-- 2021-07-02T16:58:47.393Z -->  
 [Ex 6.2 JitterBug drag](https://editor.p5js.org/jht1493/sketches/AKpx2vF1U)<!-- 2021-07-02T16:51:40.364Z -->  
 [Ex 6.2 JitterBug clamped](https://editor.p5js.org/jht1493/sketches/OLgbWg-a0)<!-- 2021-07-02T16:46:12.254Z -->  
@@ -34,7 +281,6 @@
 [4.3 array for-loop 2](https://editor.p5js.org/jht1493/sketches/tNqn2o0M3)<!-- 2021-05-20T05:27:08.986Z -->  
 [4.3 array colors alpha](https://editor.p5js.org/jht1493/sketches/a81qFOT7_)<!-- 2021-05-20T05:14:57.834Z -->  
 [3.4 bouncing ball pattern](https://editor.p5js.org/jht1493/sketches/r4HyeG6R8)<!-- 2021-05-13T04:14:55.820Z -->  
-[3.5 circleX a_len ui](https://editor.p5js.org/jht1493/sketches/qBt6Ty_7b)<!-- 2021-05-13T04:08:00.486Z -->  
 [3.5 circleX ui more](https://editor.p5js.org/jht1493/sketches/uGy4cEzbs)<!-- 2021-05-13T04:07:21.919Z -->  
 [4.1 pattern drawShape1](https://editor.p5js.org/jht1493/sketches/cA_XRhYnI)<!-- 2021-05-13T03:57:54.174Z -->  
 [4.1 pattern random 1](https://editor.p5js.org/jht1493/sketches/JM1F5XmJuJ)<!-- 2021-05-13T03:57:35.740Z -->  
@@ -354,7 +600,6 @@
 [head circle scale back](https://editor.p5js.org/jht1493/sketches/s4K2s3FRg)<!-- 2021-03-12T03:14:32.601Z -->  
 [double createCanvas](https://editor.p5js.org/jht1493/sketches/7ysqaUmat)<!-- 2021-03-11T04:22:42.479Z -->  
 [createCapture](https://editor.p5js.org/jht1493/sketches/F_uu2OQ8m)<!-- 2021-03-10T06:41:05.050Z -->  
-[bubble image alpha grid](https://editor.p5js.org/jht1493/sketches/smjuGOc5Z)<!-- 2021-03-08T13:22:51.863Z -->  
 [head circle](https://editor.p5js.org/jht1493/sketches/HC9y3joDz)<!-- 2021-03-07T22:50:44.949Z -->  
 [head circle 100](https://editor.p5js.org/jht1493/sketches/sNH4P8QEp)<!-- 2021-03-07T22:40:48.395Z -->  
 [bubble image alpha video](https://editor.p5js.org/jht1493/sketches/VAg5-djYX)<!-- 2021-03-07T01:42:29.258Z -->  
@@ -382,18 +627,14 @@
 [10PRINT stokeWeight random](https://editor.p5js.org/jht1493/sketches/2yNuL_kIb)<!-- 2021-02-22T23:04:41.083Z -->  
 [10PRINT stokeWeight](https://editor.p5js.org/jht1493/sketches/BPatGL4Pw)<!-- 2021-02-22T23:03:54.075Z -->  
 [10PRINT _step](https://editor.p5js.org/jht1493/sketches/wLXADLtvI)<!-- 2021-02-22T23:00:02.330Z -->  
-[text points plus perlin noise](https://editor.p5js.org/jht1493/sketches/FoN8-xraX)<!-- 2021-02-13T16:45:07.546Z -->  
-[loadJSON c19 series brooklyn](https://editor.p5js.org/jht1493/sketches/bxiT7lMbt)<!-- 2021-02-12T06:15:23.302Z -->  
 [Text To Points Examples copy](https://editor.p5js.org/jht1493/sketches/kncfw6qTC)<!-- 2021-02-11T03:04:50.457Z -->  
 [loadJSON c19 series brooklyn shape](https://editor.p5js.org/jht1493/sketches/evFtS3PGD)<!-- 2021-02-10T23:04:55.667Z -->  
 [covid-19-deaths nyc img](https://editor.p5js.org/jht1493/sketches/9e8IcjYo9)<!-- 2021-02-10T21:14:58.438Z -->  
 [covid-19-deaths a_refs](https://editor.p5js.org/jht1493/sketches/w83LHBCUr)<!-- 2021-02-10T21:11:43.912Z -->  
 [loadJSON c19 series](https://editor.p5js.org/jht1493/sketches/eIKzFZ1rv)<!-- 2021-02-10T20:58:44.149Z -->  
-[loadJSON c19 graph](https://editor.p5js.org/jht1493/sketches/1ZajWH3S8)<!-- 2021-02-10T04:02:03.035Z -->  
 [Admitted plot 2](https://editor.p5js.org/jht1493/sketches/zmGd5h7Hf)<!-- 2021-02-03T13:08:25.108Z -->  
 [loadJSON c19 format + c_regions](https://editor.p5js.org/jht1493/sketches/fGU4wVifo)<!-- 2021-02-03T03:34:17.259Z -->  
 [loadJSON c19 selection](https://editor.p5js.org/jht1493/sketches/YNQ6UgGUL)<!-- 2021-02-03T03:29:29.325Z -->  
-[loadJSON c19](https://editor.p5js.org/jht1493/sketches/JG-Wh7SQz)<!-- 2021-02-03T03:26:39.731Z -->  
 [covid-19-deaths tint imgs](https://editor.p5js.org/jht1493/sketches/z_nwk75pm)<!-- 2021-02-01T05:35:34.100Z -->  
 [Hallowed aura](https://editor.p5js.org/jht1493/sketches/21uSV9oI5)<!-- 2021-01-31T23:00:10.069Z -->  
 [covid-19-deaths tint img](https://editor.p5js.org/jht1493/sketches/Ehm3wAw9a)<!-- 2021-01-29T14:50:41.115Z -->  
@@ -420,7 +661,6 @@
 [loadJSON c19 sorted](https://editor.p5js.org/jht1493/sketches/FxbTpVyyL)<!-- 2020-12-18T13:36:40.870Z -->  
 [loadJSON c19 ui](https://editor.p5js.org/jht1493/sketches/Yi6VAAcN1)<!-- 2020-12-18T13:35:25.881Z -->  
 [Final Project - Coral Reefs copy](https://editor.p5js.org/jht1493/sketches/wN_8WL6kr)<!-- 2020-12-16T20:26:17.521Z -->  
-[17.1_playMode ui](https://editor.p5js.org/jht1493/sketches/_LdMqTjgu)<!-- 2020-12-15T21:14:15.885Z -->  
 [PoseNet Example 1](https://editor.p5js.org/jht1493/sketches/xKSDq-w4H)<!-- 2020-12-11T22:09:43.442Z -->  
 [Horse Number 1: Scratched nylon 2](https://editor.p5js.org/jht1493/sketches/Hud7Nq_KN)<!-- 2020-12-11T21:57:21.378Z -->  
 [Horse Number 1: Scratched nylon 1](https://editor.p5js.org/jht1493/sketches/Z4SL-Yxt4)<!-- 2020-12-10T19:27:34.705Z -->  
@@ -451,24 +691,18 @@
 [2:5 Basic String Manipulation line br](https://editor.p5js.org/jht1493/sketches/_xpl8mIlt)<!-- 2020-11-24T04:45:27.404Z -->  
 [2:5 Simple Markov](https://editor.p5js.org/jht1493/sketches/KKc0bBfr-)<!-- 2020-11-24T04:33:03.269Z -->  
 [2:2 Tri-Color Background-Foreground ui](https://editor.p5js.org/jht1493/sketches/1cz7yYcFM)<!-- 2020-11-24T04:21:27.639Z -->  
-[8 Note Envelope FFT ui](https://editor.p5js.org/jht1493/sketches/IFght-gvV)<!-- 2020-11-19T02:48:16.985Z -->  
 [Do-Ra-Me cue](https://editor.p5js.org/jht1493/sketches/BX1hj-IOH)<!-- 2020-11-19T01:09:48.465Z -->  
 [Do-Ra-Me a_index](https://editor.p5js.org/jht1493/sketches/S0Vzkc26f)<!-- 2020-11-18T23:39:30.055Z -->  
-[keyPressed 1QAZ FFT](https://editor.p5js.org/jht1493/sketches/S47diDJcd)<!-- 2020-11-18T23:27:34.019Z -->  
 [video scan sin r both](https://editor.p5js.org/jht1493/sketches/rVpCxRbBt)<!-- 2020-11-18T22:10:39.267Z -->  
 [2:4 % Drum ui](https://editor.p5js.org/jht1493/sketches/ApfFrz3J8)<!-- 2020-11-18T20:58:06.733Z -->  
 [2:4 milis Drum btn](https://editor.p5js.org/jht1493/sketches/VU2ptd42g)<!-- 2020-11-18T20:41:37.571Z -->  
 [17.11 + 7.8: Mic Input FFT](https://editor.p5js.org/jht1493/sketches/6me13jnns)<!-- 2020-11-18T14:47:04.855Z -->  
-[17.1: playMode](https://editor.p5js.org/jht1493/sketches/gA4F96LOA)<!-- 2020-11-18T02:13:22.228Z -->  
-[17.5_snake_game_sound](https://editor.p5js.org/jht1493/sketches/XPFEvFaF8)<!-- 2020-11-18T01:06:50.427Z -->  
-[17.7_soundEnvelope](https://editor.p5js.org/jht1493/sketches/1hNfw3M31)<!-- 2020-11-18T01:06:20.322Z -->  
 [Do-Ra-Me video time](https://editor.p5js.org/jht1493/sketches/S0ru5wsz1)<!-- 2020-11-17T23:49:59.859Z -->  
 [Do-Ra-Me video button](https://editor.p5js.org/jht1493/sketches/7QR8AZteU)<!-- 2020-11-17T23:49:24.918Z -->  
 [Do-Ra-Me image video](https://editor.p5js.org/jht1493/sketches/IgdWIIGYk)<!-- 2020-11-17T23:48:12.414Z -->  
 [Do-Ra-Me image](https://editor.p5js.org/jht1493/sketches/P8hThYYZU)<!-- 2020-11-17T23:46:38.719Z -->  
 [Do-Ra-Me key](https://editor.p5js.org/jht1493/sketches/b_lj_27Cl)<!-- 2020-11-17T23:44:46.229Z -->  
 [Do-Ra-Me 1](https://editor.p5js.org/jht1493/sketches/0sWWNHDSA)<!-- 2020-11-17T04:56:21.420Z -->  
-[17.6_soundSynthesis](https://editor.p5js.org/jht1493/sketches/PNuNz9dfX)<!-- 2020-11-17T04:21:22.571Z -->  
 [keyPressed notes 1QAZ midi](https://editor.p5js.org/jht1493/sketches/gzgR2c2mz)<!-- 2020-11-17T01:45:10.572Z -->  
 [keyPressed notes 1QAZ](https://editor.p5js.org/jht1493/sketches/k4vWzBgN9)<!-- 2020-11-16T23:46:57.896Z -->  
 [keyPressed notes 1QAZ a_fading](https://editor.p5js.org/jht1493/sketches/yJte0nh5w)<!-- 2020-11-16T23:42:38.539Z -->  
@@ -485,7 +719,6 @@
 [Flicker skirt copy](https://editor.p5js.org/jht1493/sketches/rzkZZkbH9)<!-- 2020-11-12T01:41:11.978Z -->  
 [17.11: Sound Visualization line](https://editor.p5js.org/jht1493/sketches/78NHl2QM0)<!-- 2020-11-11T23:02:06.036Z -->  
 [17.8: Microphone Input FFT](https://editor.p5js.org/jht1493/sketches/oPtA9wxPL)<!-- 2020-11-11T23:01:28.499Z -->  
-[17.8: Microphone Input](https://editor.p5js.org/jht1493/sketches/AjlzQD2gj)<!-- 2020-11-11T23:00:18.548Z -->  
 [17.4: Amplitude Analysis + mic](https://editor.p5js.org/jht1493/sketches/c-E6SRXxW)<!-- 2020-11-11T22:59:29.624Z -->  
 [17.4: Amplitude Analysis + this dot](https://editor.p5js.org/jht1493/sketches/7CR1KbTlV)<!-- 2020-11-11T22:58:58.537Z -->  
 [17.11 + 7.8: Mic Input FFT big](https://editor.p5js.org/jht1493/sketches/0S9HLok88)<!-- 2020-11-11T22:38:55.465Z -->  
@@ -533,7 +766,6 @@
 [pixel scan rain](https://editor.p5js.org/jht1493/sketches/pSdYQ_GF3)<!-- 2020-11-02T04:21:37.279Z -->  
 [pixel scan yend](https://editor.p5js.org/jht1493/sketches/fcL_aT0y8)<!-- 2020-11-02T04:09:01.217Z -->  
 [pixel scan lower](https://editor.p5js.org/jht1493/sketches/p_UiwQ5wK)<!-- 2020-11-02T04:06:11.801Z -->  
-[pixel scan full](https://editor.p5js.org/jht1493/sketches/FjiLnBs_u)<!-- 2020-11-02T04:01:50.680Z -->  
 [erase webgl torus](https://editor.p5js.org/jht1493/sketches/4-nCBcbO4)<!-- 2020-11-01T21:57:22.203Z -->  
 [pixel bestill Float64Array copy](https://editor.p5js.org/jht1493/sketches/toIt2Qmkj)<!-- 2020-11-01T07:41:10.483Z -->  
 [pixel maze erase](https://editor.p5js.org/jht1493/sketches/At3k-UALX)<!-- 2020-11-01T07:25:17.428Z -->  
@@ -576,9 +808,6 @@
 [11.5: Checkbox Mirror ok](https://editor.p5js.org/jht1493/sketches/uYk7qAQM2)<!-- 2020-10-27T18:29:07.550Z -->  
 [11.8: Video Effects with Seriously.js - chroma](https://editor.p5js.org/jht1493/sketches/lUoSWn7KC)<!-- 2020-10-27T18:17:07.647Z -->  
 [11.8: Video Effects with Seriously.js - blur](https://editor.p5js.org/jht1493/sketches/khSNfD2jM)<!-- 2020-10-27T18:16:53.037Z -->  
-[11.6: Painting with Pixels](https://editor.p5js.org/jht1493/sketches/M5z0cUqPl)<!-- 2020-10-27T18:14:25.154Z -->  
-[11.5: Checkbox Mirror error](https://editor.p5js.org/jht1493/sketches/csEtgTYBU)<!-- 2020-10-27T18:14:12.294Z -->  
-[11.3: The Pixel Array](https://editor.p5js.org/jht1493/sketches/GiSAQWxq4)<!-- 2020-10-27T18:13:57.254Z -->  
 [11.1: Live Video 2x2 tint](https://editor.p5js.org/jht1493/sketches/8NMtstCRQ)<!-- 2020-10-27T18:06:07.268Z -->  
 [11.4: Brightness Mirror](https://editor.p5js.org/jht1493/sketches/z7tzc3Ks9)<!-- 2020-10-27T18:04:24.576Z -->  
 [11.6: Painting with Pixels copy](https://editor.p5js.org/jht1493/sketches/Of9qAUcAM)<!-- 2020-10-27T17:52:48.352Z -->  
@@ -588,11 +817,9 @@
 [7.4 Mouse interaction with objects](https://editor.p5js.org/jht1493/sketches/LrhcIzvr2)<!-- 2020-10-27T03:45:39.275Z -->  
 [equilateral triangle 6](https://editor.p5js.org/jht1493/sketches/yxDWkjIqf)<!-- 2020-10-26T16:53:20.837Z -->  
 [11.4-Brightness vScale 4](https://editor.p5js.org/jht1493/sketches/xSG4oMvEJ)<!-- 2020-10-26T07:54:14.672Z -->  
-[bubble image](https://editor.p5js.org/jht1493/sketches/aUF-_C0xL)<!-- 2020-10-26T06:22:13.680Z -->  
 [bubble drop select](https://editor.p5js.org/jht1493/sketches/9QYJpYm1I)<!-- 2020-10-26T06:14:29.109Z -->  
 [bubble image alpha](https://editor.p5js.org/jht1493/sketches/nb5oy7oei)<!-- 2020-10-26T05:32:39.860Z -->  
 [11.4-Brightness inverse center](https://editor.p5js.org/jht1493/sketches/nhzF9YrQ_)<!-- 2020-10-26T05:22:17.980Z -->  
-[11.4: Brightness color](https://editor.p5js.org/jht1493/sketches/8uEKBChH_)<!-- 2020-10-26T03:21:47.487Z -->  
 [11.4: Brightness no mirror](https://editor.p5js.org/jht1493/sketches/UxmXmYJXG)<!-- 2020-10-25T16:15:07.565Z -->  
 [scan 1](https://editor.p5js.org/jht1493/sketches/gnmoqmzbH)<!-- 2020-10-24T04:23:09.272Z -->  
 [scan](https://editor.p5js.org/jht1493/sketches/G8XhYhPK7)<!-- 2020-10-24T01:11:33.610Z -->  
@@ -810,7 +1037,6 @@
 [report_msg line_num](https://editor.p5js.org/jht1493/sketches/KMv3WaVCz)<!-- 2020-09-17T17:49:57.892Z -->  
 [Self-Portrait - Abby](https://editor.p5js.org/jht1493/sketches/TYxVgIZvj)<!-- 2020-09-17T16:46:01.166Z -->  
 [report_msg frameCount](https://editor.p5js.org/jht1493/sketches/_QZjP21LD6)<!-- 2020-09-17T00:49:23.675Z -->  
-[mouseXY print](https://editor.p5js.org/jht1493/sketches/9Ff0SOP6x)<!-- 2020-09-16T22:53:54.641Z -->  
 [zoog func draw mouseY](https://editor.p5js.org/jht1493/sketches/0bbB7pf8R)<!-- 2020-09-16T22:52:15.416Z -->  
 [hand drawn plan](https://editor.p5js.org/jht1493/sketches/0eRP4Lg2I)<!-- 2020-09-16T13:45:12.336Z -->  
 [report_msg frameCount round](https://editor.p5js.org/jht1493/sketches/OhV7PdXNk)<!-- 2020-09-15T13:55:00.718Z -->  

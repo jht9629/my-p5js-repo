@@ -1,5 +1,5 @@
 # Collections for jht1493
-32 collections  
+34 collections  
 [AA gswp5 01-03 Draw](https://editor.p5js.org/jht1493/collections/l4oMbMJ_u)<!-- 2021-04-15T22:36:22.551Z -->  
 [AA gswp5 04 Variables](https://editor.p5js.org/jht1493/collections/yH3IYcxzz)<!-- 2021-04-15T22:36:56.248Z -->  
 [AA gswp5 05 Response](https://editor.p5js.org/jht1493/collections/u8b97q_m7)<!-- 2021-04-15T22:37:10.799Z -->  
@@ -15,7 +15,9 @@
 [ICM-Next](https://editor.p5js.org/jht1493/collections/srbIzG7wS)<!-- 2020-10-28T03:48:28.609Z -->  
 [ICM-Week-1](https://editor.p5js.org/jht1493/collections/TBLcSMZhr)<!-- 2020-09-04T01:30:06.285Z -->  
 [ICM-Week-10-Class](https://editor.p5js.org/jht1493/collections/VASEcFNAa)<!-- 2020-11-12T14:19:09.601Z -->  
+[ICM-Week-10-Sound](https://editor.p5js.org/jht1493/collections/xgLMHI3T8)<!-- 2021-11-10T21:13:04.771Z -->  
 [ICM-Week-11](https://editor.p5js.org/jht1493/collections/yKaB3Zfsm)<!-- 2020-11-17T04:14:32.719Z -->  
+[ICM-Week-11-Sound](https://editor.p5js.org/jht1493/collections/VHEtQB2oC)<!-- 2021-11-17T17:25:45.187Z -->  
 [ICM-Week-12-Text](https://editor.p5js.org/jht1493/collections/tXfqLolYw)<!-- 2020-12-18T13:42:43.674Z -->  
 [ICM-Week-2](https://editor.p5js.org/jht1493/collections/_qClsV7lj)<!-- 2020-09-17T16:15:20.098Z -->  
 [ICM-Week-3](https://editor.p5js.org/jht1493/collections/HRfrA78ct)<!-- 2020-09-30T05:23:40.461Z -->  
@@ -24,7 +26,7 @@
 [ICM-Week-5](https://editor.p5js.org/jht1493/collections/WZMrJc0v4)<!-- 2020-10-08T17:53:42.696Z -->  
 [ICM-Week-6](https://editor.p5js.org/jht1493/collections/6AL7KgTON)<!-- 2020-10-15T01:42:48.785Z -->  
 [ICM-Week-7](https://editor.p5js.org/jht1493/collections/Gr9aCJs6t)<!-- 2020-11-15T05:49:13.950Z -->  
-[ICM-Week-8](https://editor.p5js.org/jht1493/collections/XKr_AXpaT)<!-- 2020-10-23T18:36:50.195Z -->  
+[ICM-Week-8](https://editor.p5js.org/jht1493/collections/XKr_AXpaT)<!-- 2021-10-27T20:49:08.133Z -->  
 [ICM-Week-8-Class](https://editor.p5js.org/jht1493/collections/u2Fm7rGH4)<!-- 2020-10-31T23:48:25.606Z -->  
 [ICM-Week-9-Class](https://editor.p5js.org/jht1493/collections/4fE4Q_kUE)<!-- 2020-11-06T20:25:10.623Z -->  
 [My sandy collection](https://editor.p5js.org/jht1493/collections/hYw6hu3mm)<!-- 2020-10-23T18:54:52.842Z -->  
@@ -216,6 +218,25 @@
 [17.8: Microphone Input FFT](https://editor.p5js.org/jht1493/sketches/oPtA9wxPL)  
 [2:3 FFT Mic](https://editor.p5js.org/jht1493/sketches/Xs5E9gPoG)  
 
+# ICM-Week-10-Sound
+16 sketches  
+[17.1_playMode ui edit](https://editor.p5js.org/jht1493/sketches/B3ZFF-M2q)  
+[17.1_playMode ui edit visual](https://editor.p5js.org/jht1493/sketches/BnkIJwE5R)  
+[17.1_playSong](https://editor.p5js.org/jht1493/sketches/JzUpCtscr)  
+[17.1_playSong async](https://editor.p5js.org/jht1493/sketches/W-_IGbU35)  
+[17.10_radialGraph](https://editor.p5js.org/jht1493/sketches/Q1gCKuVib)  
+[17.11_FFT](https://editor.p5js.org/jht1493/sketches/hbUBiLwwD)  
+[17.11_FFT ui](https://editor.p5js.org/jht1493/sketches/qc-h1wL27)  
+[17.2_pauseSong](https://editor.p5js.org/jht1493/sketches/g0Y0DrH1a)  
+[17.3_cueSong](https://editor.p5js.org/jht1493/sketches/ImSljxbEn)  
+[17.3_cueSong play pause](https://editor.p5js.org/jht1493/sketches/FHXX45k9z)  
+[17.4_amplitudeSong](https://editor.p5js.org/jht1493/sketches/gODjef3N4)  
+[17.5_snake_game_sound](https://editor.p5js.org/jht1493/sketches/XPFEvFaF8)  
+[17.6_soundSynthesis](https://editor.p5js.org/jht1493/sketches/PNuNz9dfX)  
+[17.7_soundEnvelope](https://editor.p5js.org/jht1493/sketches/1hNfw3M31)  
+[17.8: Microphone Input](https://editor.p5js.org/jht1493/sketches/AjlzQD2gj)  
+[17.9_graphingAmplitude](https://editor.p5js.org/jht1493/sketches/0SuvHQbKk)  
+
 # ICM-Week-11
 6 sketches  
 [17.1_playMode ui](https://editor.p5js.org/jht1493/sketches/_LdMqTjgu)  
@@ -225,9 +246,13 @@
 [8 Note Envelope FFT ui](https://editor.p5js.org/jht1493/sketches/IFght-gvV)  
 [keyPressed 1QAZ FFT](https://editor.p5js.org/jht1493/sketches/S47diDJcd)  
 
+# ICM-Week-11-Sound
+1 sketches  
+[scale-amp](https://editor.p5js.org/jht1493/sketches/QWKytZi9v)  
+
 # ICM-Week-12-Text
 1 sketches  
-[loadJSON c19](https://editor.p5js.org/jht1493/sketches/JG-Wh7SQz)  
+[loadJSON covid-19](https://editor.p5js.org/jht1493/sketches/JG-Wh7SQz)  
 
 # ICM-Week-2
 15 sketches  
@@ -335,13 +360,12 @@
 [bubble drop select](https://editor.p5js.org/jht1493/sketches/9QYJpYm1I)  
 
 # ICM-Week-8
-12 sketches  
+11 sketches  
 [11.1: Live Video 2x2 tint](https://editor.p5js.org/jht1493/sketches/8NMtstCRQ)  
 [11.1: Live Video and createCapture](https://editor.p5js.org/jht1493/sketches/MtdR3vBcj)  
 [11.2: Video Photobooth](https://editor.p5js.org/jht1493/sketches/pTG_ysiGf)  
 [11.3: The Pixel Array](https://editor.p5js.org/jht1493/sketches/GiSAQWxq4)  
 [11.4: Brightness Mirror](https://editor.p5js.org/jht1493/sketches/z7tzc3Ks9)  
-[11.5: Checkbox Mirror error](https://editor.p5js.org/jht1493/sketches/csEtgTYBU)  
 [11.5: Checkbox Mirror ok](https://editor.p5js.org/jht1493/sketches/uYk7qAQM2)  
 [11.6: Painting with Pixels](https://editor.p5js.org/jht1493/sketches/M5z0cUqPl)  
 [11.7: Slit-Scan](https://editor.p5js.org/jht1493/sketches/zBH7ThRpP)  

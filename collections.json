@@ -2877,6 +2877,327 @@
     "id": "VASEcFNAa"
   },
   {
+    "name": "ICM-Week-10-Sound",
+    "_id": "xgLMHI3T8",
+    "owner": {
+      "_id": "5f32f01d6b63fd002457940e",
+      "username": "jht1493",
+      "id": "5f32f01d6b63fd002457940e"
+    },
+    "description": "",
+    "slug": "ICM_Week_10_Sound",
+    "items": [
+      {
+        "_id": "618b3bf4c60c2e0024559262",
+        "project": {
+          "name": "17.1_playSong",
+          "_id": "JzUpCtscr",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.1_playSong",
+          "id": "JzUpCtscr"
+        },
+        "createdAt": "2021-11-10T03:26:44.429Z",
+        "updatedAt": "2021-11-10T03:26:44.429Z",
+        "id": "618b3bf4c60c2e0024559262",
+        "projectId": "JzUpCtscr",
+        "isDeleted": false
+      },
+      {
+        "_id": "618b3d55c60c2e0024559688",
+        "project": {
+          "name": "17.1_playSong async",
+          "_id": "W-_IGbU35",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.1_playSong_copy",
+          "id": "W-_IGbU35"
+        },
+        "createdAt": "2021-11-10T03:32:37.258Z",
+        "updatedAt": "2021-11-10T03:32:37.258Z",
+        "id": "618b3d55c60c2e0024559688",
+        "projectId": "W-_IGbU35",
+        "isDeleted": false
+      },
+      {
+        "_id": "618b3f49c9eea90024269eeb",
+        "project": {
+          "name": "17.2_pauseSong",
+          "_id": "g0Y0DrH1a",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.1_playSong_copy",
+          "id": "g0Y0DrH1a"
+        },
+        "createdAt": "2021-11-10T03:40:57.284Z",
+        "updatedAt": "2021-11-10T03:40:57.284Z",
+        "id": "618b3f49c9eea90024269eeb",
+        "projectId": "g0Y0DrH1a",
+        "isDeleted": false
+      },
+      {
+        "_id": "618b41c9c60c2e002455a56b",
+        "project": {
+          "name": "17.3_cueSong",
+          "_id": "ImSljxbEn",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.2_pauseSong_copy",
+          "id": "ImSljxbEn"
+        },
+        "createdAt": "2021-11-10T03:51:37.285Z",
+        "updatedAt": "2021-11-10T03:51:37.285Z",
+        "id": "618b41c9c60c2e002455a56b",
+        "projectId": "ImSljxbEn",
+        "isDeleted": false
+      },
+      {
+        "_id": "618b43b4c60c2e002455aae7",
+        "project": {
+          "name": "17.3_cueSong play pause",
+          "_id": "FHXX45k9z",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.3_cueSong_copy",
+          "id": "FHXX45k9z"
+        },
+        "createdAt": "2021-11-10T03:59:48.829Z",
+        "updatedAt": "2021-11-10T03:59:48.829Z",
+        "id": "618b43b4c60c2e002455aae7",
+        "projectId": "FHXX45k9z",
+        "isDeleted": false
+      },
+      {
+        "_id": "618b478cc60c2e002455bbb5",
+        "project": {
+          "name": "17.4_amplitudeSong",
+          "_id": "gODjef3N4",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.1_playSong_copy_copy",
+          "id": "gODjef3N4"
+        },
+        "createdAt": "2021-11-10T04:16:12.431Z",
+        "updatedAt": "2021-11-10T04:16:12.431Z",
+        "id": "618b478cc60c2e002455bbb5",
+        "projectId": "gODjef3N4",
+        "isDeleted": false
+      },
+      {
+        "_id": "618b483bc60c2e002455bdfa",
+        "project": {
+          "name": "17.5_snake_game_sound",
+          "_id": "XPFEvFaF8",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.5_snake_game_sound",
+          "id": "XPFEvFaF8"
+        },
+        "createdAt": "2021-11-10T04:19:07.548Z",
+        "updatedAt": "2021-11-10T04:19:07.548Z",
+        "id": "618b483bc60c2e002455bdfa",
+        "projectId": "XPFEvFaF8",
+        "isDeleted": false
+      },
+      {
+        "_id": "618b48a3c60c2e002455bf9f",
+        "project": {
+          "name": "17.6_soundSynthesis",
+          "_id": "PNuNz9dfX",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.6_soundSynthesis",
+          "id": "PNuNz9dfX"
+        },
+        "createdAt": "2021-11-10T04:20:51.979Z",
+        "updatedAt": "2021-11-10T04:20:51.979Z",
+        "id": "618b48a3c60c2e002455bf9f",
+        "projectId": "PNuNz9dfX",
+        "isDeleted": false
+      },
+      {
+        "_id": "618b4963d5db430020b06dd6",
+        "project": {
+          "name": "17.7_soundEnvelope",
+          "_id": "1hNfw3M31",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.7_soundEnvelope",
+          "id": "1hNfw3M31"
+        },
+        "createdAt": "2021-11-10T04:24:03.693Z",
+        "updatedAt": "2021-11-10T04:24:03.693Z",
+        "id": "618b4963d5db430020b06dd6",
+        "projectId": "1hNfw3M31",
+        "isDeleted": false
+      },
+      {
+        "_id": "618b4ae2c60c2e002455c5c5",
+        "project": {
+          "name": "17.8: Microphone Input",
+          "_id": "AjlzQD2gj",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "Skinny_brie",
+          "id": "AjlzQD2gj"
+        },
+        "createdAt": "2021-11-10T04:30:26.867Z",
+        "updatedAt": "2021-11-10T04:30:26.867Z",
+        "id": "618b4ae2c60c2e002455c5c5",
+        "projectId": "AjlzQD2gj",
+        "isDeleted": false
+      },
+      {
+        "_id": "618b4d2bd5db430020b07b7a",
+        "project": {
+          "name": "17.9_graphingAmplitude",
+          "_id": "0SuvHQbKk",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.1_playSong_copy",
+          "id": "0SuvHQbKk"
+        },
+        "createdAt": "2021-11-10T04:40:11.929Z",
+        "updatedAt": "2021-11-10T04:40:11.929Z",
+        "id": "618b4d2bd5db430020b07b7a",
+        "projectId": "0SuvHQbKk",
+        "isDeleted": false
+      },
+      {
+        "_id": "618b4ed0c60c2e002455d83c",
+        "project": {
+          "name": "17.10_radialGraph",
+          "_id": "Q1gCKuVib",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.9_graphingAmplitude_copy",
+          "id": "Q1gCKuVib"
+        },
+        "createdAt": "2021-11-10T04:47:12.500Z",
+        "updatedAt": "2021-11-10T04:47:12.500Z",
+        "id": "618b4ed0c60c2e002455d83c",
+        "projectId": "Q1gCKuVib",
+        "isDeleted": false
+      },
+      {
+        "_id": "618b500cd5db430020b08828",
+        "project": {
+          "name": "17.11_FFT",
+          "_id": "hbUBiLwwD",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.1_playSong_copy",
+          "id": "hbUBiLwwD"
+        },
+        "createdAt": "2021-11-10T04:52:28.304Z",
+        "updatedAt": "2021-11-10T04:52:28.304Z",
+        "id": "618b500cd5db430020b08828",
+        "projectId": "hbUBiLwwD",
+        "isDeleted": false
+      },
+      {
+        "_id": "618bda3f3a211e0024172106",
+        "project": {
+          "name": "17.11_FFT ui",
+          "_id": "qc-h1wL27",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.11_FFT_copy",
+          "id": "qc-h1wL27"
+        },
+        "createdAt": "2021-11-10T14:42:07.155Z",
+        "updatedAt": "2021-11-10T14:42:07.155Z",
+        "id": "618bda3f3a211e0024172106",
+        "projectId": "qc-h1wL27",
+        "isDeleted": false
+      },
+      {
+        "_id": "618c35cc02a0c70024735ff3",
+        "project": {
+          "name": "17.1_playMode ui edit",
+          "_id": "B3ZFF-M2q",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.1_playMode_ui_debug_loop_copy",
+          "id": "B3ZFF-M2q"
+        },
+        "createdAt": "2021-11-10T21:12:44.336Z",
+        "updatedAt": "2021-11-10T21:12:44.336Z",
+        "id": "618c35cc02a0c70024735ff3",
+        "projectId": "B3ZFF-M2q",
+        "isDeleted": false
+      },
+      {
+        "_id": "618c35e002a0c7002473603f",
+        "project": {
+          "name": "17.1_playMode ui edit visual",
+          "_id": "BnkIJwE5R",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "17.1_playMode_ui_debug_edit_copy",
+          "id": "BnkIJwE5R"
+        },
+        "createdAt": "2021-11-10T21:13:04.771Z",
+        "updatedAt": "2021-11-10T21:13:04.771Z",
+        "id": "618c35e002a0c7002473603f",
+        "projectId": "BnkIJwE5R",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2021-11-10T03:05:45.947Z",
+    "updatedAt": "2021-11-10T21:13:04.771Z",
+    "__v": 18,
+    "id": "xgLMHI3T8"
+  },
+  {
     "name": "ICM-Week-11",
     "_id": "yKaB3Zfsm",
     "owner": {
@@ -3008,6 +3329,42 @@
     "id": "yKaB3Zfsm"
   },
   {
+    "name": "ICM-Week-11-Sound",
+    "_id": "VHEtQB2oC",
+    "owner": {
+      "_id": "5f32f01d6b63fd002457940e",
+      "username": "jht1493",
+      "id": "5f32f01d6b63fd002457940e"
+    },
+    "description": "",
+    "slug": "ICM_Week_11_Sound",
+    "items": [
+      {
+        "_id": "61953b19672ecd00240388c6",
+        "project": {
+          "name": "scale-amp",
+          "_id": "QWKytZi9v",
+          "user": {
+            "_id": "5f32f01d6b63fd002457940e",
+            "username": "jht1493",
+            "id": "5f32f01d6b63fd002457940e"
+          },
+          "slug": "scale_amp",
+          "id": "QWKytZi9v"
+        },
+        "createdAt": "2021-11-17T17:25:45.187Z",
+        "updatedAt": "2021-11-17T17:25:45.187Z",
+        "id": "61953b19672ecd00240388c6",
+        "projectId": "QWKytZi9v",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2021-11-17T17:25:36.089Z",
+    "updatedAt": "2021-11-17T17:25:45.187Z",
+    "__v": 1,
+    "id": "VHEtQB2oC"
+  },
+  {
     "name": "ICM-Week-12-Text",
     "_id": "tXfqLolYw",
     "owner": {
@@ -3021,7 +3378,7 @@
       {
         "_id": "5fdcb1d31bda950024da3558",
         "project": {
-          "name": "loadJSON c19",
+          "name": "loadJSON covid-19",
           "_id": "JG-Wh7SQz",
           "user": {
             "_id": "5f32f01d6b63fd002457940e",
@@ -4807,25 +5164,6 @@
         "isDeleted": false
       },
       {
-        "_id": "5f8ab87d6d94e2002074bd7a",
-        "project": {
-          "name": "11.5: Checkbox Mirror error",
-          "_id": "csEtgTYBU",
-          "user": {
-            "_id": "5f32f01d6b63fd002457940e",
-            "username": "jht1493",
-            "id": "5f32f01d6b63fd002457940e"
-          },
-          "slug": "Discovered_harrier",
-          "id": "csEtgTYBU"
-        },
-        "createdAt": "2020-10-17T09:25:17.781Z",
-        "updatedAt": "2020-10-17T09:25:17.781Z",
-        "id": "5f8ab87d6d94e2002074bd7a",
-        "projectId": "csEtgTYBU",
-        "isDeleted": false
-      },
-      {
         "_id": "5f8ab911cb3e2f002413ce53",
         "project": {
           "name": "11.1: Live Video and createCapture",
@@ -5017,8 +5355,8 @@
       }
     ],
     "createdAt": "2020-10-17T03:46:08.650Z",
-    "updatedAt": "2020-10-23T18:36:50.195Z",
-    "__v": 16,
+    "updatedAt": "2021-10-27T20:49:08.133Z",
+    "__v": 17,
     "id": "XKr_AXpaT"
   },
   {
