@@ -1,5 +1,5 @@
 # Sketches for jht1493
-1374 sketches  
+1372 sketches  
 [[P.COMP] Positional LED Sampler Manual Change copy](https://editor.p5js.org/jht1493/sketches/OOqwT3Smj)<!-- 2022-12-14T20:42:28.368Z -->  
 [1.1 draw_rect](https://editor.p5js.org/jht1493/sketches/WJFtFBmnK)<!-- 2021-03-21T20:48:04.012Z -->  
 [1.1 draw_rect_alpha](https://editor.p5js.org/jht1493/sketches/6mrwOv4RD)<!-- 2021-04-10T03:22:07.691Z -->  
@@ -831,7 +831,7 @@
 [head param scale](https://editor.p5js.org/jht1493/sketches/xfnCrqjkK)<!-- 2021-03-12T14:59:00.005Z -->  
 [hearts hearts hearts copy](https://editor.p5js.org/jht1493/sketches/LbV9gPpVn)<!-- 2020-11-06T19:58:09.758Z -->  
 [homework2 copy](https://editor.p5js.org/jht1493/sketches/KCLZ_Jtc7)<!-- 2020-08-25T15:16:23.037Z -->  
-[Horse Number 1: Scratched nylon 1](https://editor.p5js.org/jht1493/sketches/Z4SL-Yxt4)<!-- 2020-12-10T19:27:34.705Z -->  
+[Horse Number 1: Scratched nylon 1](https://editor.p5js.org/jht1493/sketches/Z4SL-Yxt4)<!-- 2022-12-23T21:12:57.454Z -->  
 [Horse Number 1: Scratched nylon 2](https://editor.p5js.org/jht1493/sketches/Hud7Nq_KN)<!-- 2020-12-11T21:57:21.378Z -->  
 [HTML color codes and names copy](https://editor.p5js.org/jht1493/sketches/vhPVm8WCWX)<!-- 2022-10-02T12:31:10.681Z -->  
 [Humble waste](https://editor.p5js.org/jht1493/sketches/lClzrJPSR)<!-- 2020-10-31T16:41:19.215Z -->  
@@ -1165,8 +1165,6 @@
 [Spotlight video](https://editor.p5js.org/jht1493/sketches/OvSrgG3JD)<!-- 2020-11-03T18:58:39.925Z -->  
 [Spotlight with Capture xy-cross-hair](https://editor.p5js.org/jht1493/sketches/32gJswO2L)<!-- 2020-11-03T18:46:02.230Z -->  
 [square rollover](https://editor.p5js.org/jht1493/sketches/fHPelvesv)<!-- 2020-09-23T22:18:32.227Z -->  
-[stella pointilism on image](https://editor.p5js.org/jht1493/sketches/1F77MInoy)<!-- 2020-11-09T13:06:20.064Z -->  
-[stella pointilism on image copy](https://editor.p5js.org/jht1493/sketches/kiEus4UhK)<!-- 2020-11-06T20:28:50.509Z -->  
 [Student Picker](https://editor.p5js.org/jht1493/sketches/u9MuGLpsj)<!-- 2022-07-26T19:31:51.882Z -->  
 [sum](https://editor.p5js.org/jht1493/sketches/8bxTAM84n)<!-- 2020-10-08T02:41:28.512Z -->  
 [swarm copy](https://editor.p5js.org/jht1493/sketches/l0ELAKVpW)<!-- 2020-10-23T15:10:11.559Z -->  

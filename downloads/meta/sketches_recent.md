@@ -1,5 +1,6 @@
 # Sketches for jht1493
-1374 sketches  
+1372 sketches  
+[Horse Number 1: Scratched nylon 1](https://editor.p5js.org/jht1493/sketches/Z4SL-Yxt4)<!-- 2022-12-23T21:12:57.454Z -->  
 [blur halo copy](https://editor.p5js.org/jht1493/sketches/96FIUb5Vs)<!-- 2022-12-23T18:20:58.162Z -->  
 [[P.COMP] Positional LED Sampler Manual Change copy](https://editor.p5js.org/jht1493/sketches/OOqwT3Smj)<!-- 2022-12-14T20:42:28.368Z -->  
 [meteorites array](https://editor.p5js.org/jht1493/sketches/E8VTO0IaL)<!-- 2022-12-12T23:02:18.522Z -->  
@@ -909,7 +910,6 @@
 [loadJSON c19 ui](https://editor.p5js.org/jht1493/sketches/Yi6VAAcN1)<!-- 2020-12-18T13:35:25.881Z -->  
 [Final Project - Coral Reefs copy](https://editor.p5js.org/jht1493/sketches/wN_8WL6kr)<!-- 2020-12-16T20:26:17.521Z -->  
 [Horse Number 1: Scratched nylon 2](https://editor.p5js.org/jht1493/sketches/Hud7Nq_KN)<!-- 2020-12-11T21:57:21.378Z -->  
-[Horse Number 1: Scratched nylon 1](https://editor.p5js.org/jht1493/sketches/Z4SL-Yxt4)<!-- 2020-12-10T19:27:34.705Z -->  
 [Final Project - Coral Reefs copy](https://editor.p5js.org/jht1493/sketches/eP18pZoUW)<!-- 2020-12-10T18:21:41.013Z -->  
 [Face Tracking copy](https://editor.p5js.org/jht1493/sketches/F7CnDd1It)<!-- 2020-12-10T18:07:13.579Z -->  
 [2:5 Display string hsb draw xoff](https://editor.p5js.org/jht1493/sketches/_2pI9C6Mx)<!-- 2020-12-10T15:21:59.669Z -->  
@@ -979,8 +979,6 @@
 [sound currentTime](https://editor.p5js.org/jht1493/sketches/mUuBkCAnP)<!-- 2020-11-11T04:03:53.916Z -->  
 [sound currentTime freeze](https://editor.p5js.org/jht1493/sketches/Qwkt_b843)<!-- 2020-11-11T03:42:49.706Z -->  
 [Warm berry](https://editor.p5js.org/jht1493/sketches/_FTDhwNBb)<!-- 2020-11-11T03:12:41.588Z -->  
-[stella pointilism on image](https://editor.p5js.org/jht1493/sketches/1F77MInoy)<!-- 2020-11-09T13:06:20.064Z -->  
-[stella pointilism on image copy](https://editor.p5js.org/jht1493/sketches/kiEus4UhK)<!-- 2020-11-06T20:28:50.509Z -->  
 [hearts hearts hearts copy](https://editor.p5js.org/jht1493/sketches/LbV9gPpVn)<!-- 2020-11-06T19:58:09.758Z -->  
 [video scan h v grid](https://editor.p5js.org/jht1493/sketches/Od9wfIK4T)<!-- 2020-11-04T20:47:14.226Z -->  
 [2:2  Linear v. Exp Brightness copy](https://editor.p5js.org/jht1493/sketches/oFIxEy3W8)<!-- 2020-11-04T20:28:56.320Z -->  
