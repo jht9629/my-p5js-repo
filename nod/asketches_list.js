@@ -9,9 +9,18 @@ require('dotenv').config();
 const user_name = process.env.USER_NAME || 'jht1493';
 console.log('user_name', user_name);
 
-const json_path = path.join(__dirname, '..', 'sketches.json');
-const list_path = path.join(__dirname, '..', 'sketches.md');
-const list_recent_path = path.join(__dirname, '..', 'sketches_recent.md');
+let my_root_path = path.join(__dirname, '..', 'mine');
+let my_meta_path = path.join(my_root_path, 'meta');
+let my_sketches_path = path.join(my_root_path, 'sketches');
+
+fs.ensureDirSync(my_meta_path);
+fs.ensureDirSync(my_sketches_path);
+
+const json_path = path.join(my_meta_path, 'sketches.json');
+const list_path = path.join(my_meta_path, 'sketches.md');
+const list_recent_path = path.join(my_meta_path, 'sketches_recent.md');
+const download_sh_path = path.join(my_meta_path, 'download.sh');
+
 const sketch_href = `https://editor.p5js.org/editor/${user_name}/projects`;
 
 let href_read = 1;
@@ -35,6 +44,7 @@ function list_sketches(sks, list_path) {
   let lines = [];
   lines.push('# Sketches for ' + user_name);
   lines.push([`${sks.length} sketches  `]);
+  let download_lines = [];
   sks.forEach((item) => {
     // console.log(index, 'project.name', item.project.name);
     // console.log(index, 'projectId', item.projectId);
@@ -44,8 +54,12 @@ function list_sketches(sks, list_path) {
     lines.push(
       `[${name}](https://editor.p5js.org/${user_name}/sketches/${id})<!-- ${updatedAt} -->  `
     );
+    download_lines.push(
+      `curl https://editor.p5js.org/editor/projects/${id}/zip -o "mine/sketches/${name}.zip"`
+    );
   });
   fs.writeFileSync(list_path, lines.join('\n'));
+  fs.writeFileSync(download_sh_path, download_lines.join('\n'));
 }
 
 async function read_href(sketch_href, json_path) {

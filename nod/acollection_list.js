@@ -7,8 +7,14 @@ require('dotenv').config();
 const user_name = process.env.USER_NAME || 'jht1493';
 console.log('user_name', user_name);
 
-const json_path = path.join(__dirname, '..', 'collections.json');
-const list_path = path.join(__dirname, '..', 'collections.md');
+let my_root_path = path.join(__dirname, '..', 'mine');
+let my_meta_path = path.join(my_root_path, 'meta');
+
+fs.ensureDirSync(my_meta_path);
+
+const json_path = path.join(my_meta_path, 'collections.json');
+const list_path = path.join(my_meta_path, 'collections.md');
+
 const collection_href = `https://editor.p5js.org/editor/${user_name}/collections`;
 
 let href_read = 1;
