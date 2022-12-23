@@ -9,9 +9,10 @@ require('dotenv').config();
 const user_name = process.env.USER_NAME || 'jht1493';
 console.log('user_name', user_name);
 
-let my_root_path = path.join(__dirname, '..', 'mine');
+let my_zips = 'zips';
+let my_root_path = path.join(__dirname, '..', 'downloads');
 let my_meta_path = path.join(my_root_path, 'meta');
-let my_sketches_path = path.join(my_root_path, 'sketches');
+let my_sketches_path = path.join(my_root_path, my_zips);
 
 fs.ensureDirSync(my_meta_path);
 fs.ensureDirSync(my_sketches_path);
@@ -51,12 +52,8 @@ function list_sketches(sks, list_path) {
     let name = item.name;
     let id = item.id;
     let updatedAt = item.updatedAt;
-    lines.push(
-      `[${name}](https://editor.p5js.org/${user_name}/sketches/${id})<!-- ${updatedAt} -->  `
-    );
-    download_lines.push(
-      `curl https://editor.p5js.org/editor/projects/${id}/zip -o "mine/sketches/${name}.zip"`
-    );
+    lines.push(`[${name}](https://editor.p5js.org/${user_name}/sketches/${id})<!-- ${updatedAt} -->  `);
+    download_lines.push(`curl https://editor.p5js.org/editor/projects/${id}/zip -o "mine/${my_zips}/${name}.zip"`);
   });
   fs.writeFileSync(list_path, lines.join('\n'));
   fs.writeFileSync(download_sh_path, download_lines.join('\n'));

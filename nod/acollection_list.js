@@ -7,7 +7,7 @@ require('dotenv').config();
 const user_name = process.env.USER_NAME || 'jht1493';
 console.log('user_name', user_name);
 
-let my_root_path = path.join(__dirname, '..', 'mine');
+let my_root_path = path.join(__dirname, '..', 'downloads');
 let my_meta_path = path.join(my_root_path, 'meta');
 
 fs.ensureDirSync(my_meta_path);
@@ -45,9 +45,7 @@ function cols_as_links(cols, lines) {
     let id = item.id;
     let updatedAt = item.updatedAt;
     updatedAt = `<!-- ${updatedAt} -->`;
-    lines.push(
-      `[${name}](https://editor.p5js.org/${user_name}/collections/${id})${updatedAt}  `
-    );
+    lines.push(`[${name}](https://editor.p5js.org/${user_name}/collections/${id})${updatedAt}  `);
   });
 }
 
@@ -60,9 +58,7 @@ function cols_item_as_links(col, lines) {
   items = items.filter((item) => item.project && item.project.name);
   lines.push(items.length + ' sketches  ');
   // console.log(items.length + ' sketches  ');
-  items.sort((item1, item2) =>
-    item1.project.name.localeCompare(item2.project.name)
-  );
+  items.sort((item1, item2) => item1.project.name.localeCompare(item2.project.name));
   items.forEach((item) => {
     // console.log(index, 'project.name', item.project.name);
     // console.log(index, 'projectId', item.projectId);
@@ -71,9 +67,7 @@ function cols_item_as_links(col, lines) {
     let updatedAt = item.updatedAt;
     updatedAt = `<!-- ${updatedAt} -->`;
     updatedAt = ''; // !!@ Disable
-    lines.push(
-      `[${name}](https://editor.p5js.org/${user_name}/sketches/${id})${updatedAt}  `
-    );
+    lines.push(`[${name}](https://editor.p5js.org/${user_name}/sketches/${id})${updatedAt}  `);
   });
 }
 
