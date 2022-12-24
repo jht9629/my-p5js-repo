@@ -10,8 +10,10 @@ const user_name = process.env.USER_NAME || 'jht1493';
 console.log('user_name', user_name);
 
 let my_zips = 'zips';
-let my_root_path = path.join(__dirname, '..', 'downloads');
-let my_meta_path = path.join(my_root_path, 'meta');
+let my_downloads = 'downloads';
+let my_meta = 'meta';
+let my_root_path = path.join(__dirname, '..', my_downloads);
+let my_meta_path = path.join(my_root_path, my_meta);
 let my_sketches_path = path.join(my_root_path, my_zips);
 
 fs.ensureDirSync(my_meta_path);
@@ -53,7 +55,9 @@ function list_sketches(sks, list_path) {
     let id = item.id;
     let updatedAt = item.updatedAt;
     lines.push(`[${name}](https://editor.p5js.org/${user_name}/sketches/${id})<!-- ${updatedAt} -->  `);
-    download_lines.push(`curl https://editor.p5js.org/editor/projects/${id}/zip -o "mine/${my_zips}/${name}.zip"`);
+    download_lines.push(
+      `curl https://editor.p5js.org/editor/projects/${id}/zip -o "${my_downloads}/${my_zips}/${name}.zip"`
+    );
   });
   fs.writeFileSync(list_path, lines.join('\n'));
   fs.writeFileSync(download_sh_path, download_lines.join('\n'));
