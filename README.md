@@ -21,15 +21,15 @@ curl https://editor.p5js.org/editor/projects/WJFtFBmnK/zip -o "skt/1.1 draw_rect
 https://p5-project-downloader.herokuapp.com/
 https://github.com/jnsjknn/p5-project-downloader
 
-# --
----- Plan
+# -- Plan
 
 [] more words
+  download nodejs/npm
+  npm install
 [] github pages
 
 
-# --
----- Done
+# -- Done
 
 [x] env param for user_name jht1493
 
