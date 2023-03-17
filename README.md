@@ -8,9 +8,9 @@ Create listing of scripts and collections.
 
 # --
 
-node nod/asketches_list.js
+node node/asketches_list.js
 
-node nod/acollection_list.js
+node node/acollection_list.js
 
 # --
 
