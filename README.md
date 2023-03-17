@@ -8,6 +8,13 @@ Create listing of scripts and collections.
 
 # --
 
+# setup
+
+cd node
+npm install
+
+# --
+
 node node/asketches_list.js
 
 node node/acollection_list.js

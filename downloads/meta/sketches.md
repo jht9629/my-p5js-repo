@@ -1,5 +1,5 @@
 # Sketches for jht1493
-1372 sketches  
+1382 sketches  
 [[P.COMP] Positional LED Sampler Manual Change copy](https://editor.p5js.org/jht1493/sketches/OOqwT3Smj)<!-- 2022-12-14T20:42:28.368Z -->  
 [1.1 draw_rect](https://editor.p5js.org/jht1493/sketches/WJFtFBmnK)<!-- 2021-03-21T20:48:04.012Z -->  
 [1.1 draw_rect_alpha](https://editor.p5js.org/jht1493/sketches/6mrwOv4RD)<!-- 2021-04-10T03:22:07.691Z -->  
@@ -382,7 +382,7 @@
 [bestill](https://editor.p5js.org/jht1493/sketches/pBfGnmnLe)<!-- 2020-10-23T20:11:25.449Z -->  
 [BLM](https://editor.p5js.org/jht1493/sketches/Nh7trPsS8)<!-- 2022-04-20T21:31:00.445Z -->  
 [BLM-full-window](https://editor.p5js.org/jht1493/sketches/wwke5rmjl)<!-- 2020-09-26T07:19:49.849Z -->  
-[blur halo copy](https://editor.p5js.org/jht1493/sketches/96FIUb5Vs)<!-- 2022-12-23T18:20:58.162Z -->  
+[blur halo copy](https://editor.p5js.org/jht1493/sketches/96FIUb5Vs)<!-- 2022-12-30T08:05:19.758Z -->  
 [BodyPix_Image copy](https://editor.p5js.org/jht1493/sketches/10qVaP4HX)<!-- 2021-12-06T22:59:07.813Z -->  
 [BodyPix_Image copy](https://editor.p5js.org/jht1493/sketches/MXIp1cNJv)<!-- 2021-12-06T22:52:45.512Z -->  
 [BodyPix_Webcam copy](https://editor.p5js.org/jht1493/sketches/6qILI_M_g)<!-- 2021-12-06T22:11:58.136Z -->  
@@ -450,6 +450,8 @@
 [CC 143: QuickSort Visualization copy](https://editor.p5js.org/jht1493/sketches/FJRHfNv6a)<!-- 2021-07-03T02:04:24.215Z -->  
 [CC 167: Prime (Ulam) Spiral copy](https://editor.p5js.org/jht1493/sketches/IY3XrOjnX)<!-- 2022-06-11T22:04:02.016Z -->  
 [CC 58 - Earthquake Visualization 3D copy](https://editor.p5js.org/jht1493/sketches/CAJz58Up0)<!-- 2022-11-21T23:32:37.931Z -->  
+[ccp hello div](https://editor.p5js.org/jht1493/sketches/8bR0_MgLU)<!-- 2023-03-15T14:15:09.719Z -->  
+[ccp x y span](https://editor.p5js.org/jht1493/sketches/m7HULxhHV)<!-- 2023-03-15T14:25:43.320Z -->  
 [checkbox ui](https://editor.p5js.org/jht1493/sketches/0biWSEZBr)<!-- 2020-10-22T09:07:10.845Z -->  
 [checkbox ui text](https://editor.p5js.org/jht1493/sketches/Z646Pkcmf)<!-- 2020-10-22T09:07:46.765Z -->  
 [Checker protoceratops copy Martha](https://editor.p5js.org/jht1493/sketches/GwSvgjIjD)<!-- 2021-10-06T16:39:08.995Z -->  
@@ -747,6 +749,8 @@
 [Final Project - Coral Reefs copy](https://editor.p5js.org/jht1493/sketches/eP18pZoUW)<!-- 2020-12-10T18:21:41.013Z -->  
 [final project-Pong game copy](https://editor.p5js.org/jht1493/sketches/_w0P3YNQP)<!-- 2022-12-12T20:10:42.501Z -->  
 [final project-Pong game copy](https://editor.p5js.org/jht1493/sketches/R4inRVKg6)<!-- 2022-12-10T05:13:38.647Z -->  
+[Firebase-createImg-board](https://editor.p5js.org/jht1493/sketches/5LgILr8RF)<!-- 2023-01-21T02:23:44.837Z -->  
+[Firebase-createImg-slide-show](https://editor.p5js.org/jht1493/sketches/sM0Hl8r8N)<!-- 2023-01-21T14:56:41.609Z -->  
 [Flicker skirt copy](https://editor.p5js.org/jht1493/sketches/rzkZZkbH9)<!-- 2020-11-12T01:41:11.978Z -->  
 [FluteSoundSynthesis copy](https://editor.p5js.org/jht1493/sketches/rWPClKjOB)<!-- 2022-11-30T14:36:22.327Z -->  
 [font8x8 covid19](https://editor.p5js.org/jht1493/sketches/zi7nDCHC1)<!-- 2021-01-01T19:59:13.600Z -->  
@@ -892,7 +896,10 @@
 [ICM-06 Exercise - ICM 21 Week 4 - Hover over columns with a loop copy](https://editor.p5js.org/jht1493/sketches/kJLu-ss-8)<!-- 2021-09-29T19:45:38.106Z -->  
 [image mirror trans scale copy](https://editor.p5js.org/jht1493/sketches/9ovi-hIiP)<!-- 2020-10-28T20:15:09.142Z -->  
 [image-slideshow-carousel copy](https://editor.p5js.org/jht1493/sketches/aKfEKliRc)<!-- 2022-12-07T19:26:32.410Z -->  
+[IMS - Truchet func 11](https://editor.p5js.org/jht1493/sketches/oP_wBebdW)<!-- 2023-03-17T16:03:57.149Z -->  
+[IMS - Truchet Vamoss](https://editor.p5js.org/jht1493/sketches/TtXLXAiJv)<!-- 2023-03-17T16:03:15.471Z -->  
 [Innovative flag copy](https://editor.p5js.org/jht1493/sketches/Ez3s7skF8)<!-- 2021-09-07T14:39:01.984Z -->  
+[Insidious violet](https://editor.p5js.org/jht1493/sketches/73TkiEqVD)<!-- 2023-02-07T16:57:29.586Z -->  
 [int vs. Math.trunc](https://editor.p5js.org/jht1493/sketches/bt1hw69uh)<!-- 2021-03-04T20:53:29.879Z -->  
 [intro to class](https://editor.p5js.org/jht1493/sketches/v8N8pF3Yy)<!-- 2022-10-18T02:19:03.432Z -->  
 [Iris suggestion](https://editor.p5js.org/jht1493/sketches/tYPCyiFZj)<!-- 2020-10-03T06:21:09.163Z -->  
@@ -913,18 +920,20 @@
 [loadImage 1](https://editor.p5js.org/jht1493/sketches/lngaszMGr)<!-- 2020-10-23T15:12:28.704Z -->  
 [loadImage tile](https://editor.p5js.org/jht1493/sketches/C18P0IIfV)<!-- 2020-10-28T21:11:59.010Z -->  
 [loadImage tile copy](https://editor.p5js.org/jht1493/sketches/0OfZ7dWv8)<!-- 2020-10-28T18:12:15.828Z -->  
+[LOADING and PLAYING VIDEO v6 VVV BB](https://editor.p5js.org/jht1493/sketches/raR7KFAWH)<!-- 2023-03-15T18:47:26.643Z -->  
 [loadJSON](https://editor.p5js.org/jht1493/sketches/tNaIcnYYt)<!-- 2020-11-24T19:54:17.883Z -->  
 [loadJSON c19 format + c_regions](https://editor.p5js.org/jht1493/sketches/fGU4wVifo)<!-- 2021-02-03T03:34:17.259Z -->  
 [loadJSON c19 raw nyc](https://editor.p5js.org/jht1493/sketches/XjH38EgqI)<!-- 2020-12-18T13:58:37.993Z -->  
 [loadJSON c19 raw.githubusercontent](https://editor.p5js.org/jht1493/sketches/7TQS9SrUT)<!-- 2020-12-18T13:54:39.373Z -->  
 [loadJSON c19 selection](https://editor.p5js.org/jht1493/sketches/YNQ6UgGUL)<!-- 2021-02-03T03:29:29.325Z -->  
 [loadJSON c19 series](https://editor.p5js.org/jht1493/sketches/eIKzFZ1rv)<!-- 2021-02-10T20:58:44.149Z -->  
-[loadJSON c19 series brooklyn](https://editor.p5js.org/jht1493/sketches/bxiT7lMbt)<!-- 2022-06-26T17:54:18.616Z -->  
+[loadJSON c19 series brooklyn](https://editor.p5js.org/jht1493/sketches/bxiT7lMbt)<!-- 2023-01-23T01:06:11.835Z -->  
 [loadJSON c19 series brooklyn shape](https://editor.p5js.org/jht1493/sketches/evFtS3PGD)<!-- 2021-02-10T23:04:55.667Z -->  
+[loadJSON c19 series manhattan](https://editor.p5js.org/jht1493/sketches/yyKhJWpyi)<!-- 2023-01-23T21:56:06.083Z -->  
 [loadJSON c19 sorted](https://editor.p5js.org/jht1493/sketches/FxbTpVyyL)<!-- 2020-12-18T13:36:40.870Z -->  
 [loadJSON c19 ui](https://editor.p5js.org/jht1493/sketches/Yi6VAAcN1)<!-- 2020-12-18T13:35:25.881Z -->  
 [loadJSON covid-19](https://editor.p5js.org/jht1493/sketches/JG-Wh7SQz)<!-- 2022-11-29T13:54:45.649Z -->  
-[loadJSON covid19 graph](https://editor.p5js.org/jht1493/sketches/1ZajWH3S8)<!-- 2022-11-29T13:55:13.724Z -->  
+[loadJSON covid19 graph](https://editor.p5js.org/jht1493/sketches/1ZajWH3S8)<!-- 2023-01-23T01:06:15.491Z -->  
 [local vs. global](https://editor.p5js.org/jht1493/sketches/dSbNTgyFe)<!-- 2021-09-16T00:43:52.319Z -->  
 [lower mask](https://editor.p5js.org/jht1493/sketches/n146VMQSo)<!-- 2021-03-26T23:15:41.834Z -->  
 [LRCC22 - WK1 Exercise - Fix me 😃](https://editor.p5js.org/jht1493/sketches/6E9_gw8Tw)<!-- 2022-09-01T08:07:47.393Z -->  
@@ -1134,6 +1143,7 @@
 [show_span opt](https://editor.p5js.org/jht1493/sketches/GKJ_DbXKN)<!-- 2020-10-23T17:50:30.779Z -->  
 [Showy hedge](https://editor.p5js.org/jht1493/sketches/lI_EUFKmR)<!-- 2020-10-16T18:29:49.850Z -->  
 [Simple attraction](https://editor.p5js.org/jht1493/sketches/u1zPdS73I)<!-- 2022-10-14T18:04:54.233Z -->  
+[Simple Draw](https://editor.p5js.org/jht1493/sketches/B-_Nh-YX0)<!-- 2023-03-14T16:20:09.604Z -->  
 [single bubble](https://editor.p5js.org/jht1493/sketches/cB7UxUCfw)<!-- 2020-10-14T23:14:43.003Z -->  
 [slider checkbox ui text](https://editor.p5js.org/jht1493/sketches/o6D3U4yPp)<!-- 2022-09-19T14:28:57.340Z -->  
 [Slider Fun copy](https://editor.p5js.org/jht1493/sketches/ktxWHwZjH)<!-- 2020-10-01T00:37:27.534Z -->  
@@ -1182,7 +1192,6 @@
 [tint-red copy](https://editor.p5js.org/jht1493/sketches/r3Zc11p9E)<!-- 2021-04-01T09:49:50.124Z -->  
 [Truchet func](https://editor.p5js.org/jht1493/sketches/V2ifPvqiw)<!-- 2022-07-24T00:21:59.853Z -->  
 [Truchet func 10](https://editor.p5js.org/jht1493/sketches/SQrWvF9zQ)<!-- 2022-07-26T19:22:06.514Z -->  
-[Truchet func 11](https://editor.p5js.org/jht1493/sketches/oP_wBebdW)<!-- 2022-07-26T20:53:21.341Z -->  
 [Truchet func 2](https://editor.p5js.org/jht1493/sketches/u13JQBCSD)<!-- 2022-07-24T00:27:18.218Z -->  
 [Truchet func 3](https://editor.p5js.org/jht1493/sketches/f5vzsNvfR)<!-- 2022-07-24T00:47:01.410Z -->  
 [Truchet func 4](https://editor.p5js.org/jht1493/sketches/zOy0N1rYt)<!-- 2022-07-24T00:52:11.452Z -->  
@@ -1230,8 +1239,9 @@
 [video tint 1 copy](https://editor.p5js.org/jht1493/sketches/pdRYz8j-Z)<!-- 2020-10-28T18:30:17.788Z -->  
 [video tint 1 copy](https://editor.p5js.org/jht1493/sketches/8ZdK6eHLU)<!-- 2020-10-28T13:38:37.317Z -->  
 [video tint 1 copy copy](https://editor.p5js.org/jht1493/sketches/I1_qBk0qr)<!-- 2020-10-28T14:21:54.957Z -->  
-[video tint 2x2](https://editor.p5js.org/jht1493/sketches/Zx8JnxZfw)<!-- 2020-10-28T21:13:25.133Z -->  
+[video tint 2x2](https://editor.p5js.org/jht1493/sketches/Zx8JnxZfw)<!-- 2023-02-06T00:05:29.335Z -->  
 [video tint 2x2 copy](https://editor.p5js.org/jht1493/sketches/4geC-l8p3)<!-- 2020-10-28T18:41:46.716Z -->  
+[video tint 2x2 mobile](https://editor.p5js.org/jht1493/sketches/QYlq2DxmM)<!-- 2023-03-14T13:58:22.760Z -->  
 [vote blue 2020](https://editor.p5js.org/jht1493/sketches/4Ne9jbVPW)<!-- 2020-10-06T17:06:29.373Z -->  
 [vvv paint3 jht](https://editor.p5js.org/jht1493/sketches/AIslzEjVd)<!-- 2022-09-23T17:32:42.839Z -->  
 [W1 pixel portrait](https://editor.p5js.org/jht1493/sketches/Cw3zmIgLj)<!-- 2020-08-26T15:47:10.413Z -->  
